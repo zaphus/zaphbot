@@ -4,14 +4,6 @@
   "round":10,
   "tips": [
     { 
-    "home":"Geelong",
-    "away":"Port Adelaide",
-    "winner":"Geelong",
-    "margin":7,
-    "probability":0.57
-    }
-    ,
-    { 
     "home":"Greater Western Sydney",
     "away":"West Coast",
     "winner":"Greater Western Sydney",
@@ -39,16 +31,8 @@
     "home":"Richmond",
     "away":"Essendon",
     "winner":"Richmond",
-    "margin":14,
-    "probability":0.63
-    }
-    ,
-    { 
-    "home":"Western Bulldogs",
-    "away":"Gold Coast",
-    "winner":"Western Bulldogs",
-    "margin":31,
-    "probability":0.78
+    "margin":12,
+    "probability":0.61
     }
     ,
     { 
