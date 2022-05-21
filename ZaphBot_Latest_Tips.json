@@ -7,7 +7,7 @@
     "home":"Greater Western Sydney",
     "away":"West Coast",
     "winner":"Greater Western Sydney",
-    "margin":34,
+    "margin":35,
     "probability":0.81
     }
     ,
@@ -20,35 +20,11 @@
     }
     ,
     { 
-    "home":"North Melbourne",
-    "away":"Melbourne",
-    "winner":"Melbourne",
-    "margin":46,
-    "probability":0.90
-    }
-    ,
-    { 
-    "home":"Richmond",
-    "away":"Essendon",
-    "winner":"Richmond",
-    "margin":12,
-    "probability":0.61
-    }
-    ,
-    { 
-    "home":"Adelaide",
-    "away":"St Kilda",
-    "winner":"St Kilda",
-    "margin":18,
-    "probability":0.67
-    }
-    ,
-    { 
     "home":"Fremantle",
     "away":"Collingwood",
     "winner":"Fremantle",
-    "margin":14,
-    "probability":0.63
+    "margin":15,
+    "probability":0.64
     }
   ]
 }
