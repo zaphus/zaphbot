@@ -1,30 +1,78 @@
 {
   "botname":"KevBot",
   "season":2022,
-  "round":10,
+  "round":11,
   "tips": [
     { 
-    "home":"Greater Western Sydney",
-    "away":"West Coast",
-    "winner":"Greater Western Sydney",
+    "home":"Brisbane Lions",
+    "away":"Greater Western Sydney",
+    "winner":"Brisbane Lions",
+    "margin":30,
+    "probability":0.77
+    }
+    ,
+    { 
+    "home":"Collingwood",
+    "away":"Carlton",
+    "winner":"Collingwood",
+    "margin":7,
+    "probability":0.57
+    }
+    ,
+    { 
+    "home":"Geelong",
+    "away":"Adelaide",
+    "winner":"Geelong",
     "margin":35,
     "probability":0.81
     }
     ,
     { 
-    "home":"Hawthorn",
-    "away":"Brisbane Lions",
-    "winner":"Brisbane Lions",
-    "margin":16,
-    "probability":0.65
+    "home":"Melbourne",
+    "away":"Fremantle",
+    "winner":"Melbourne",
+    "margin":38,
+    "probability":0.84
     }
     ,
     { 
-    "home":"Fremantle",
-    "away":"Collingwood",
-    "winner":"Fremantle",
-    "margin":15,
-    "probability":0.64
+    "home":"St Kilda",
+    "away":"North Melbourne",
+    "winner":"St Kilda",
+    "margin":41,
+    "probability":0.87
+    }
+    ,
+    { 
+    "home":"Sydney",
+    "away":"Richmond",
+    "winner":"Sydney",
+    "margin":18,
+    "probability":0.67
+    }
+    ,
+    { 
+    "home":"Gold Coast",
+    "away":"Hawthorn",
+    "winner":"Gold Coast",
+    "margin":2,
+    "probability":0.53
+    }
+    ,
+    { 
+    "home":"Port Adelaide",
+    "away":"Essendon",
+    "winner":"Port Adelaide",
+    "margin":22,
+    "probability":0.70
+    }
+    ,
+    { 
+    "home":"West Coast",
+    "away":"Western Bulldogs",
+    "winner":"Western Bulldogs",
+    "margin":34,
+    "probability":0.81
     }
   ]
 }
