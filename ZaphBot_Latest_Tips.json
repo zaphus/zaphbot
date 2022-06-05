@@ -1,38 +1,54 @@
 {
   "botname":"KevBot",
   "season":2022,
-  "round":12,
+  "round":13,
   "tips": [
     { 
-    "home":"Hawthorn",
-    "away":"Collingwood",
-    "winner":"Hawthorn",
+    "home":"Brisbane Lions",
+    "away":"St Kilda",
+    "winner":"Brisbane Lions",
+    "margin":8,
+    "probability":0.58
+    }
+    ,
+    { 
+    "home":"Collingwood",
+    "away":"Melbourne",
+    "winner":"Melbourne",
+    "margin":19,
+    "probability":0.68
+    }
+    ,
+    { 
+    "home":"Essendon",
+    "away":"Carlton",
+    "winner":"Essendon",
     "margin":1,
     "probability":0.52
     }
     ,
     { 
-    "home":"Melbourne",
-    "away":"Sydney",
-    "winner":"Melbourne",
+    "home":"North Melbourne",
+    "away":"Greater Western Sydney",
+    "winner":"Greater Western Sydney",
     "margin":14,
     "probability":0.63
     }
     ,
     { 
-    "home":"Gold Coast",
-    "away":"North Melbourne",
-    "winner":"Gold Coast",
-    "margin":34,
-    "probability":0.81
+    "home":"Richmond",
+    "away":"Port Adelaide",
+    "winner":"Port Adelaide",
+    "margin":1,
+    "probability":0.52
     }
     ,
     { 
     "home":"Fremantle",
-    "away":"Brisbane Lions",
-    "winner":"Brisbane Lions",
-    "margin":3,
-    "probability":0.54
+    "away":"Hawthorn",
+    "winner":"Fremantle",
+    "margin":18,
+    "probability":0.67
     }
   ]
 }
