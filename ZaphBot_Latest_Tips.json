@@ -15,16 +15,8 @@
     "home":"Greater Western Sydney",
     "away":"Western Bulldogs",
     "winner":"Greater Western Sydney",
-    "margin":1,
-    "probability":0.52
-    }
-    ,
-    { 
-    "home":"Richmond",
-    "away":"Carlton",
-    "winner":"Richmond",
-    "margin":8,
-    "probability":0.58
+    "margin":2,
+    "probability":0.53
     }
     ,
     { 
