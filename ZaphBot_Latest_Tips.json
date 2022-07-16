@@ -4,27 +4,11 @@
   "round":18,
   "tips": [
     { 
-    "home":"Carlton",
-    "away":"Geelong",
-    "winner":"Geelong",
-    "margin":3,
-    "probability":0.54
-    }
-    ,
-    { 
     "home":"Essendon",
     "away":"Gold Coast",
     "winner":"Essendon",
-    "margin":4,
-    "probability":0.54
-    }
-    ,
-    { 
-    "home":"Greater Western Sydney",
-    "away":"Brisbane Lions",
-    "winner":"Brisbane Lions",
-    "margin":11,
-    "probability":0.61
+    "margin":1,
+    "probability":0.52
     }
     ,
     { 
@@ -36,43 +20,11 @@
     }
     ,
     { 
-    "home":"North Melbourne",
-    "away":"Richmond",
-    "winner":"Richmond",
-    "margin":29,
-    "probability":0.76
-    }
-    ,
-    { 
-    "home":"Western Bulldogs",
-    "away":"St Kilda",
-    "winner":"Western Bulldogs",
-    "margin":9,
-    "probability":0.59
-    }
-    ,
-    { 
-    "home":"Adelaide",
-    "away":"Collingwood",
-    "winner":"Collingwood",
-    "margin":5,
-    "probability":0.55
-    }
-    ,
-    { 
     "home":"Melbourne",
     "away":"Port Adelaide",
     "winner":"Melbourne",
-    "margin":14,
-    "probability":0.63
-    }
-    ,
-    { 
-    "home":"Fremantle",
-    "away":"Sydney",
-    "winner":"Sydney",
-    "margin":1,
-    "probability":0.52
+    "margin":11,
+    "probability":0.61
     }
   ]
 }
