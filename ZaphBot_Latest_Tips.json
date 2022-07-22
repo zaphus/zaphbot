@@ -36,14 +36,6 @@
     }
     ,
     { 
-    "home":"Richmond",
-    "away":"Fremantle",
-    "winner":"Richmond",
-    "margin":6,
-    "probability":0.56
-    }
-    ,
-    { 
     "home":"Sydney",
     "away":"Adelaide",
     "winner":"Sydney",
@@ -55,8 +47,8 @@
     "home":"Western Bulldogs",
     "away":"Melbourne",
     "winner":"Melbourne",
-    "margin":1,
-    "probability":0.52
+    "margin":2,
+    "probability":0.53
     }
     ,
     { 
