@@ -1,22 +1,14 @@
 {
   "botname":"KevBot",
   "season":2022,
-  "round":26,
+  "round":27,
   "tips": [
     { 
     "home":"Geelong",
-    "away":"Brisbane Lions",
+    "away":"Sydney",
     "winner":"Geelong",
-    "margin":16,
-    "probability":0.65
-    }
-    ,
-    { 
-    "home":"Sydney",
-    "away":"Collingwood",
-    "winner":"Sydney",
-    "margin":16,
-    "probability":0.65
+    "margin":17,
+    "probability":0.66
     }
   ]
 }
