@@ -1,14 +1,78 @@
 {
   "botname":"KevBot",
-  "season":2022,
-  "round":27,
+  "season":2023,
+  "round":1,
   "tips": [
     { 
+    "home":"Richmond",
+    "away":"Carlton",
+    "winner":"Richmond",
+    "margin":9,
+    "probability":0.59
+    }
+    ,
+    { 
     "home":"Geelong",
-    "away":"Sydney",
+    "away":"Collingwood",
     "winner":"Geelong",
-    "margin":17,
-    "probability":0.66
+    "margin":26,
+    "probability":0.74
+    }
+    ,
+    { 
+    "home":"North Melbourne",
+    "away":"West Coast",
+    "winner":"North Melbourne",
+    "margin":6,
+    "probability":0.56
+    }
+    ,
+    { 
+    "home":"Port Adelaide",
+    "away":"Brisbane Lions",
+    "winner":"Port Adelaide",
+    "margin":15,
+    "probability":0.64
+    }
+    ,
+    { 
+    "home":"Melbourne",
+    "away":"Western Bulldogs",
+    "winner":"Melbourne",
+    "margin":13,
+    "probability":0.62
+    }
+    ,
+    { 
+    "home":"Gold Coast",
+    "away":"Sydney",
+    "winner":"Sydney",
+    "margin":1,
+    "probability":0.52
+    }
+    ,
+    { 
+    "home":"Greater Western Sydney",
+    "away":"Adelaide",
+    "winner":"Greater Western Sydney",
+    "margin":3,
+    "probability":0.54
+    }
+    ,
+    { 
+    "home":"Hawthorn",
+    "away":"Essendon",
+    "winner":"Hawthorn",
+    "margin":8,
+    "probability":0.58
+    }
+    ,
+    { 
+    "home":"St Kilda",
+    "away":"Fremantle",
+    "winner":"St Kilda",
+    "margin":1,
+    "probability":0.52
     }
   ]
 }
