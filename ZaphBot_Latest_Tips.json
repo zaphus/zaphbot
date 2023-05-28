@@ -1,78 +1,62 @@
 {
   "botname":"KevBot",
   "season":2023,
-  "round":11,
+  "round":12,
   "tips": [
     { 
-    "home":"Sydney",
-    "away":"Carlton",
-    "winner":"Sydney",
-    "margin":13,
-    "probability":0.62
-    }
-    ,
-    { 
-    "home":"St Kilda",
-    "away":"Hawthorn",
-    "winner":"St Kilda",
-    "margin":17,
-    "probability":0.66
-    }
-    ,
-    { 
     "home":"Melbourne",
-    "away":"Fremantle",
+    "away":"Carlton",
     "winner":"Melbourne",
-    "margin":18,
-    "probability":0.67
+    "margin":20,
+    "probability":0.68
     }
     ,
     { 
-    "home":"Geelong",
-    "away":"Greater Western Sydney",
-    "winner":"Geelong",
-    "margin":45,
-    "probability":0.90
-    }
-    ,
-    { 
-    "home":"Gold Coast",
-    "away":"Western Bulldogs",
-    "winner":"Western Bulldogs",
-    "margin":1,
-    "probability":0.52
+    "home":"Port Adelaide",
+    "away":"Hawthorn",
+    "winner":"Port Adelaide",
+    "margin":30,
+    "probability":0.77
     }
     ,
     { 
     "home":"West Coast",
-    "away":"Essendon",
-    "winner":"Essendon",
-    "margin":27,
-    "probability":0.74
-    }
-    ,
-    { 
-    "home":"Richmond",
-    "away":"Port Adelaide",
-    "winner":"Richmond",
-    "margin":7,
-    "probability":0.57
-    }
-    ,
-    { 
-    "home":"Collingwood",
-    "away":"North Melbourne",
+    "away":"Collingwood",
     "winner":"Collingwood",
-    "margin":45,
-    "probability":0.90
+    "margin":37,
+    "probability":0.83
     }
     ,
     { 
-    "home":"Adelaide",
-    "away":"Brisbane Lions",
-    "winner":"Brisbane Lions",
-    "margin":1,
-    "probability":0.52
+    "home":"Western Bulldogs",
+    "away":"Geelong",
+    "winner":"Geelong",
+    "margin":10,
+    "probability":0.60
+    }
+    ,
+    { 
+    "home":"Gold Coast",
+    "away":"Adelaide",
+    "winner":"Gold Coast",
+    "margin":3,
+    "probability":0.54
+    }
+    ,
+    { 
+    "home":"Greater Western Sydney",
+    "away":"Richmond",
+    "winner":"Richmond",
+    "margin":3,
+    "probability":0.54
+    }
+    ,
+    { 
+    "home":"Essendon",
+    "away":"North Melbourne",
+    "winner":"Essendon",
+    "margin":35,
+    "probability":0.81
     }
   ]
 }
