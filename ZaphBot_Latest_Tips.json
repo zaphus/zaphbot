@@ -15,8 +15,8 @@
     "home":"Port Adelaide",
     "away":"Hawthorn",
     "winner":"Port Adelaide",
-    "margin":30,
-    "probability":0.77
+    "margin":29,
+    "probability":0.76
     }
     ,
     { 
@@ -55,7 +55,7 @@
     "home":"Essendon",
     "away":"North Melbourne",
     "winner":"Essendon",
-    "margin":35,
+    "margin":34,
     "probability":0.81
     }
   ]
