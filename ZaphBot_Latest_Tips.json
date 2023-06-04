@@ -1,62 +1,70 @@
 {
   "botname":"KevBot",
   "season":2023,
-  "round":12,
+  "round":13,
   "tips": [
     { 
-    "home":"Melbourne",
-    "away":"Carlton",
-    "winner":"Melbourne",
-    "margin":20,
-    "probability":0.68
-    }
-    ,
-    { 
-    "home":"Port Adelaide",
-    "away":"Hawthorn",
-    "winner":"Port Adelaide",
-    "margin":29,
-    "probability":0.76
-    }
-    ,
-    { 
-    "home":"West Coast",
-    "away":"Collingwood",
-    "winner":"Collingwood",
-    "margin":37,
-    "probability":0.83
+    "home":"Sydney",
+    "away":"St Kilda",
+    "winner":"Sydney",
+    "margin":13,
+    "probability":0.62
     }
     ,
     { 
     "home":"Western Bulldogs",
-    "away":"Geelong",
-    "winner":"Geelong",
+    "away":"Port Adelaide",
+    "winner":"Western Bulldogs",
+    "margin":1,
+    "probability":0.52
+    }
+    ,
+    { 
+    "home":"Hawthorn",
+    "away":"Brisbane Lions",
+    "winner":"Brisbane Lions",
     "margin":10,
     "probability":0.60
     }
     ,
     { 
-    "home":"Gold Coast",
-    "away":"Adelaide",
-    "winner":"Gold Coast",
-    "margin":3,
-    "probability":0.54
+    "home":"Adelaide",
+    "away":"West Coast",
+    "winner":"Adelaide",
+    "margin":46,
+    "probability":0.90
     }
     ,
     { 
-    "home":"Greater Western Sydney",
+    "home":"Fremantle",
     "away":"Richmond",
-    "winner":"Richmond",
-    "margin":3,
-    "probability":0.54
+    "winner":"Fremantle",
+    "margin":6,
+    "probability":0.56
     }
     ,
     { 
-    "home":"Essendon",
-    "away":"North Melbourne",
-    "winner":"Essendon",
-    "margin":34,
-    "probability":0.81
+    "home":"North Melbourne",
+    "away":"Greater Western Sydney",
+    "winner":"Greater Western Sydney",
+    "margin":5,
+    "probability":0.55
+    }
+    ,
+    { 
+    "home":"Carlton",
+    "away":"Essendon",
+    "winner":"Carlton",
+    "margin":1,
+    "probability":0.52
+    }
+    ,
+    { 
+    "home":"Melbourne",
+    "away":"Collingwood",
+    "winner":"Melbourne",
+    "margin":2,
+    "probability":0.53
     }
   ]
 }
