@@ -1,70 +1,54 @@
 {
   "botname":"KevBot",
   "season":2023,
-  "round":13,
+  "round":14,
   "tips": [
     { 
-    "home":"Sydney",
-    "away":"St Kilda",
-    "winner":"Sydney",
-    "margin":13,
-    "probability":0.62
+    "home":"Port Adelaide",
+    "away":"Geelong",
+    "winner":"Geelong",
+    "margin":3,
+    "probability":0.54
     }
     ,
     { 
-    "home":"Western Bulldogs",
-    "away":"Port Adelaide",
-    "winner":"Western Bulldogs",
-    "margin":1,
-    "probability":0.52
-    }
-    ,
-    { 
-    "home":"Hawthorn",
-    "away":"Brisbane Lions",
+    "home":"Brisbane Lions",
+    "away":"Sydney",
     "winner":"Brisbane Lions",
-    "margin":10,
-    "probability":0.60
+    "margin":7,
+    "probability":0.57
     }
     ,
     { 
-    "home":"Adelaide",
-    "away":"West Coast",
-    "winner":"Adelaide",
-    "margin":46,
-    "probability":0.90
-    }
-    ,
-    { 
-    "home":"Fremantle",
-    "away":"Richmond",
+    "home":"Greater Western Sydney",
+    "away":"Fremantle",
     "winner":"Fremantle",
-    "margin":6,
-    "probability":0.56
+    "margin":3,
+    "probability":0.54
     }
     ,
     { 
-    "home":"North Melbourne",
-    "away":"Greater Western Sydney",
-    "winner":"Greater Western Sydney",
-    "margin":5,
-    "probability":0.55
+    "home":"Richmond",
+    "away":"St Kilda",
+    "winner":"Richmond",
+    "margin":7,
+    "probability":0.57
     }
     ,
     { 
     "home":"Carlton",
-    "away":"Essendon",
+    "away":"Gold Coast",
     "winner":"Carlton",
-    "margin":1,
-    "probability":0.52
+    "margin":2,
+    "probability":0.53
     }
     ,
     { 
-    "home":"Melbourne",
-    "away":"Collingwood",
-    "winner":"Melbourne",
-    "margin":2,
-    "probability":0.53
+    "home":"North Melbourne",
+    "away":"Western Bulldogs",
+    "winner":"Western Bulldogs",
+    "margin":19,
+    "probability":0.68
     }
   ]
 }
