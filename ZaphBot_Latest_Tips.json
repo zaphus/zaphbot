@@ -1,54 +1,78 @@
 {
   "botname":"KevBot",
   "season":2023,
-  "round":15,
+  "round":16,
   "tips": [
     { 
-    "home":"Geelong",
-    "away":"Melbourne",
-    "winner":"Geelong",
-    "margin":6,
-    "probability":0.56
+    "home":"Brisbane Lions",
+    "away":"Richmond",
+    "winner":"Brisbane Lions",
+    "margin":9,
+    "probability":0.59
     }
     ,
     { 
-    "home":"St Kilda",
-    "away":"Brisbane Lions",
-    "winner":"St Kilda",
-    "margin":7,
-    "probability":0.57
-    }
-    ,
-    { 
-    "home":"Sydney",
-    "away":"West Coast",
-    "winner":"Sydney",
-    "margin":58,
-    "probability":0.90
-    }
-    ,
-    { 
-    "home":"Fremantle",
-    "away":"Essendon",
+    "home":"Essendon",
+    "away":"Port Adelaide",
     "winner":"Essendon",
+    "margin":1,
+    "probability":0.52
+    }
+    ,
+    { 
+    "home":"Gold Coast",
+    "away":"Collingwood",
+    "winner":"Collingwood",
     "margin":2,
     "probability":0.53
     }
     ,
     { 
-    "home":"Collingwood",
-    "away":"Adelaide",
-    "winner":"Collingwood",
-    "margin":12,
-    "probability":0.61
+    "home":"Hawthorn",
+    "away":"Carlton",
+    "winner":"Carlton",
+    "margin":6,
+    "probability":0.56
     }
     ,
     { 
-    "home":"Gold Coast",
-    "away":"Hawthorn",
-    "winner":"Gold Coast",
-    "margin":16,
-    "probability":0.65
+    "home":"Sydney",
+    "away":"Geelong",
+    "winner":"Sydney",
+    "margin":18,
+    "probability":0.67
+    }
+    ,
+    { 
+    "home":"Western Bulldogs",
+    "away":"Fremantle",
+    "winner":"Western Bulldogs",
+    "margin":7,
+    "probability":0.57
+    }
+    ,
+    { 
+    "home":"Adelaide",
+    "away":"North Melbourne",
+    "winner":"Adelaide",
+    "margin":33,
+    "probability":0.80
+    }
+    ,
+    { 
+    "home":"Melbourne",
+    "away":"Greater Western Sydney",
+    "winner":"Melbourne",
+    "margin":25,
+    "probability":0.73
+    }
+    ,
+    { 
+    "home":"West Coast",
+    "away":"St Kilda",
+    "winner":"St Kilda",
+    "margin":30,
+    "probability":0.77
     }
   ]
 }
