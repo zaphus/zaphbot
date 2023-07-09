@@ -1,78 +1,78 @@
 {
   "botname":"KevBot",
   "season":2023,
-  "round":17,
+  "round":18,
   "tips": [
     { 
-    "home":"Brisbane Lions",
-    "away":"West Coast",
-    "winner":"Brisbane Lions",
-    "margin":60,
-    "probability":0.90
+    "home":"Carlton",
+    "away":"Port Adelaide",
+    "winner":"Port Adelaide",
+    "margin":21,
+    "probability":0.69
     }
     ,
     { 
-    "home":"Essendon",
-    "away":"Adelaide",
-    "winner":"Essendon",
-    "margin":2,
-    "probability":0.53
+    "home":"Collingwood",
+    "away":"Fremantle",
+    "winner":"Collingwood",
+    "margin":74,
+    "probability":0.90
     }
     ,
     { 
     "home":"Geelong",
-    "away":"North Melbourne",
+    "away":"Essendon",
     "winner":"Geelong",
-    "margin":49,
-    "probability":0.90
+    "margin":5,
+    "probability":0.55
     }
     ,
     { 
-    "home":"Greater Western Sydney",
-    "away":"Hawthorn",
-    "winner":"Greater Western Sydney",
-    "margin":23,
-    "probability":0.71
+    "home":"Gold Coast",
+    "away":"St Kilda",
+    "winner":"Gold Coast",
+    "margin":4,
+    "probability":0.54
     }
     ,
     { 
-    "home":"Richmond",
-    "away":"Sydney",
-    "winner":"Sydney",
-    "margin":1,
-    "probability":0.52
-    }
-    ,
-    { 
-    "home":"St Kilda",
-    "away":"Melbourne",
+    "home":"Melbourne",
+    "away":"Brisbane Lions",
     "winner":"Melbourne",
-    "margin":6,
-    "probability":0.56
-    }
-    ,
-    { 
-    "home":"Western Bulldogs",
-    "away":"Collingwood",
-    "winner":"Collingwood",
     "margin":11,
     "probability":0.61
     }
     ,
     { 
-    "home":"Port Adelaide",
-    "away":"Gold Coast",
-    "winner":"Port Adelaide",
-    "margin":27,
-    "probability":0.74
+    "home":"North Melbourne",
+    "away":"Hawthorn",
+    "winner":"North Melbourne",
+    "margin":11,
+    "probability":0.61
     }
     ,
     { 
-    "home":"Fremantle",
-    "away":"Carlton",
-    "winner":"Carlton",
-    "margin":1,
-    "probability":0.52
+    "home":"Sydney",
+    "away":"Western Bulldogs",
+    "winner":"Sydney",
+    "margin":3,
+    "probability":0.54
+    }
+    ,
+    { 
+    "home":"Adelaide",
+    "away":"Greater Western Sydney",
+    "winner":"Adelaide",
+    "margin":57,
+    "probability":0.90
+    }
+    ,
+    { 
+    "home":"West Coast",
+    "away":"Richmond",
+    "winner":"Richmond",
+    "margin":79,
+    "probability":0.90
     }
   ]
 }
