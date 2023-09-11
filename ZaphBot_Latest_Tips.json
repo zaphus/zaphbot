@@ -1,38 +1,22 @@
 {
   "botname":"KevBot",
   "season":2023,
-  "round":25,
+  "round":26,
   "tips": [
     { 
-    "home":"Carlton",
-    "away":"Sydney",
-    "winner":"Carlton",
-    "margin":11,
-    "probability":0.61
-    }
-    ,
-    { 
-    "home":"St Kilda",
-    "away":"Greater Western Sydney",
-    "winner":"St Kilda",
+    "home":"Melbourne",
+    "away":"Carlton",
+    "winner":"Melbourne",
     "margin":1,
     "probability":0.52
     }
     ,
     { 
-    "home":"Collingwood",
-    "away":"Melbourne",
-    "winner":"Collingwood",
-    "margin":10,
-    "probability":0.60
-    }
-    ,
-    { 
-    "home":"Brisbane Lions",
-    "away":"Port Adelaide",
-    "winner":"Brisbane Lions",
-    "margin":8,
-    "probability":0.58
+    "home":"Port Adelaide",
+    "away":"Greater Western Sydney",
+    "winner":"Port Adelaide",
+    "margin":7,
+    "probability":0.57
     }
   ]
 }
