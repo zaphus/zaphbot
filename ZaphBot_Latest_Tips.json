@@ -1,46 +1,38 @@
 {
   "botname":"KevBot",
   "season":2024,
-  "round":1,
+  "round":0,
   "tips": [
     { 
-    "home":"Carlton",
+    "home":"Sydney",
+    "away":"Melbourne",
+    "winner":"Sydney",
+    "margin":1,
+    "probability":0.52
+    }
+    ,
+    { 
+    "home":"Brisbane Lions",
+    "away":"Carlton",
+    "winner":"Brisbane Lions",
+    "margin":5,
+    "probability":0.55
+    }
+    ,
+    { 
+    "home":"Gold Coast",
     "away":"Richmond",
-    "winner":"Carlton",
-    "margin":12,
-    "probability":0.61
-    }
-    ,
-    { 
-    "home":"Collingwood",
-    "away":"Sydney",
-    "winner":"Collingwood",
-    "margin":7,
-    "probability":0.57
-    }
-    ,
-    { 
-    "home":"Essendon",
-    "away":"Hawthorn",
-    "winner":"Hawthorn",
-    "margin":12,
-    "probability":0.61
+    "winner":"Gold Coast",
+    "margin":20,
+    "probability":0.68
     }
     ,
     { 
     "home":"Greater Western Sydney",
-    "away":"North Melbourne",
+    "away":"Collingwood",
     "winner":"Greater Western Sydney",
-    "margin":35,
-    "probability":0.81
-    }
-    ,
-    { 
-    "home":"Geelong",
-    "away":"St Kilda",
-    "winner":"Geelong",
-    "margin":11,
-    "probability":0.61
+    "margin":3,
+    "probability":0.54
     }
   ]
 }
