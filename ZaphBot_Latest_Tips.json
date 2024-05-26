@@ -1,78 +1,62 @@
 {
   "botname":"KevBot",
   "season":2024,
-  "round":11,
+  "round":12,
   "tips": [
     { 
-    "home":"Western Bulldogs",
-    "away":"Sydney",
-    "winner":"Sydney",
-    "margin":1,
-    "probability":0.52
-    }
-    ,
-    { 
-    "home":"Fremantle",
-    "away":"Collingwood",
-    "winner":"Fremantle",
-    "margin":2,
-    "probability":0.53
-    }
-    ,
-    { 
-    "home":"North Melbourne",
-    "away":"Port Adelaide",
+    "home":"Port Adelaide",
+    "away":"Carlton",
     "winner":"Port Adelaide",
-    "margin":29,
-    "probability":0.76
+    "margin":6,
+    "probability":0.56
     }
     ,
     { 
-    "home":"Carlton",
-    "away":"Gold Coast",
-    "winner":"Carlton",
-    "margin":17,
-    "probability":0.66
+    "home":"Collingwood",
+    "away":"Western Bulldogs",
+    "winner":"Collingwood",
+    "margin":5,
+    "probability":0.55
     }
     ,
     { 
-    "home":"Geelong",
-    "away":"Greater Western Sydney",
-    "winner":"Geelong",
-    "margin":1,
-    "probability":0.52
+    "home":"Hawthorn",
+    "away":"Adelaide",
+    "winner":"Adelaide",
+    "margin":9,
+    "probability":0.59
     }
     ,
     { 
-    "home":"Richmond",
-    "away":"Essendon",
-    "winner":"Essendon",
+    "home":"West Coast",
+    "away":"St Kilda",
+    "winner":"St Kilda",
     "margin":16,
     "probability":0.65
     }
     ,
     { 
-    "home":"Hawthorn",
-    "away":"Brisbane Lions",
-    "winner":"Brisbane Lions",
-    "margin":12,
-    "probability":0.61
+    "home":"Geelong",
+    "away":"Richmond",
+    "winner":"Geelong",
+    "margin":27,
+    "probability":0.74
     }
     ,
     { 
     "home":"Melbourne",
-    "away":"St Kilda",
+    "away":"Fremantle",
     "winner":"Melbourne",
-    "margin":11,
-    "probability":0.61
+    "margin":13,
+    "probability":0.62
     }
     ,
     { 
-    "home":"Adelaide",
-    "away":"West Coast",
-    "winner":"Adelaide",
-    "margin":25,
-    "probability":0.73
+    "home":"Gold Coast",
+    "away":"Essendon",
+    "winner":"Gold Coast",
+    "margin":12,
+    "probability":0.61
     }
   ]
 }
