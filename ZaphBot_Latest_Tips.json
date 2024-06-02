@@ -1,62 +1,70 @@
 {
   "botname":"KevBot",
   "season":2024,
-  "round":12,
+  "round":13,
   "tips": [
     { 
-    "home":"Port Adelaide",
-    "away":"Carlton",
-    "winner":"Port Adelaide",
-    "margin":6,
-    "probability":0.56
+    "home":"Adelaide",
+    "away":"Richmond",
+    "winner":"Adelaide",
+    "margin":39,
+    "probability":0.85
     }
     ,
     { 
-    "home":"Collingwood",
-    "away":"Western Bulldogs",
-    "winner":"Collingwood",
-    "margin":5,
-    "probability":0.55
+    "home":"Western Bulldogs",
+    "away":"Brisbane Lions",
+    "winner":"Western Bulldogs",
+    "margin":15,
+    "probability":0.64
     }
     ,
     { 
     "home":"Hawthorn",
-    "away":"Adelaide",
-    "winner":"Adelaide",
-    "margin":9,
-    "probability":0.59
+    "away":"Greater Western Sydney",
+    "winner":"Greater Western Sydney",
+    "margin":14,
+    "probability":0.63
     }
     ,
     { 
     "home":"West Coast",
-    "away":"St Kilda",
+    "away":"North Melbourne",
+    "winner":"West Coast",
+    "margin":18,
+    "probability":0.67
+    }
+    ,
+    { 
+    "home":"St Kilda",
+    "away":"Gold Coast",
     "winner":"St Kilda",
-    "margin":16,
-    "probability":0.65
-    }
-    ,
-    { 
-    "home":"Geelong",
-    "away":"Richmond",
-    "winner":"Geelong",
-    "margin":27,
-    "probability":0.74
-    }
-    ,
-    { 
-    "home":"Melbourne",
-    "away":"Fremantle",
-    "winner":"Melbourne",
-    "margin":13,
-    "probability":0.62
-    }
-    ,
-    { 
-    "home":"Gold Coast",
-    "away":"Essendon",
-    "winner":"Gold Coast",
     "margin":12,
     "probability":0.61
+    }
+    ,
+    { 
+    "home":"Sydney",
+    "away":"Geelong",
+    "winner":"Sydney",
+    "margin":15,
+    "probability":0.64
+    }
+    ,
+    { 
+    "home":"Essendon",
+    "away":"Carlton",
+    "winner":"Carlton",
+    "margin":21,
+    "probability":0.69
+    }
+    ,
+    { 
+    "home":"Collingwood",
+    "away":"Melbourne",
+    "winner":"Collingwood",
+    "margin":4,
+    "probability":0.54
     }
   ]
 }
