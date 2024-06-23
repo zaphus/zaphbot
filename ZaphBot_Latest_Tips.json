@@ -1,54 +1,78 @@
 {
   "botname":"KevBot",
   "season":2024,
-  "round":15,
+  "round":16,
   "tips": [
     { 
-    "home":"Carlton",
-    "away":"Geelong",
-    "winner":"Carlton",
-    "margin":6,
-    "probability":0.56
-    }
-    ,
-    { 
-    "home":"Port Adelaide",
-    "away":"Brisbane Lions",
+    "home":"Brisbane Lions",
+    "away":"Melbourne",
     "winner":"Brisbane Lions",
-    "margin":3,
-    "probability":0.54
+    "margin":17,
+    "probability":0.66
     }
     ,
     { 
-    "home":"Greater Western Sydney",
-    "away":"Sydney",
-    "winner":"Sydney",
+    "home":"Geelong",
+    "away":"Essendon",
+    "winner":"Geelong",
     "margin":8,
     "probability":0.58
     }
     ,
     { 
-    "home":"Melbourne",
-    "away":"North Melbourne",
-    "winner":"Melbourne",
-    "margin":34,
-    "probability":0.81
+    "home":"Gold Coast",
+    "away":"Collingwood",
+    "winner":"Collingwood",
+    "margin":4,
+    "probability":0.54
     }
     ,
     { 
-    "home":"Essendon",
-    "away":"West Coast",
-    "winner":"Essendon",
-    "margin":32,
-    "probability":0.79
+    "home":"North Melbourne",
+    "away":"Western Bulldogs",
+    "winner":"Western Bulldogs",
+    "margin":40,
+    "probability":0.86
     }
     ,
     { 
-    "home":"Fremantle",
-    "away":"Gold Coast",
-    "winner":"Fremantle",
-    "margin":16,
-    "probability":0.65
+    "home":"Richmond",
+    "away":"Carlton",
+    "winner":"Carlton",
+    "margin":38,
+    "probability":0.84
+    }
+    ,
+    { 
+    "home":"St Kilda",
+    "away":"Port Adelaide",
+    "winner":"St Kilda",
+    "margin":4,
+    "probability":0.54
+    }
+    ,
+    { 
+    "home":"Sydney",
+    "away":"Fremantle",
+    "winner":"Sydney",
+    "margin":12,
+    "probability":0.61
+    }
+    ,
+    { 
+    "home":"Adelaide",
+    "away":"Greater Western Sydney",
+    "winner":"Greater Western Sydney",
+    "margin":1,
+    "probability":0.52
+    }
+    ,
+    { 
+    "home":"West Coast",
+    "away":"Hawthorn",
+    "winner":"Hawthorn",
+    "margin":14,
+    "probability":0.63
     }
   ]
 }
