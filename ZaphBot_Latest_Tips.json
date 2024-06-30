@@ -1,78 +1,78 @@
 {
   "botname":"KevBot",
   "season":2024,
-  "round":16,
+  "round":17,
   "tips": [
     { 
     "home":"Brisbane Lions",
-    "away":"Melbourne",
+    "away":"Adelaide",
     "winner":"Brisbane Lions",
-    "margin":17,
-    "probability":0.66
+    "margin":23,
+    "probability":0.71
+    }
+    ,
+    { 
+    "home":"Collingwood",
+    "away":"Essendon",
+    "winner":"Collingwood",
+    "margin":18,
+    "probability":0.67
     }
     ,
     { 
     "home":"Geelong",
-    "away":"Essendon",
+    "away":"Hawthorn",
     "winner":"Geelong",
-    "margin":8,
-    "probability":0.58
+    "margin":2,
+    "probability":0.53
     }
     ,
     { 
-    "home":"Gold Coast",
-    "away":"Collingwood",
-    "winner":"Collingwood",
-    "margin":4,
+    "home":"Greater Western Sydney",
+    "away":"Carlton",
+    "winner":"Carlton",
+    "margin":3,
     "probability":0.54
+    }
+    ,
+    { 
+    "home":"Melbourne",
+    "away":"West Coast",
+    "winner":"Melbourne",
+    "margin":43,
+    "probability":0.88
     }
     ,
     { 
     "home":"North Melbourne",
-    "away":"Western Bulldogs",
-    "winner":"Western Bulldogs",
-    "margin":40,
-    "probability":0.86
-    }
-    ,
-    { 
-    "home":"Richmond",
-    "away":"Carlton",
-    "winner":"Carlton",
-    "margin":38,
-    "probability":0.84
-    }
-    ,
-    { 
-    "home":"St Kilda",
-    "away":"Port Adelaide",
-    "winner":"St Kilda",
-    "margin":4,
+    "away":"Gold Coast",
+    "winner":"Gold Coast",
+    "margin":3,
     "probability":0.54
     }
     ,
     { 
-    "home":"Sydney",
-    "away":"Fremantle",
+    "home":"St Kilda",
+    "away":"Sydney",
     "winner":"Sydney",
-    "margin":12,
-    "probability":0.61
+    "margin":24,
+    "probability":0.72
     }
     ,
     { 
-    "home":"Adelaide",
-    "away":"Greater Western Sydney",
-    "winner":"Greater Western Sydney",
-    "margin":1,
-    "probability":0.52
+    "home":"Port Adelaide",
+    "away":"Western Bulldogs",
+    "winner":"Western Bulldogs",
+    "margin":9,
+    "probability":0.59
     }
     ,
     { 
-    "home":"West Coast",
-    "away":"Hawthorn",
-    "winner":"Hawthorn",
-    "margin":14,
-    "probability":0.63
+    "home":"Fremantle",
+    "away":"Richmond",
+    "winner":"Fremantle",
+    "margin":37,
+    "probability":0.83
     }
   ]
 }
