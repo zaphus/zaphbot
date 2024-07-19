@@ -10,9 +10,9 @@
     { 
     "home":"Brisbane Lions",
     "away":"Sydney",
-    "winner":"Brisbane Lions",
-    "margin":6,
-    "probability":0.56
+    "winner":"Sydney",
+    "margin":1,
+    "probability":0.52
     }
     ,
     { 
@@ -35,8 +35,8 @@
     "home":"Fremantle",
     "away":"Melbourne",
     "winner":"Fremantle",
-    "margin":17,
-    "probability":0.66
+    "margin":10,
+    "probability":0.60
     }
     ,
     { 
@@ -75,8 +75,8 @@
     "home":"St Kilda",
     "away":"West Coast",
     "winner":"St Kilda",
-    "margin":17,
-    "probability":0.66
+    "margin":19,
+    "probability":0.68
     }
   ]
 }
