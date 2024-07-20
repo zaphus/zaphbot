@@ -3,9 +3,9 @@
   "season":2024,
   "round":19,
   "BestTips":"673",
-  "BestTipsBits":"126.115266",
-  "BestMargins":"26352",
-  "BestRMSE":"33.467925",
+  "BestTipsBits":"126.085732",
+  "BestMargins":"26328",
+  "BestRMSE":"33.452145",
   "tips": [
     { 
     "home":"Brisbane Lions",
@@ -21,14 +21,6 @@
     "winner":"Carlton",
     "margin":38,
     "probability":0.84
-    }
-    ,
-    { 
-    "home":"Essendon",
-    "away":"Adelaide",
-    "winner":"Essendon",
-    "margin":8,
-    "probability":0.58
     }
     ,
     { 
@@ -77,6 +69,14 @@
     "winner":"St Kilda",
     "margin":19,
     "probability":0.68
+    }
+    ,
+    { 
+    "home":"Carlton",
+    "away":"Port Adelaide",
+    "winner":"Carlton",
+    "margin":7,
+    "probability":0.57
     }
   ]
 }
