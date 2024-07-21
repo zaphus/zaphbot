@@ -1,50 +1,42 @@
 {
   "botname":"ZaphBot2-TipsBits",
   "season":2024,
-  "round":19,
-  "BestTips":"675",
-  "BestTipsBits":"127.813289",
-  "BestMargins":"26362",
-  "BestRMSE":"33.523186",
+  "round":20,
+  "BestTips":"674",
+  "BestTipsBits":"127.785131",
+  "BestMargins":"26376",
+  "BestRMSE":"33.534997",
   "tips": [
     { 
-    "home":"Brisbane Lions",
-    "away":"Sydney",
-    "winner":"Sydney",
-    "margin":1,
-    "probability":0.52
-    }
-    ,
-    { 
-    "home":"Carlton",
-    "away":"North Melbourne",
-    "winner":"Carlton",
-    "margin":37,
-    "probability":0.83
-    }
-    ,
-    { 
-    "home":"Fremantle",
-    "away":"Melbourne",
-    "winner":"Fremantle",
-    "margin":10,
-    "probability":0.60
+    "home":"Adelaide",
+    "away":"Hawthorn",
+    "winner":"Adelaide",
+    "margin":3,
+    "probability":0.54
     }
     ,
     { 
     "home":"Carlton",
     "away":"Port Adelaide",
     "winner":"Carlton",
-    "margin":7,
-    "probability":0.57
+    "margin":11,
+    "probability":0.61
+    }
+    ,
+    { 
+    "home":"Collingwood",
+    "away":"Richmond",
+    "winner":"Collingwood",
+    "margin":42,
+    "probability":0.88
     }
     ,
     { 
     "home":"Fremantle",
     "away":"West Coast",
     "winner":"Fremantle",
-    "margin":38,
-    "probability":0.84
+    "margin":41,
+    "probability":0.87
     }
     ,
     { 
@@ -77,6 +69,14 @@
     "winner":"Essendon",
     "margin":12,
     "probability":0.61
+    }
+    ,
+    { 
+    "home":"Sydney",
+    "away":"Western Bulldogs",
+    "winner":"Sydney",
+    "margin":17,
+    "probability":0.66
     }
   ]
 }
