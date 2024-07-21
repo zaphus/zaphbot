@@ -2,10 +2,10 @@
   "botname":"ZaphBot2-TipsBits",
   "season":2024,
   "round":19,
-  "BestTips":"673",
-  "BestTipsBits":"126.085732",
-  "BestMargins":"26328",
-  "BestRMSE":"33.452145",
+  "BestTips":"675",
+  "BestTipsBits":"127.813289",
+  "BestMargins":"26362",
+  "BestRMSE":"33.523186",
   "tips": [
     { 
     "home":"Brisbane Lions",
@@ -19,8 +19,8 @@
     "home":"Carlton",
     "away":"North Melbourne",
     "winner":"Carlton",
-    "margin":38,
-    "probability":0.84
+    "margin":37,
+    "probability":0.83
     }
     ,
     { 
@@ -32,51 +32,51 @@
     }
     ,
     { 
-    "home":"Geelong",
-    "away":"Western Bulldogs",
-    "winner":"Geelong",
-    "margin":10,
-    "probability":0.60
-    }
-    ,
-    { 
-    "home":"Greater Western Sydney",
-    "away":"Gold Coast",
-    "winner":"Greater Western Sydney",
-    "margin":15,
-    "probability":0.64
-    }
-    ,
-    { 
-    "home":"Hawthorn",
-    "away":"Collingwood",
-    "winner":"Hawthorn",
-    "margin":4,
-    "probability":0.54
-    }
-    ,
-    { 
-    "home":"Port Adelaide",
-    "away":"Richmond",
-    "winner":"Port Adelaide",
-    "margin":41,
-    "probability":0.87
-    }
-    ,
-    { 
-    "home":"St Kilda",
-    "away":"West Coast",
-    "winner":"St Kilda",
-    "margin":19,
-    "probability":0.68
-    }
-    ,
-    { 
     "home":"Carlton",
     "away":"Port Adelaide",
     "winner":"Carlton",
     "margin":7,
     "probability":0.57
+    }
+    ,
+    { 
+    "home":"Fremantle",
+    "away":"West Coast",
+    "winner":"Fremantle",
+    "margin":38,
+    "probability":0.84
+    }
+    ,
+    { 
+    "home":"Gold Coast",
+    "away":"Brisbane Lions",
+    "winner":"Brisbane Lions",
+    "margin":13,
+    "probability":0.62
+    }
+    ,
+    { 
+    "home":"Melbourne",
+    "away":"Greater Western Sydney",
+    "winner":"Melbourne",
+    "margin":5,
+    "probability":0.55
+    }
+    ,
+    { 
+    "home":"North Melbourne",
+    "away":"Geelong",
+    "winner":"Geelong",
+    "margin":28,
+    "probability":0.75
+    }
+    ,
+    { 
+    "home":"St Kilda",
+    "away":"Essendon",
+    "winner":"Essendon",
+    "margin":12,
+    "probability":0.61
     }
   ]
 }
