@@ -3,9 +3,9 @@
   "season":2024,
   "round":21,
   "BestTips":"672",
-  "BestTipsBits":"126.204689",
-  "BestMargins":"26431",
-  "BestRMSE":"33.561868",
+  "BestTipsBits":"126.098795",
+  "BestMargins":"26432",
+  "BestRMSE":"33.562032",
   "tips": [
     { 
     "home":"Collingwood",
@@ -40,19 +40,11 @@
     }
     ,
     { 
-    "home":"North Melbourne",
-    "away":"Richmond",
-    "winner":"North Melbourne",
-    "margin":7,
-    "probability":0.57
-    }
-    ,
-    { 
     "home":"Port Adelaide",
     "away":"Sydney",
-    "winner":"Sydney",
-    "margin":1,
-    "probability":0.52
+    "winner":"Port Adelaide",
+    "margin":2,
+    "probability":0.53
     }
     ,
     { 
