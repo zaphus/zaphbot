@@ -2,10 +2,10 @@
   "botname":"ZaphBot2-TipsBits",
   "season":2024,
   "round":21,
-  "BestTips":"673",
-  "BestTipsBits":"127.153718",
-  "BestMargins":"26420",
-  "BestRMSE":"33.568735",
+  "BestTips":"672",
+  "BestTipsBits":"126.204689",
+  "BestMargins":"26431",
+  "BestRMSE":"33.561868",
   "tips": [
     { 
     "home":"Collingwood",
@@ -61,22 +61,6 @@
     "winner":"Brisbane Lions",
     "margin":15,
     "probability":0.64
-    }
-    ,
-    { 
-    "home":"West Coast",
-    "away":"Gold Coast",
-    "winner":"Gold Coast",
-    "margin":22,
-    "probability":0.70
-    }
-    ,
-    { 
-    "home":"Western Bulldogs",
-    "away":"Melbourne",
-    "winner":"Western Bulldogs",
-    "margin":19,
-    "probability":0.68
     }
   ]
 }
