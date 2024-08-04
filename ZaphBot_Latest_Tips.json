@@ -2,19 +2,11 @@
   "botname":"ZaphBot2-TipsBits",
   "season":2024,
   "round":21,
-  "BestTips":"672",
-  "BestTipsBits":"126.098795",
-  "BestMargins":"26432",
-  "BestRMSE":"33.562032",
+  "BestTips":"671",
+  "BestTipsBits":"125.248695",
+  "BestMargins":"26389",
+  "BestRMSE":"33.554269",
   "tips": [
-    { 
-    "home":"Collingwood",
-    "away":"Carlton",
-    "winner":"Carlton",
-    "margin":4,
-    "probability":0.54
-    }
-    ,
     { 
     "home":"Essendon",
     "away":"Fremantle",
@@ -24,27 +16,11 @@
     }
     ,
     { 
-    "home":"Geelong",
-    "away":"Adelaide",
-    "winner":"Geelong",
-    "margin":19,
-    "probability":0.68
-    }
-    ,
-    { 
     "home":"Greater Western Sydney",
     "away":"Hawthorn",
     "winner":"Hawthorn",
     "margin":1,
     "probability":0.52
-    }
-    ,
-    { 
-    "home":"Port Adelaide",
-    "away":"Sydney",
-    "winner":"Port Adelaide",
-    "margin":2,
-    "probability":0.53
     }
     ,
     { 
