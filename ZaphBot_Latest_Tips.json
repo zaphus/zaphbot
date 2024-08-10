@@ -4,8 +4,8 @@
   "round":22,
   "BestTips":"669",
   "BestTipsBits":"124.488389",
-  "BestMargins":"26405",
-  "BestRMSE":"33.587632",
+  "BestMargins":"26412",
+  "BestRMSE":"33.591487",
   "tips": [
     { 
     "home":"Adelaide",
@@ -69,14 +69,6 @@
     "winner":"St Kilda",
     "margin":19,
     "probability":0.68
-    }
-    ,
-    { 
-    "home":"Sydney",
-    "away":"Collingwood",
-    "winner":"Sydney",
-    "margin":25,
-    "probability":0.73
     }
   ]
 }
