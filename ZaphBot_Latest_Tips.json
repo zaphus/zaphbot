@@ -3,9 +3,9 @@
   "season":2024,
   "round":23,
   "BestTips":"665",
-  "BestTipsBits":"122.776490",
-  "BestMargins":"26352",
-  "BestRMSE":"33.505373",
+  "BestTipsBits":"122.277791",
+  "BestMargins":"26351",
+  "BestRMSE":"33.504612",
   "tips": [
     { 
     "home":"Collingwood",
@@ -13,14 +13,6 @@
     "winner":"Brisbane Lions",
     "margin":8,
     "probability":0.58
-    }
-    ,
-    { 
-    "home":"Essendon",
-    "away":"Sydney",
-    "winner":"Sydney",
-    "margin":14,
-    "probability":0.63
     }
     ,
     { 
@@ -43,7 +35,7 @@
     "home":"Hawthorn",
     "away":"Richmond",
     "winner":"Hawthorn",
-    "margin":51,
+    "margin":52,
     "probability":0.90
     }
     ,
@@ -66,17 +58,17 @@
     { 
     "home":"West Coast",
     "away":"Carlton",
-    "winner":"West Coast",
-    "margin":1,
-    "probability":0.52
+    "winner":"Carlton",
+    "margin":5,
+    "probability":0.55
     }
     ,
     { 
     "home":"Western Bulldogs",
     "away":"North Melbourne",
     "winner":"Western Bulldogs",
-    "margin":33,
-    "probability":0.80
+    "margin":36,
+    "probability":0.82
     }
   ]
 }
