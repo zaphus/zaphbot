@@ -2,33 +2,17 @@
   "botname":"ZaphBot2-TipsBits",
   "season":2024,
   "round":23,
-  "BestTips":"661",
-  "BestTipsBits":"121.887251",
+  "BestTips":"662",
+  "BestTipsBits":"122.883688",
   "BestMargins":"26278",
-  "BestRMSE":"33.486206",
+  "BestRMSE":"33.501970",
   "tips": [
-    { 
-    "home":"Hawthorn",
-    "away":"Richmond",
-    "winner":"Hawthorn",
-    "margin":50,
-    "probability":0.90
-    }
-    ,
     { 
     "home":"West Coast",
     "away":"Carlton",
     "winner":"Carlton",
     "margin":6,
     "probability":0.56
-    }
-    ,
-    { 
-    "home":"Western Bulldogs",
-    "away":"North Melbourne",
-    "winner":"Western Bulldogs",
-    "margin":37,
-    "probability":0.83
     }
   ]
 }
