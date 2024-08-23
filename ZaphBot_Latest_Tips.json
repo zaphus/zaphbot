@@ -19,16 +19,16 @@
     "home":"Carlton",
     "away":"St Kilda",
     "winner":"Carlton",
-    "margin":12,
-    "probability":0.61
+    "margin":6,
+    "probability":0.56
     }
     ,
     { 
     "home":"Fremantle",
     "away":"Port Adelaide",
     "winner":"Fremantle",
-    "margin":6,
-    "probability":0.56
+    "margin":5,
+    "probability":0.55
     }
     ,
     { 
