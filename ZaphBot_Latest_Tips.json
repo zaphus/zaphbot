@@ -3,9 +3,9 @@
   "season":2024,
   "round":24,
   "BestTips":"662",
-  "BestTipsBits":"122.412034",
-  "BestMargins":"26317",
-  "BestRMSE":"33.547921",
+  "BestTipsBits":"122.357056",
+  "BestMargins":"26364",
+  "BestRMSE":"33.564050",
   "tips": [
     { 
     "home":"Brisbane Lions",
@@ -45,14 +45,6 @@
     "winner":"Hawthorn",
     "margin":42,
     "probability":0.88
-    }
-    ,
-    { 
-    "home":"Melbourne",
-    "away":"Collingwood",
-    "winner":"Melbourne",
-    "margin":1,
-    "probability":0.52
     }
     ,
     { 
