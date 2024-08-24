@@ -2,10 +2,10 @@
   "botname":"ZaphBot2-TipsBits",
   "season":2024,
   "round":24,
-  "BestTips":"663",
-  "BestTipsBits":"123.164769",
-  "BestMargins":"26446",
-  "BestRMSE":"33.647165",
+  "BestTips":"665",
+  "BestTipsBits":"124.353855",
+  "BestMargins":"26509",
+  "BestRMSE":"33.655464",
   "tips": [
     { 
     "home":"Brisbane Lions",
@@ -29,22 +29,6 @@
     "winner":"Fremantle",
     "margin":5,
     "probability":0.55
-    }
-    ,
-    { 
-    "home":"Geelong",
-    "away":"West Coast",
-    "winner":"Geelong",
-    "margin":41,
-    "probability":0.87
-    }
-    ,
-    { 
-    "home":"Richmond",
-    "away":"Gold Coast",
-    "winner":"Gold Coast",
-    "margin":17,
-    "probability":0.66
     }
     ,
     { 
