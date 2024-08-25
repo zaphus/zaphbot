@@ -3,24 +3,16 @@
   "season":2024,
   "round":24,
   "BestTips":"668",
-  "BestTipsBits":"126.024293",
-  "BestMargins":"26544",
-  "BestRMSE":"33.614941",
+  "BestTipsBits":"125.832723",
+  "BestMargins":"26552",
+  "BestRMSE":"33.599208",
   "tips": [
-    { 
-    "home":"Carlton",
-    "away":"St Kilda",
-    "winner":"Carlton",
-    "margin":6,
-    "probability":0.56
-    }
-    ,
     { 
     "home":"Fremantle",
     "away":"Port Adelaide",
     "winner":"Fremantle",
-    "margin":5,
-    "probability":0.55
+    "margin":7,
+    "probability":0.57
     }
   ]
 }
