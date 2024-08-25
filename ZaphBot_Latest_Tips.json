@@ -2,10 +2,10 @@
   "botname":"ZaphBot2-TipsBits",
   "season":2024,
   "round":24,
-  "BestTips":"667",
-  "BestTipsBits":"125.667170",
-  "BestMargins":"26522",
-  "BestRMSE":"33.624491",
+  "BestTips":"668",
+  "BestTipsBits":"126.024293",
+  "BestMargins":"26544",
+  "BestRMSE":"33.614941",
   "tips": [
     { 
     "home":"Carlton",
@@ -21,14 +21,6 @@
     "winner":"Fremantle",
     "margin":5,
     "probability":0.55
-    }
-    ,
-    { 
-    "home":"Western Bulldogs",
-    "away":"Greater Western Sydney",
-    "winner":"Western Bulldogs",
-    "margin":15,
-    "probability":0.64
     }
   ]
 }
