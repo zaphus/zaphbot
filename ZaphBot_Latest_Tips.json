@@ -1,18 +1,11 @@
 {
   "botname":"ZaphBot2-TipsBits",
   "season":2024,
-  "round":24,
+  "round":0,
   "BestTips":"668",
-  "BestTipsBits":"125.832723",
-  "BestMargins":"26552",
-  "BestRMSE":"33.599208",
+  "BestTipsBits":"125.612211",
+  "BestMargins":"26579",
+  "BestRMSE":"33.593309",
   "tips": [
-    { 
-    "home":"Fremantle",
-    "away":"Port Adelaide",
-    "winner":"Fremantle",
-    "margin":7,
-    "probability":0.57
-    }
   ]
 }
