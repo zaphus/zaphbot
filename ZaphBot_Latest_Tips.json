@@ -10,16 +10,16 @@
     { 
     "home":"Port Adelaide",
     "away":"Geelong",
-    "winner":"Port Adelaide",
-    "margin":9,
-    "probability":0.59
+    "winner":"Geelong",
+    "margin":1,
+    "probability":0.52
     }
     ,
     { 
     "home":"Western Bulldogs",
     "away":"Hawthorn",
     "winner":"Western Bulldogs",
-    "margin":11,
+    "margin":12,
     "probability":0.61
     }
     ,
