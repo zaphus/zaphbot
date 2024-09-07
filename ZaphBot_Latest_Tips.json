@@ -1,18 +1,26 @@
 {
   "botname":"ZaphBot2-TipsBits",
   "season":2024,
-  "round":25,
+  "round":26,
   "BestTips":"667",
-  "BestTipsBits":"125.147277",
-  "BestMargins":"26606",
-  "BestRMSE":"33.686492",
+  "BestTipsBits":"125.955248",
+  "BestMargins":"26539",
+  "BestRMSE":"33.651361",
   "tips": [
     { 
-    "home":"Brisbane Lions",
-    "away":"Carlton",
+    "home":"Port Adelaide",
+    "away":"Hawthorn",
+    "winner":"Hawthorn",
+    "margin":5,
+    "probability":0.55
+    }
+    ,
+    { 
+    "home":"Greater Western Sydney",
+    "away":"Brisbane Lions",
     "winner":"Brisbane Lions",
-    "margin":32,
-    "probability":0.79
+    "margin":8,
+    "probability":0.58
     }
   ]
 }
