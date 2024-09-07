@@ -3,18 +3,10 @@
   "season":2024,
   "round":25,
   "BestTips":"666",
-  "BestTipsBits":"124.594063",
-  "BestMargins":"26545",
-  "BestRMSE":"33.690867",
+  "BestTipsBits":"124.539085",
+  "BestMargins":"26583",
+  "BestRMSE":"33.695420",
   "tips": [
-    { 
-    "home":"Western Bulldogs",
-    "away":"Hawthorn",
-    "winner":"Western Bulldogs",
-    "margin":1,
-    "probability":0.52
-    }
-    ,
     { 
     "home":"Sydney",
     "away":"Greater Western Sydney",
