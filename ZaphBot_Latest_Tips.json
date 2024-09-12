@@ -19,8 +19,8 @@
     "home":"Greater Western Sydney",
     "away":"Brisbane Lions",
     "winner":"Brisbane Lions",
-    "margin":8,
-    "probability":0.58
+    "margin":15,
+    "probability":0.64
     }
   ]
 }
