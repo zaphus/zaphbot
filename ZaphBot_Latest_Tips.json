@@ -11,16 +11,16 @@
     "home":"Sydney",
     "away":"Port Adelaide",
     "winner":"Sydney",
-    "margin":31,
-    "probability":0.78
+    "margin":29,
+    "probability":0.76
     }
     ,
     { 
     "home":"Geelong",
     "away":"Brisbane Lions",
     "winner":"Brisbane Lions",
-    "margin":16,
-    "probability":0.65
+    "margin":9,
+    "probability":0.59
     }
   ]
 }
