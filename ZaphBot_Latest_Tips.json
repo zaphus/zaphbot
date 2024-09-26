@@ -3,16 +3,16 @@
   "season":2024,
   "round":28,
   "BestTips":"669",
-  "BestTipsBits":"126.979095",
-  "BestMargins":"26542",
-  "BestRMSE":"33.635210",
+  "BestTipsBits":"127.017298",
+  "BestMargins":"26543",
+  "BestRMSE":"33.635845",
   "tips": [
     { 
     "home":"Sydney",
     "away":"Brisbane Lions",
     "winner":"Sydney",
-    "margin":4,
-    "probability":0.54
+    "margin":7,
+    "probability":0.57
     }
   ]
 }
