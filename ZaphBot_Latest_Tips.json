@@ -3,40 +3,24 @@
   "season":2025,
   "round":0,
   "BestTips":"669",
-  "BestTipsBits":"122.405322",
-  "BestMargins":"26206",
-  "BestRMSE":"33.554225",
+  "BestTipsBits":"122.416791",
+  "BestMargins":"26207",
+  "BestRMSE":"33.554180",
   "tips": [
-    { 
-    "home":"Brisbane Lions",
-    "away":"Geelong",
-    "winner":"Brisbane Lions",
-    "margin":19,
-    "probability":0.68
-    }
-    ,
     { 
     "home":"Sydney",
     "away":"Hawthorn",
     "winner":"Sydney",
-    "margin":18,
-    "probability":0.67
-    }
-    ,
-    { 
-    "home":"Gold Coast",
-    "away":"Essendon",
-    "winner":"Gold Coast",
-    "margin":3,
-    "probability":0.54
+    "margin":1,
+    "probability":0.52
     }
     ,
     { 
     "home":"Greater Western Sydney",
     "away":"Collingwood",
     "winner":"Greater Western Sydney",
-    "margin":24,
-    "probability":0.72
+    "margin":3,
+    "probability":0.54
     }
   ]
 }
