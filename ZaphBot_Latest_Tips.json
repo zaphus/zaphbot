@@ -11,8 +11,8 @@
     "home":"Richmond",
     "away":"Carlton",
     "winner":"Carlton",
-    "margin":19,
-    "probability":0.68
+    "margin":23,
+    "probability":0.71
     }
     ,
     { 
@@ -51,8 +51,8 @@
     "home":"Collingwood",
     "away":"Port Adelaide",
     "winner":"Port Adelaide",
-    "margin":5,
-    "probability":0.55
+    "margin":6,
+    "probability":0.56
     }
     ,
     { 
