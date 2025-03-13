@@ -2,19 +2,11 @@
   "botname":"ZaphBot2-TipsBits",
   "season":2025,
   "round":1,
-  "BestTips":"670",
-  "BestTipsBits":"121.849627",
-  "BestMargins":"26249",
-  "BestRMSE":"33.586768",
+  "BestTips":"669",
+  "BestTipsBits":"120.649028",
+  "BestMargins":"26242",
+  "BestRMSE":"33.578535",
   "tips": [
-    { 
-    "home":"Richmond",
-    "away":"Carlton",
-    "winner":"Carlton",
-    "margin":23,
-    "probability":0.71
-    }
-    ,
     { 
     "home":"Hawthorn",
     "away":"Essendon",
