@@ -3,16 +3,16 @@
   "season":2025,
   "round":2,
   "BestTips":"672",
-  "BestTipsBits":"128.580222",
-  "BestMargins":"26256",
-  "BestRMSE":"33.558546",
+  "BestTipsBits":"129.134986",
+  "BestMargins":"26289",
+  "BestRMSE":"33.586143",
   "tips": [
     { 
     "home":"Carlton",
     "away":"Hawthorn",
     "winner":"Hawthorn",
-    "margin":18,
-    "probability":0.67
+    "margin":23,
+    "probability":0.71
     }
     ,
     { 
@@ -27,8 +27,8 @@
     "home":"Essendon",
     "away":"Adelaide",
     "winner":"Essendon",
-    "margin":2,
-    "probability":0.53
+    "margin":3,
+    "probability":0.54
     }
     ,
     { 
@@ -59,8 +59,8 @@
     "home":"North Melbourne",
     "away":"Melbourne",
     "winner":"Melbourne",
-    "margin":5,
-    "probability":0.55
+    "margin":6,
+    "probability":0.56
     }
     ,
     { 
