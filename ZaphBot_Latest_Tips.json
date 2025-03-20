@@ -2,19 +2,11 @@
   "botname":"ZaphBot2-TipsBits",
   "season":2025,
   "round":2,
-  "BestTips":"672",
-  "BestTipsBits":"129.134986",
-  "BestMargins":"26289",
-  "BestRMSE":"33.586143",
+  "BestTips":"673",
+  "BestTipsBits":"129.739721",
+  "BestMargins":"26267",
+  "BestRMSE":"33.576316",
   "tips": [
-    { 
-    "home":"Carlton",
-    "away":"Hawthorn",
-    "winner":"Hawthorn",
-    "margin":24,
-    "probability":0.72
-    }
-    ,
     { 
     "home":"Western Bulldogs",
     "away":"Collingwood",
