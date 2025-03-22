@@ -3,18 +3,10 @@
   "season":2025,
   "round":2,
   "BestTips":"674",
-  "BestTipsBits":"130.060772",
-  "BestMargins":"26252",
-  "BestRMSE":"33.571625",
+  "BestTipsBits":"129.629639",
+  "BestMargins":"26295",
+  "BestRMSE":"33.601711",
   "tips": [
-    { 
-    "home":"Essendon",
-    "away":"Adelaide",
-    "winner":"Adelaide",
-    "margin":16,
-    "probability":0.65
-    }
-    ,
     { 
     "home":"Port Adelaide",
     "away":"Richmond",
