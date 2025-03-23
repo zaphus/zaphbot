@@ -3,26 +3,10 @@
   "season":2025,
   "round":2,
   "BestTips":"675",
-  "BestTipsBits":"131.882747",
-  "BestMargins":"26277",
-  "BestRMSE":"33.579800",
+  "BestTipsBits":"132.655857",
+  "BestMargins":"26302",
+  "BestRMSE":"33.583508",
   "tips": [
-    { 
-    "home":"Brisbane Lions",
-    "away":"West Coast",
-    "winner":"Brisbane Lions",
-    "margin":57,
-    "probability":0.90
-    }
-    ,
-    { 
-    "home":"North Melbourne",
-    "away":"Melbourne",
-    "winner":"Melbourne",
-    "margin":2,
-    "probability":0.53
-    }
-    ,
     { 
     "home":"Fremantle",
     "away":"Sydney",
