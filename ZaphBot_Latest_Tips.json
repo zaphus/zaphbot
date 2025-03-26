@@ -11,8 +11,8 @@
     "home":"Essendon",
     "away":"Port Adelaide",
     "winner":"Port Adelaide",
-    "margin":14,
-    "probability":0.63
+    "margin":15,
+    "probability":0.64
     }
     ,
     { 
@@ -67,8 +67,8 @@
     "home":"Brisbane Lions",
     "away":"Geelong",
     "winner":"Brisbane Lions",
-    "margin":24,
-    "probability":0.72
+    "margin":25,
+    "probability":0.73
     }
   ]
 }
