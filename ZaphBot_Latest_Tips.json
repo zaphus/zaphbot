@@ -2,19 +2,11 @@
   "botname":"ZaphBot2-TipsBits",
   "season":2025,
   "round":3,
-  "BestTips":"676",
-  "BestTipsBits":"133.346307",
-  "BestMargins":"26266",
-  "BestRMSE":"33.560334",
+  "BestTips":"675",
+  "BestTipsBits":"132.789816",
+  "BestMargins":"26291",
+  "BestRMSE":"33.569704",
   "tips": [
-    { 
-    "home":"Essendon",
-    "away":"Port Adelaide",
-    "winner":"Port Adelaide",
-    "margin":15,
-    "probability":0.64
-    }
-    ,
     { 
     "home":"Carlton",
     "away":"Western Bulldogs",
