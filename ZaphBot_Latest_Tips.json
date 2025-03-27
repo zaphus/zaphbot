@@ -19,56 +19,56 @@
     "home":"Carlton",
     "away":"Western Bulldogs",
     "winner":"Western Bulldogs",
-    "margin":8,
-    "probability":0.58
+    "margin":2,
+    "probability":0.53
     }
     ,
     { 
     "home":"Melbourne",
     "away":"Gold Coast",
-    "winner":"Melbourne",
-    "margin":6,
-    "probability":0.56
+    "winner":"Gold Coast",
+    "margin":4,
+    "probability":0.54
     }
     ,
     { 
     "home":"St Kilda",
     "away":"Richmond",
     "winner":"St Kilda",
-    "margin":33,
-    "probability":0.80
+    "margin":31,
+    "probability":0.78
     }
     ,
     { 
     "home":"Hawthorn",
     "away":"Greater Western Sydney",
     "winner":"Hawthorn",
-    "margin":23,
-    "probability":0.71
+    "margin":18,
+    "probability":0.67
     }
     ,
     { 
     "home":"Adelaide",
     "away":"North Melbourne",
     "winner":"Adelaide",
-    "margin":22,
-    "probability":0.70
+    "margin":29,
+    "probability":0.76
     }
     ,
     { 
     "home":"West Coast",
     "away":"Fremantle",
     "winner":"Fremantle",
-    "margin":26,
-    "probability":0.74
+    "margin":23,
+    "probability":0.71
     }
     ,
     { 
     "home":"Brisbane Lions",
     "away":"Geelong",
     "winner":"Brisbane Lions",
-    "margin":25,
-    "probability":0.73
+    "margin":21,
+    "probability":0.69
     }
   ]
 }
