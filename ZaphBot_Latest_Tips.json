@@ -3,24 +3,16 @@
   "season":2025,
   "round":3,
   "BestTips":"677",
-  "BestTipsBits":"135.626621",
-  "BestMargins":"26256",
-  "BestRMSE":"33.554344",
+  "BestTipsBits":"135.442161",
+  "BestMargins":"26240",
+  "BestRMSE":"33.543852",
   "tips": [
-    { 
-    "home":"Adelaide",
-    "away":"North Melbourne",
-    "winner":"Adelaide",
-    "margin":22,
-    "probability":0.70
-    }
-    ,
     { 
     "home":"West Coast",
     "away":"Fremantle",
     "winner":"Fremantle",
-    "margin":24,
-    "probability":0.72
+    "margin":23,
+    "probability":0.71
     }
   ]
 }
