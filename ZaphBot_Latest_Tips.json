@@ -11,16 +11,16 @@
     "home":"Collingwood",
     "away":"Carlton",
     "winner":"Collingwood",
-    "margin":5,
-    "probability":0.55
+    "margin":24,
+    "probability":0.72
     }
     ,
     { 
     "home":"Geelong",
     "away":"Melbourne",
     "winner":"Geelong",
-    "margin":38,
-    "probability":0.84
+    "margin":39,
+    "probability":0.85
     }
     ,
     { 
@@ -67,8 +67,8 @@
     "home":"Fremantle",
     "away":"Western Bulldogs",
     "winner":"Fremantle",
-    "margin":2,
-    "probability":0.53
+    "margin":3,
+    "probability":0.54
     }
   ]
 }
