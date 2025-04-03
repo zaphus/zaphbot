@@ -4,17 +4,9 @@
   "round":4,
   "BestTips":"677",
   "BestTipsBits":"135.533328",
-  "BestMargins":"26241",
-  "BestRMSE":"33.544284",
+  "BestMargins":"26238",
+  "BestRMSE":"33.543524",
   "tips": [
-    { 
-    "home":"Collingwood",
-    "away":"Carlton",
-    "winner":"Collingwood",
-    "margin":24,
-    "probability":0.72
-    }
-    ,
     { 
     "home":"Geelong",
     "away":"Melbourne",
