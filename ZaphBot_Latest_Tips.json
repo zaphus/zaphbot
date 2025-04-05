@@ -2,19 +2,11 @@
   "botname":"ZaphBot2-TipsBits",
   "season":2025,
   "round":4,
-  "BestTips":"678",
-  "BestTipsBits":"137.726712",
-  "BestMargins":"26188",
-  "BestRMSE":"33.506238",
+  "BestTips":"679",
+  "BestTipsBits":"137.915044",
+  "BestMargins":"26166",
+  "BestRMSE":"33.499015",
   "tips": [
-    { 
-    "home":"Gold Coast",
-    "away":"Adelaide",
-    "winner":"Gold Coast",
-    "margin":1,
-    "probability":0.52
-    }
-    ,
     { 
     "home":"Richmond",
     "away":"Brisbane Lions",
