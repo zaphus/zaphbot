@@ -3,26 +3,10 @@
   "season":2025,
   "round":4,
   "BestTips":"680",
-  "BestTipsBits":"138.404780",
-  "BestMargins":"26162",
-  "BestRMSE":"33.490536",
+  "BestTipsBits":"138.740991",
+  "BestMargins":"26164",
+  "BestRMSE":"33.493581",
   "tips": [
-    { 
-    "home":"Greater Western Sydney",
-    "away":"West Coast",
-    "winner":"Greater Western Sydney",
-    "margin":52,
-    "probability":0.90
-    }
-    ,
-    { 
-    "home":"Port Adelaide",
-    "away":"St Kilda",
-    "winner":"Port Adelaide",
-    "margin":23,
-    "probability":0.71
-    }
-    ,
     { 
     "home":"Fremantle",
     "away":"Western Bulldogs",
