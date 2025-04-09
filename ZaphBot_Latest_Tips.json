@@ -11,8 +11,8 @@
     "home":"Adelaide",
     "away":"Geelong",
     "winner":"Geelong",
-    "margin":16,
-    "probability":0.65
+    "margin":10,
+    "probability":0.60
     }
     ,
     { 
@@ -67,8 +67,8 @@
     "home":"St Kilda",
     "away":"Greater Western Sydney",
     "winner":"Greater Western Sydney",
-    "margin":13,
-    "probability":0.62
+    "margin":14,
+    "probability":0.63
     }
     ,
     { 
