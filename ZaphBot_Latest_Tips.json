@@ -3,18 +3,10 @@
   "season":2025,
   "round":5,
   "BestTips":"680",
-  "BestTipsBits":"138.177195",
-  "BestMargins":"26174",
-  "BestRMSE":"33.496268",
+  "BestTipsBits":"138.263804",
+  "BestMargins":"26155",
+  "BestRMSE":"33.485773",
   "tips": [
-    { 
-    "home":"Adelaide",
-    "away":"Geelong",
-    "winner":"Geelong",
-    "margin":10,
-    "probability":0.60
-    }
-    ,
     { 
     "home":"Collingwood",
     "away":"Sydney",
