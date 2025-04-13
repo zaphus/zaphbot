@@ -3,26 +3,10 @@
   "season":2025,
   "round":5,
   "BestTips":"679",
-  "BestTipsBits":"137.971937",
-  "BestMargins":"26240",
-  "BestRMSE":"33.562479",
+  "BestTipsBits":"138.646508",
+  "BestMargins":"26264",
+  "BestRMSE":"33.576599",
   "tips": [
-    { 
-    "home":"Richmond",
-    "away":"Fremantle",
-    "winner":"Fremantle",
-    "margin":31,
-    "probability":0.78
-    }
-    ,
-    { 
-    "home":"St Kilda",
-    "away":"Greater Western Sydney",
-    "winner":"Greater Western Sydney",
-    "margin":7,
-    "probability":0.57
-    }
-    ,
     { 
     "home":"Port Adelaide",
     "away":"Hawthorn",
