@@ -11,8 +11,8 @@
     "home":"Brisbane Lions",
     "away":"Collingwood",
     "winner":"Brisbane Lions",
-    "margin":34,
-    "probability":0.81
+    "margin":26,
+    "probability":0.74
     }
     ,
     { 
@@ -51,8 +51,8 @@
     "home":"Richmond",
     "away":"Gold Coast",
     "winner":"Gold Coast",
-    "margin":24,
-    "probability":0.72
+    "margin":26,
+    "probability":0.74
     }
     ,
     { 
@@ -67,8 +67,8 @@
     "home":"Western Bulldogs",
     "away":"St Kilda",
     "winner":"Western Bulldogs",
-    "margin":21,
-    "probability":0.69
+    "margin":17,
+    "probability":0.66
     }
     ,
     { 
