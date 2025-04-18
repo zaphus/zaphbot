@@ -3,18 +3,10 @@
   "season":2025,
   "round":6,
   "BestTips":"680",
-  "BestTipsBits":"138.674699",
-  "BestMargins":"26377",
-  "BestRMSE":"33.717280",
+  "BestTipsBits":"139.138557",
+  "BestMargins":"26360",
+  "BestRMSE":"33.701395",
   "tips": [
-    { 
-    "home":"West Coast",
-    "away":"Essendon",
-    "winner":"Essendon",
-    "margin":25,
-    "probability":0.73
-    }
-    ,
     { 
     "home":"Melbourne",
     "away":"Fremantle",
