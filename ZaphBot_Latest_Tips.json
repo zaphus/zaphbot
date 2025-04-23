@@ -11,8 +11,8 @@
     "home":"Melbourne",
     "away":"Richmond",
     "winner":"Melbourne",
-    "margin":28,
-    "probability":0.75
+    "margin":27,
+    "probability":0.74
     }
     ,
     { 
@@ -27,8 +27,8 @@
     "home":"Fremantle",
     "away":"Adelaide",
     "winner":"Fremantle",
-    "margin":3,
-    "probability":0.54
+    "margin":2,
+    "probability":0.53
     }
     ,
     { 
@@ -67,8 +67,8 @@
     "home":"Carlton",
     "away":"Geelong",
     "winner":"Geelong",
-    "margin":24,
-    "probability":0.72
+    "margin":23,
+    "probability":0.71
     }
     ,
     { 
