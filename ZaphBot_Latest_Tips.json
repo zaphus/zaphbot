@@ -3,18 +3,10 @@
   "season":2025,
   "round":7,
   "BestTips":"677",
-  "BestTipsBits":"137.831101",
-  "BestMargins":"26429",
-  "BestRMSE":"33.732255",
+  "BestTipsBits":"137.876437",
+  "BestMargins":"26433",
+  "BestRMSE":"33.733440",
   "tips": [
-    { 
-    "home":"Fremantle",
-    "away":"Adelaide",
-    "winner":"Fremantle",
-    "margin":6,
-    "probability":0.56
-    }
-    ,
     { 
     "home":"Port Adelaide",
     "away":"North Melbourne",
