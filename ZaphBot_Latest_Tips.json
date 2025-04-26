@@ -2,10 +2,10 @@
   "botname":"ZaphBot2-TipsBits",
   "season":2025,
   "round":7,
-  "BestTips":"677",
-  "BestTipsBits":"137.876437",
-  "BestMargins":"26433",
-  "BestRMSE":"33.733440",
+  "BestTips":"678",
+  "BestTipsBits":"138.590058",
+  "BestMargins":"26443",
+  "BestRMSE":"33.739665",
   "tips": [
     { 
     "home":"Port Adelaide",
@@ -13,14 +13,6 @@
     "winner":"Port Adelaide",
     "margin":32,
     "probability":0.79
-    }
-    ,
-    { 
-    "home":"St Kilda",
-    "away":"Brisbane Lions",
-    "winner":"Brisbane Lions",
-    "margin":21,
-    "probability":0.69
     }
     ,
     { 
