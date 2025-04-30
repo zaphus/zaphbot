@@ -11,8 +11,8 @@
     "home":"Essendon",
     "away":"North Melbourne",
     "winner":"Essendon",
-    "margin":5,
-    "probability":0.55
+    "margin":7,
+    "probability":0.57
     }
     ,
     { 
@@ -51,8 +51,8 @@
     "home":"West Coast",
     "away":"Melbourne",
     "winner":"Melbourne",
-    "margin":18,
-    "probability":0.67
+    "margin":20,
+    "probability":0.68
     }
     ,
     { 
