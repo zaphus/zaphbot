@@ -3,18 +3,10 @@
   "season":2025,
   "round":8,
   "BestTips":"677",
-  "BestTipsBits":"139.074160",
-  "BestMargins":"26452",
-  "BestRMSE":"33.732892",
+  "BestTipsBits":"138.624651",
+  "BestMargins":"26455",
+  "BestRMSE":"33.733114",
   "tips": [
-    { 
-    "home":"Essendon",
-    "away":"North Melbourne",
-    "winner":"Essendon",
-    "margin":7,
-    "probability":0.57
-    }
-    ,
     { 
     "home":"St Kilda",
     "away":"Fremantle",
