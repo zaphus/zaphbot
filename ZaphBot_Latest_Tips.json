@@ -2,35 +2,11 @@
   "botname":"ZaphBot2-TipsBits",
   "season":2025,
   "round":8,
-  "BestTips":"677",
-  "BestTipsBits":"138.579315",
-  "BestMargins":"26536",
-  "BestRMSE":"33.868186",
+  "BestTips":"676",
+  "BestTipsBits":"138.185030",
+  "BestMargins":"26464",
+  "BestRMSE":"33.811300",
   "tips": [
-    { 
-    "home":"Adelaide",
-    "away":"Carlton",
-    "winner":"Adelaide",
-    "margin":5,
-    "probability":0.55
-    }
-    ,
-    { 
-    "home":"Collingwood",
-    "away":"Geelong",
-    "winner":"Collingwood",
-    "margin":1,
-    "probability":0.52
-    }
-    ,
-    { 
-    "home":"West Coast",
-    "away":"Melbourne",
-    "winner":"Melbourne",
-    "margin":21,
-    "probability":0.69
-    }
-    ,
     { 
     "home":"Sydney",
     "away":"Greater Western Sydney",
