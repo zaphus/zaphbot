@@ -10,17 +10,17 @@
     { 
     "home":"Fremantle",
     "away":"Collingwood",
-    "winner":"Fremantle",
-    "margin":1,
-    "probability":0.52
+    "winner":"Collingwood",
+    "margin":5,
+    "probability":0.55
     }
     ,
     { 
     "home":"St Kilda",
     "away":"Carlton",
     "winner":"St Kilda",
-    "margin":7,
-    "probability":0.57
+    "margin":12,
+    "probability":0.61
     }
     ,
     { 
