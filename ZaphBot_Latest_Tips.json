@@ -2,19 +2,11 @@
   "botname":"ZaphBot2-TipsBits",
   "season":2025,
   "round":9,
-  "BestTips":"676",
-  "BestTipsBits":"138.992994",
-  "BestMargins":"26439",
-  "BestRMSE":"33.781578",
+  "BestTips":"677",
+  "BestTipsBits":"139.925468",
+  "BestMargins":"26413",
+  "BestRMSE":"33.764641",
   "tips": [
-    { 
-    "home":"Fremantle",
-    "away":"Collingwood",
-    "winner":"Collingwood",
-    "margin":5,
-    "probability":0.55
-    }
-    ,
     { 
     "home":"St Kilda",
     "away":"Carlton",
