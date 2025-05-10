@@ -3,18 +3,10 @@
   "season":2025,
   "round":9,
   "BestTips":"676",
-  "BestTipsBits":"139.476381",
-  "BestMargins":"26434",
-  "BestRMSE":"33.772859",
+  "BestTipsBits":"139.898930",
+  "BestMargins":"26406",
+  "BestRMSE":"33.755444",
   "tips": [
-    { 
-    "home":"Melbourne",
-    "away":"Hawthorn",
-    "winner":"Hawthorn",
-    "margin":28,
-    "probability":0.75
-    }
-    ,
     { 
     "home":"Essendon",
     "away":"Sydney",
