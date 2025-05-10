@@ -2,35 +2,11 @@
   "botname":"ZaphBot2-TipsBits",
   "season":2025,
   "round":9,
-  "BestTips":"676",
-  "BestTipsBits":"139.898930",
-  "BestMargins":"26406",
-  "BestRMSE":"33.755444",
+  "BestTips":"674",
+  "BestTipsBits":"137.319588",
+  "BestMargins":"26398",
+  "BestRMSE":"33.752778",
   "tips": [
-    { 
-    "home":"Essendon",
-    "away":"Sydney",
-    "winner":"Sydney",
-    "margin":27,
-    "probability":0.74
-    }
-    ,
-    { 
-    "home":"Gold Coast",
-    "away":"Western Bulldogs",
-    "winner":"Gold Coast",
-    "margin":2,
-    "probability":0.53
-    }
-    ,
-    { 
-    "home":"Port Adelaide",
-    "away":"Adelaide",
-    "winner":"Port Adelaide",
-    "margin":1,
-    "probability":0.52
-    }
-    ,
     { 
     "home":"Richmond",
     "away":"West Coast",
