@@ -2,17 +2,17 @@
   "botname":"ZaphBot2-TipsBits",
   "season":2025,
   "round":10,
-  "BestTips":"649",
-  "BestTipsBits":"143.543400",
-  "BestMargins":"25110",
-  "BestRMSE":"34.437759",
+  "BestTips":"650",
+  "BestTipsBits":"143.873354",
+  "BestMargins":"25100",
+  "BestRMSE":"34.418115",
   "tips": [
     { 
     "home":"Gold Coast",
     "away":"Hawthorn",
     "winner":"Hawthorn",
-    "margin":10,
-    "probability":0.60
+    "margin":12,
+    "probability":0.61
     }
     ,
     { 
@@ -27,8 +27,8 @@
     "home":"Richmond",
     "away":"North Melbourne",
     "winner":"North Melbourne",
-    "margin":1,
-    "probability":0.52
+    "margin":3,
+    "probability":0.54
     }
     ,
     { 
@@ -43,8 +43,8 @@
     "home":"West Coast",
     "away":"St Kilda",
     "winner":"St Kilda",
-    "margin":33,
-    "probability":0.80
+    "margin":32,
+    "probability":0.79
     }
   ]
 }
