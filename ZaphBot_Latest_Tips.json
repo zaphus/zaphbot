@@ -2,10 +2,10 @@
   "botname":"ZaphBot2-TipsBits",
   "season":2025,
   "round":10,
-  "BestTips":"650",
-  "BestTipsBits":"143.873354",
-  "BestMargins":"25100",
-  "BestRMSE":"34.418115",
+  "BestTips":"681",
+  "BestTipsBits":"140.242605",
+  "BestMargins":"26594",
+  "BestRMSE":"33.915365",
   "tips": [
     { 
     "home":"Gold Coast",
@@ -16,26 +16,50 @@
     }
     ,
     { 
+    "home":"Collingwood",
+    "away":"Adelaide",
+    "winner":"Collingwood",
+    "margin":5,
+    "probability":0.55
+    }
+    ,
+    { 
+    "home":"Port Adelaide",
+    "away":"Geelong",
+    "winner":"Geelong",
+    "margin":7,
+    "probability":0.57
+    }
+    ,
+    { 
+    "home":"Greater Western Sydney",
+    "away":"Fremantle",
+    "winner":"Greater Western Sydney",
+    "margin":23,
+    "probability":0.71
+    }
+    ,
+    { 
     "home":"Western Bulldogs",
     "away":"Essendon",
     "winner":"Western Bulldogs",
-    "margin":31,
-    "probability":0.78
+    "margin":33,
+    "probability":0.80
     }
     ,
     { 
     "home":"Richmond",
     "away":"North Melbourne",
     "winner":"North Melbourne",
-    "margin":3,
-    "probability":0.54
+    "margin":5,
+    "probability":0.55
     }
     ,
     { 
     "home":"Brisbane Lions",
     "away":"Melbourne",
     "winner":"Brisbane Lions",
-    "margin":48,
+    "margin":49,
     "probability":0.90
     }
     ,
@@ -43,8 +67,8 @@
     "home":"West Coast",
     "away":"St Kilda",
     "winner":"St Kilda",
-    "margin":32,
-    "probability":0.79
+    "margin":28,
+    "probability":0.75
     }
   ]
 }
