@@ -2,19 +2,11 @@
   "botname":"ZaphBot2-TipsBits",
   "season":2025,
   "round":10,
-  "BestTips":"673",
-  "BestTipsBits":"135.876265",
-  "BestMargins":"26401",
-  "BestRMSE":"33.736968",
+  "BestTips":"672",
+  "BestTipsBits":"135.086629",
+  "BestMargins":"26418",
+  "BestRMSE":"33.740599",
   "tips": [
-    { 
-    "home":"Gold Coast",
-    "away":"Hawthorn",
-    "winner":"Hawthorn",
-    "margin":11,
-    "probability":0.61
-    }
-    ,
     { 
     "home":"Sydney",
     "away":"Carlton",
