@@ -2,27 +2,11 @@
   "botname":"ZaphBot2-TipsBits",
   "season":2025,
   "round":10,
-  "BestTips":"673",
-  "BestTipsBits":"135.112022",
-  "BestMargins":"26457",
-  "BestRMSE":"33.802027",
+  "BestTips":"674",
+  "BestTipsBits":"133.823938",
+  "BestMargins":"26451",
+  "BestRMSE":"33.799837",
   "tips": [
-    { 
-    "home":"Richmond",
-    "away":"North Melbourne",
-    "winner":"North Melbourne",
-    "margin":6,
-    "probability":0.56
-    }
-    ,
-    { 
-    "home":"Brisbane Lions",
-    "away":"Melbourne",
-    "winner":"Brisbane Lions",
-    "margin":43,
-    "probability":0.88
-    }
-    ,
     { 
     "home":"West Coast",
     "away":"St Kilda",
