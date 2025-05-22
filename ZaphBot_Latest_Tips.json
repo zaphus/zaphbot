@@ -3,18 +3,10 @@
   "season":2025,
   "round":11,
   "BestTips":"673",
-  "BestTipsBits":"132.547195",
-  "BestMargins":"26467",
-  "BestRMSE":"33.818028",
+  "BestTipsBits":"132.146147",
+  "BestMargins":"26440",
+  "BestRMSE":"33.804053",
   "tips": [
-    { 
-    "home":"Geelong",
-    "away":"Western Bulldogs",
-    "winner":"Geelong",
-    "margin":10,
-    "probability":0.60
-    }
-    ,
     { 
     "home":"Essendon",
     "away":"Richmond",
