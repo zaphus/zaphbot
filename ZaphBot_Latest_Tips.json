@@ -3,18 +3,10 @@
   "season":2025,
   "round":12,
   "BestTips":"671",
-  "BestTipsBits":"131.386801",
-  "BestMargins":"26443",
-  "BestRMSE":"33.813799",
+  "BestTipsBits":"131.578053",
+  "BestMargins":"26450",
+  "BestRMSE":"33.819077",
   "tips": [
-    { 
-    "home":"Brisbane Lions",
-    "away":"Essendon",
-    "winner":"Brisbane Lions",
-    "margin":47,
-    "probability":0.90
-    }
-    ,
     { 
     "home":"Collingwood",
     "away":"Hawthorn",
