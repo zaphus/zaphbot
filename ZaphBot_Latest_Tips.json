@@ -3,18 +3,10 @@
   "season":2025,
   "round":12,
   "BestTips":"670",
-  "BestTipsBits":"130.790297",
-  "BestMargins":"26488",
-  "BestRMSE":"33.860626",
+  "BestTipsBits":"130.734099",
+  "BestMargins":"26470",
+  "BestRMSE":"33.846802",
   "tips": [
-    { 
-    "home":"Gold Coast",
-    "away":"Fremantle",
-    "winner":"Gold Coast",
-    "margin":6,
-    "probability":0.56
-    }
-    ,
     { 
     "home":"Greater Western Sydney",
     "away":"Richmond",
