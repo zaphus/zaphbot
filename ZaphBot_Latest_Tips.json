@@ -2,27 +2,11 @@
   "botname":"ZaphBot2-TipsBits",
   "season":2025,
   "round":12,
-  "BestTips":"670",
-  "BestTipsBits":"130.734099",
-  "BestMargins":"26470",
-  "BestRMSE":"33.846802",
+  "BestTips":"669",
+  "BestTipsBits":"130.029755",
+  "BestMargins":"26565",
+  "BestRMSE":"33.986188",
   "tips": [
-    { 
-    "home":"Greater Western Sydney",
-    "away":"Richmond",
-    "winner":"Greater Western Sydney",
-    "margin":43,
-    "probability":0.88
-    }
-    ,
-    { 
-    "home":"Sydney",
-    "away":"Adelaide",
-    "winner":"Sydney",
-    "margin":4,
-    "probability":0.54
-    }
-    ,
     { 
     "home":"Melbourne",
     "away":"St Kilda",
