@@ -4,17 +4,9 @@
   "round":13,
   "BestTips":"668",
   "BestTipsBits":"129.613752",
-  "BestMargins":"26604",
-  "BestRMSE":"34.008558",
+  "BestMargins":"26610",
+  "BestRMSE":"34.012439",
   "tips": [
-    { 
-    "home":"Western Bulldogs",
-    "away":"Hawthorn",
-    "winner":"Western Bulldogs",
-    "margin":3,
-    "probability":0.54
-    }
-    ,
     { 
     "home":"Adelaide",
     "away":"Brisbane Lions",
