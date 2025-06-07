@@ -2,27 +2,11 @@
   "botname":"ZaphBot2-TipsBits",
   "season":2025,
   "round":13,
-  "BestTips":"667",
-  "BestTipsBits":"129.322445",
-  "BestMargins":"26626",
-  "BestRMSE":"34.017466",
+  "BestTips":"666",
+  "BestTipsBits":"128.412142",
+  "BestMargins":"26627",
+  "BestRMSE":"34.021714",
   "tips": [
-    { 
-    "home":"Geelong",
-    "away":"Gold Coast",
-    "winner":"Geelong",
-    "margin":25,
-    "probability":0.73
-    }
-    ,
-    { 
-    "home":"Greater Western Sydney",
-    "away":"Port Adelaide",
-    "winner":"Greater Western Sydney",
-    "margin":10,
-    "probability":0.60
-    }
-    ,
     { 
     "home":"North Melbourne",
     "away":"West Coast",
