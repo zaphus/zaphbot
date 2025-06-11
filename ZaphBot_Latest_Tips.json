@@ -11,7 +11,7 @@
     "home":"St Kilda",
     "away":"Western Bulldogs",
     "winner":"Western Bulldogs",
-    "margin":11,
+    "margin":12,
     "probability":0.61
     }
     ,
@@ -51,15 +51,15 @@
     "home":"Port Adelaide",
     "away":"Melbourne",
     "winner":"Port Adelaide",
-    "margin":17,
-    "probability":0.66
+    "margin":12,
+    "probability":0.61
     }
     ,
     { 
     "home":"West Coast",
     "away":"Carlton",
     "winner":"Carlton",
-    "margin":20,
+    "margin":19,
     "probability":0.68
     }
   ]
