@@ -3,18 +3,10 @@
   "season":2025,
   "round":15,
   "BestTips":"668",
-  "BestTipsBits":"128.357494",
-  "BestMargins":"26615",
-  "BestRMSE":"34.024124",
+  "BestTipsBits":"128.736078",
+  "BestMargins":"26611",
+  "BestRMSE":"34.023889",
   "tips": [
-    { 
-    "home":"Fremantle",
-    "away":"Essendon",
-    "winner":"Fremantle",
-    "margin":41,
-    "probability":0.87
-    }
-    ,
     { 
     "home":"Geelong",
     "away":"Brisbane Lions",
