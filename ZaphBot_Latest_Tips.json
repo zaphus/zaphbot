@@ -3,23 +3,15 @@
   "season":2025,
   "round":15,
   "BestTips":"667",
-  "BestTipsBits":"127.600120",
-  "BestMargins":"26652",
-  "BestRMSE":"34.068930",
+  "BestTipsBits":"127.531571",
+  "BestMargins":"26655",
+  "BestRMSE":"34.069150",
   "tips": [
-    { 
-    "home":"Greater Western Sydney",
-    "away":"Gold Coast",
-    "winner":"Greater Western Sydney",
-    "margin":3,
-    "probability":0.54
-    }
-    ,
     { 
     "home":"Western Bulldogs",
     "away":"Richmond",
     "winner":"Western Bulldogs",
-    "margin":48,
+    "margin":47,
     "probability":0.90
     }
   ]
