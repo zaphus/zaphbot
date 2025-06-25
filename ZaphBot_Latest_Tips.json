@@ -35,8 +35,8 @@
     "home":"Gold Coast",
     "away":"Melbourne",
     "winner":"Gold Coast",
-    "margin":22,
-    "probability":0.70
+    "margin":21,
+    "probability":0.69
     }
     ,
     { 
@@ -50,7 +50,7 @@
     { 
     "home":"Sydney",
     "away":"Western Bulldogs",
-    "winner":"Sydney",
+    "winner":"Western Bulldogs",
     "margin":1,
     "probability":0.52
     }
