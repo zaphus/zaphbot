@@ -2,19 +2,11 @@
   "botname":"ZaphBot2-TipsBits",
   "season":2025,
   "round":16,
-  "BestTips":"667",
-  "BestTipsBits":"127.722823",
-  "BestMargins":"26674",
-  "BestRMSE":"34.081696",
+  "BestTips":"668",
+  "BestTipsBits":"128.225049",
+  "BestMargins":"26692",
+  "BestRMSE":"34.099648",
   "tips": [
-    { 
-    "home":"Port Adelaide",
-    "away":"Carlton",
-    "winner":"Port Adelaide",
-    "margin":7,
-    "probability":0.57
-    }
-    ,
     { 
     "home":"Collingwood",
     "away":"West Coast",
