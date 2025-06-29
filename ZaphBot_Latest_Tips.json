@@ -2,19 +2,11 @@
   "botname":"ZaphBot2-TipsBits",
   "season":2025,
   "round":16,
-  "BestTips":"671",
-  "BestTipsBits":"131.803076",
-  "BestMargins":"26606",
-  "BestRMSE":"34.005058",
+  "BestTips":"672",
+  "BestTipsBits":"133.838936",
+  "BestMargins":"26591",
+  "BestRMSE":"33.986306",
   "tips": [
-    { 
-    "home":"Richmond",
-    "away":"Adelaide",
-    "winner":"Adelaide",
-    "margin":33,
-    "probability":0.80
-    }
-    ,
     { 
     "home":"Fremantle",
     "away":"St Kilda",
