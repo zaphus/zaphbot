@@ -3,9 +3,9 @@
   "season":2025,
   "round":17,
   "BestTips":"673",
-  "BestTipsBits":"133.788751",
-  "BestMargins":"26661",
-  "BestRMSE":"34.031529",
+  "BestTipsBits":"133.634304",
+  "BestMargins":"26668",
+  "BestRMSE":"34.034923",
   "tips": [
     { 
     "home":"Adelaide",
@@ -29,14 +29,6 @@
     "winner":"Hawthorn",
     "margin":16,
     "probability":0.65
-    }
-    ,
-    { 
-    "home":"Essendon",
-    "away":"Gold Coast",
-    "winner":"Gold Coast",
-    "margin":21,
-    "probability":0.69
     }
     ,
     { 
