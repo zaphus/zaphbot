@@ -3,9 +3,9 @@
   "season":2025,
   "round":18,
   "BestTips":"674",
-  "BestTipsBits":"135.274624",
-  "BestMargins":"26633",
-  "BestRMSE":"34.011072",
+  "BestTipsBits":"135.602385",
+  "BestMargins":"26601",
+  "BestRMSE":"33.984717",
   "tips": [
     { 
     "home":"Port Adelaide",
@@ -37,14 +37,6 @@
     "winner":"Sydney",
     "margin":12,
     "probability":0.61
-    }
-    ,
-    { 
-    "home":"Carlton",
-    "away":"Brisbane Lions",
-    "winner":"Brisbane Lions",
-    "margin":25,
-    "probability":0.73
     }
     ,
     { 
