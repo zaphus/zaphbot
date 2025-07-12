@@ -4,8 +4,8 @@
   "round":18,
   "BestTips":"674",
   "BestTipsBits":"135.240537",
-  "BestMargins":"26582",
-  "BestRMSE":"33.978287",
+  "BestMargins":"26577",
+  "BestRMSE":"33.974976",
   "tips": [
     { 
     "home":"Port Adelaide",
@@ -24,14 +24,6 @@
     }
     ,
     { 
-    "home":"Western Bulldogs",
-    "away":"Adelaide",
-    "winner":"Western Bulldogs",
-    "margin":9,
-    "probability":0.59
-    }
-    ,
-    { 
     "home":"St Kilda",
     "away":"Sydney",
     "winner":"Sydney",
@@ -43,8 +35,8 @@
     "home":"Melbourne",
     "away":"North Melbourne",
     "winner":"Melbourne",
-    "margin":27,
-    "probability":0.74
+    "margin":22,
+    "probability":0.70
     }
     ,
     { 
