@@ -3,9 +3,9 @@
   "season":2025,
   "round":18,
   "BestTips":"673",
-  "BestTipsBits":"135.433102",
-  "BestMargins":"26601",
-  "BestRMSE":"33.987542",
+  "BestTipsBits":"135.009682",
+  "BestMargins":"26585",
+  "BestRMSE":"33.969236",
   "tips": [
     { 
     "home":"Port Adelaide",
@@ -13,22 +13,6 @@
     "winner":"Port Adelaide",
     "margin":36,
     "probability":0.82
-    }
-    ,
-    { 
-    "home":"St Kilda",
-    "away":"Sydney",
-    "winner":"Sydney",
-    "margin":14,
-    "probability":0.63
-    }
-    ,
-    { 
-    "home":"Melbourne",
-    "away":"North Melbourne",
-    "winner":"Melbourne",
-    "margin":22,
-    "probability":0.70
     }
   ]
 }
