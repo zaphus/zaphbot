@@ -27,8 +27,8 @@
     "home":"Essendon",
     "away":"Greater Western Sydney",
     "winner":"Greater Western Sydney",
-    "margin":23,
-    "probability":0.71
+    "margin":30,
+    "probability":0.77
     }
     ,
     { 
@@ -59,7 +59,7 @@
     "home":"Sydney",
     "away":"North Melbourne",
     "winner":"Sydney",
-    "margin":27,
+    "margin":26,
     "probability":0.74
     }
     ,
@@ -67,8 +67,8 @@
     "home":"Brisbane Lions",
     "away":"Western Bulldogs",
     "winner":"Brisbane Lions",
-    "margin":16,
-    "probability":0.65
+    "margin":14,
+    "probability":0.63
     }
     ,
     { 
