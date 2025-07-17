@@ -3,9 +3,9 @@
   "season":2025,
   "round":19,
   "BestTips":"673",
-  "BestTipsBits":"135.727834",
-  "BestMargins":"26595",
-  "BestRMSE":"33.968206",
+  "BestTipsBits":"136.139349",
+  "BestMargins":"26581",
+  "BestRMSE":"33.957900",
   "tips": [
     { 
     "home":"Adelaide",
@@ -21,14 +21,6 @@
     "winner":"Geelong",
     "margin":35,
     "probability":0.81
-    }
-    ,
-    { 
-    "home":"Essendon",
-    "away":"Greater Western Sydney",
-    "winner":"Greater Western Sydney",
-    "margin":30,
-    "probability":0.77
     }
     ,
     { 
