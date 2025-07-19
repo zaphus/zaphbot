@@ -3,9 +3,9 @@
   "season":2025,
   "round":19,
   "BestTips":"673",
-  "BestTipsBits":"136.115364",
-  "BestMargins":"26561",
-  "BestRMSE":"33.946708",
+  "BestTipsBits":"135.837212",
+  "BestMargins":"26554",
+  "BestRMSE":"33.943512",
   "tips": [
     { 
     "home":"Adelaide",
@@ -53,14 +53,6 @@
     "winner":"Sydney",
     "margin":35,
     "probability":0.81
-    }
-    ,
-    { 
-    "home":"Hawthorn",
-    "away":"Port Adelaide",
-    "winner":"Hawthorn",
-    "margin":26,
-    "probability":0.74
     }
   ]
 }
