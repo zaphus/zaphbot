@@ -2,10 +2,10 @@
   "botname":"ZaphBot2-TipsBits",
   "season":2025,
   "round":20,
-  "BestTips":"673",
-  "BestTipsBits":"140.173324",
-  "BestMargins":"26538",
-  "BestRMSE":"33.917459",
+  "BestTips":"674",
+  "BestTipsBits":"140.751510",
+  "BestMargins":"26530",
+  "BestRMSE":"33.915808",
   "tips": [
     { 
     "home":"Adelaide",
@@ -53,14 +53,6 @@
     "winner":"Collingwood",
     "margin":28,
     "probability":0.75
-    }
-    ,
-    { 
-    "home":"Hawthorn",
-    "away":"Carlton",
-    "winner":"Hawthorn",
-    "margin":21,
-    "probability":0.69
     }
     ,
     { 
