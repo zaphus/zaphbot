@@ -2,10 +2,10 @@
   "botname":"ZaphBot2-TipsBits",
   "season":2025,
   "round":21,
-  "BestTips":"675",
-  "BestTipsBits":"141.218860",
-  "BestMargins":"26769",
-  "BestRMSE":"34.212030",
+  "BestTips":"676",
+  "BestTipsBits":"142.596503",
+  "BestMargins":"26792",
+  "BestRMSE":"34.232528",
   "tips": [
     { 
     "home":"Geelong",
@@ -21,14 +21,6 @@
     "winner":"St Kilda",
     "margin":27,
     "probability":0.74
-    }
-    ,
-    { 
-    "home":"Melbourne",
-    "away":"West Coast",
-    "winner":"Melbourne",
-    "margin":41,
-    "probability":0.87
     }
     ,
     { 
