@@ -27,8 +27,8 @@
     "home":"Greater Western Sydney",
     "away":"North Melbourne",
     "winner":"Greater Western Sydney",
-    "margin":22,
-    "probability":0.70
+    "margin":23,
+    "probability":0.71
     }
     ,
     { 
@@ -59,16 +59,16 @@
     "home":"Hawthorn",
     "away":"Collingwood",
     "winner":"Hawthorn",
-    "margin":12,
-    "probability":0.61
+    "margin":10,
+    "probability":0.60
     }
     ,
     { 
     "home":"West Coast",
     "away":"Adelaide",
     "winner":"Adelaide",
-    "margin":35,
-    "probability":0.81
+    "margin":36,
+    "probability":0.82
     }
     ,
     { 
