@@ -3,7 +3,7 @@
   "season":2025,
   "round":22,
   "BestTips":"678",
-  "BestTipsBits":"148.139718",
+  "BestTipsBits":"148.419695",
   "BestMargins":"26578",
   "BestRMSE":"33.875242",
   "tips": [
@@ -20,7 +20,7 @@
     "away":"Essendon",
     "winner":"Geelong",
     "margin":54,
-    "probability":0.90
+    "probability":0.95
     }
     ,
     { 
