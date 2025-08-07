@@ -3,9 +3,9 @@
   "season":2025,
   "round":22,
   "BestTips":"678",
-  "BestTipsBits":"148.419695",
-  "BestMargins":"26578",
-  "BestRMSE":"33.875242",
+  "BestTipsBits":"148.302098",
+  "BestMargins":"26614",
+  "BestRMSE":"33.911355",
   "tips": [
     { 
     "home":"Port Adelaide",
@@ -53,14 +53,6 @@
     "winner":"Western Bulldogs",
     "margin":17,
     "probability":0.66
-    }
-    ,
-    { 
-    "home":"Hawthorn",
-    "away":"Collingwood",
-    "winner":"Hawthorn",
-    "margin":12,
-    "probability":0.61
     }
     ,
     { 
