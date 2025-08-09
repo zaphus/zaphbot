@@ -3,9 +3,9 @@
   "season":2025,
   "round":22,
   "BestTips":"678",
-  "BestTipsBits":"148.478890",
-  "BestMargins":"26593",
-  "BestRMSE":"33.897419",
+  "BestTipsBits":"148.368777",
+  "BestMargins":"26586",
+  "BestRMSE":"33.894011",
   "tips": [
     { 
     "home":"Port Adelaide",
@@ -32,14 +32,6 @@
     }
     ,
     { 
-    "home":"Richmond",
-    "away":"St Kilda",
-    "winner":"St Kilda",
-    "margin":17,
-    "probability":0.66
-    }
-    ,
-    { 
     "home":"Melbourne",
     "away":"Western Bulldogs",
     "winner":"Western Bulldogs",
@@ -59,8 +51,8 @@
     "home":"Brisbane Lions",
     "away":"Sydney",
     "winner":"Brisbane Lions",
-    "margin":11,
-    "probability":0.61
+    "margin":9,
+    "probability":0.59
     }
   ]
 }
