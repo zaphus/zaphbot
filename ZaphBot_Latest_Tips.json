@@ -3,88 +3,88 @@
   "season":2025,
   "round":24,
   "BestTips":"683",
-  "BestTipsBits":"153.839019",
-  "BestMargins":"26534",
-  "BestRMSE":"33.832677",
+  "BestTipsBits":"154.741425",
+  "BestMargins":"26676",
+  "BestRMSE":"33.947047",
   "tips": [
     { 
     "home":"Port Adelaide",
     "away":"Gold Coast",
     "winner":"Gold Coast",
-    "margin":13,
-    "probability":0.62
+    "margin":11,
+    "probability":0.61
     }
     ,
     { 
     "home":"Greater Western Sydney",
     "away":"St Kilda",
     "winner":"Greater Western Sydney",
-    "margin":28,
-    "probability":0.75
+    "margin":27,
+    "probability":0.74
     }
     ,
     { 
     "home":"North Melbourne",
     "away":"Adelaide",
     "winner":"Adelaide",
-    "margin":29,
-    "probability":0.76
+    "margin":30,
+    "probability":0.77
     }
     ,
     { 
     "home":"Western Bulldogs",
     "away":"Fremantle",
     "winner":"Western Bulldogs",
-    "margin":27,
-    "probability":0.74
+    "margin":25,
+    "probability":0.73
     }
     ,
     { 
     "home":"Collingwood",
     "away":"Melbourne",
     "winner":"Collingwood",
-    "margin":11,
-    "probability":0.61
+    "margin":13,
+    "probability":0.62
     }
     ,
     { 
     "home":"Richmond",
     "away":"Geelong",
     "winner":"Geelong",
-    "margin":43,
-    "probability":0.88
+    "margin":47,
+    "probability":0.92
     }
     ,
     { 
     "home":"Essendon",
     "away":"Carlton",
     "winner":"Carlton",
-    "margin":19,
-    "probability":0.68
+    "margin":16,
+    "probability":0.65
     }
     ,
     { 
     "home":"West Coast",
     "away":"Sydney",
     "winner":"Sydney",
-    "margin":27,
-    "probability":0.74
+    "margin":34,
+    "probability":0.81
     }
     ,
     { 
     "home":"Brisbane Lions",
     "away":"Hawthorn",
     "winner":"Brisbane Lions",
-    "margin":6,
-    "probability":0.56
+    "margin":7,
+    "probability":0.57
     }
     ,
     { 
     "home":"Gold Coast",
     "away":"Essendon",
     "winner":"Gold Coast",
-    "margin":45,
-    "probability":0.90
+    "margin":48,
+    "probability":0.93
     }
   ]
 }
