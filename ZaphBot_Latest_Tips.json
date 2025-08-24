@@ -2,27 +2,11 @@
   "botname":"ZaphBot2-TipsBits",
   "season":2025,
   "round":24,
-  "BestTips":"688",
-  "BestTipsBits":"156.998594",
-  "BestMargins":"26749",
-  "BestRMSE":"33.883456",
+  "BestTips":"689",
+  "BestTipsBits":"157.128343",
+  "BestMargins":"26800",
+  "BestRMSE":"33.869749",
   "tips": [
-    { 
-    "home":"Greater Western Sydney",
-    "away":"St Kilda",
-    "winner":"Greater Western Sydney",
-    "margin":31,
-    "probability":0.78
-    }
-    ,
-    { 
-    "home":"Western Bulldogs",
-    "away":"Fremantle",
-    "winner":"Western Bulldogs",
-    "margin":16,
-    "probability":0.65
-    }
-    ,
     { 
     "home":"Brisbane Lions",
     "away":"Hawthorn",
