@@ -1,18 +1,11 @@
 {
   "botname":"ZaphBot2-TipsBits",
   "season":2025,
-  "round":24,
-  "BestTips":"689",
-  "BestTipsBits":"157.047061",
-  "BestMargins":"26812",
-  "BestRMSE":"33.855054",
+  "round":0,
+  "BestTips":"687",
+  "BestTipsBits":"155.615171",
+  "BestMargins":"26762",
+  "BestRMSE":"33.867975",
   "tips": [
-    { 
-    "home":"Gold Coast",
-    "away":"Essendon",
-    "winner":"Gold Coast",
-    "margin":48,
-    "probability":0.93
-    }
   ]
 }
