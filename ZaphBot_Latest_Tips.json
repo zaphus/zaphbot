@@ -10,17 +10,17 @@
     { 
     "home":"Adelaide",
     "away":"Hawthorn",
-    "winner":"Hawthorn",
-    "margin":1,
-    "probability":0.52
+    "winner":"Adelaide",
+    "margin":3,
+    "probability":0.54
     }
     ,
     { 
     "home":"Brisbane Lions",
     "away":"Gold Coast",
     "winner":"Brisbane Lions",
-    "margin":11,
-    "probability":0.61
+    "margin":10,
+    "probability":0.60
     }
   ]
 }
