@@ -3,18 +3,10 @@
   "season":2025,
   "round":26,
   "BestTips":"687",
-  "BestTipsBits":"155.757434",
-  "BestMargins":"26729",
-  "BestRMSE":"33.790743",
+  "BestTipsBits":"155.649360",
+  "BestMargins":"26766",
+  "BestRMSE":"33.794078",
   "tips": [
-    { 
-    "home":"Adelaide",
-    "away":"Hawthorn",
-    "winner":"Adelaide",
-    "margin":3,
-    "probability":0.54
-    }
-    ,
     { 
     "home":"Brisbane Lions",
     "away":"Gold Coast",
