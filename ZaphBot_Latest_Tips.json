@@ -1,18 +1,46 @@
 {
-  "botname":"ZaphBot2-TipsBits",
-  "season":2026,
-  "round":0,
-  "BestTips":"682",
-  "BestTipsBits":"153.360686",
-  "BestMargins":"26577",
-  "BestRMSE":"33.847703",
+  "botname": "ZaphBot2-TipsBits",
+  "season": 2026,
+  "round": 0,
+  "BestTips": "N/A",
+  "BestTipsBits": "N/A",
+  "BestMargins": "N/A",
+  "BestRMSE": "N/A",
   "tips": [
-    { 
-    "home":"St Kilda",
-    "away":"Collingwood",
-    "winner":"Collingwood",
-    "margin":16,
-    "probability":0.65
+    {
+      "home": "Sydney",
+      "away": "Carlton",
+      "winner": "Sydney",
+      "margin": 13,
+      "probability": 0.6
+    },
+    {
+      "home": "Gold Coast",
+      "away": "Geelong",
+      "winner": "Geelong",
+      "margin": 15,
+      "probability": 0.73
+    },
+    {
+      "home": "GWS",
+      "away": "Hawthorn",
+      "winner": "Hawthorn",
+      "margin": 12,
+      "probability": 0.68
+    },
+    {
+      "home": "Brisbane Lions",
+      "away": "Footscray",
+      "winner": "Footscray",
+      "margin": 8,
+      "probability": 0.62
+    },
+    {
+      "home": "St Kilda",
+      "away": "Collingwood",
+      "winner": "Collingwood",
+      "margin": 17,
+      "probability": 0.75
     }
   ]
 }
