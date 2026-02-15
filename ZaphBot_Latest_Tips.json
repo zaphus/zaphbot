@@ -1,11 +1,18 @@
 {
   "botname":"ZaphBot2-TipsBits",
-  "season":2025,
+  "season":2026,
   "round":0,
-  "BestTips":"689",
-  "BestTipsBits":"155.396613",
-  "BestMargins":"26864",
-  "BestRMSE":"33.871149",
+  "BestTips":"682",
+  "BestTipsBits":"153.360686",
+  "BestMargins":"26577",
+  "BestRMSE":"33.847703",
   "tips": [
+    { 
+    "home":"St Kilda",
+    "away":"Collingwood",
+    "winner":"Collingwood",
+    "margin":16,
+    "probability":0.65
+    }
   ]
 }
