@@ -1,11 +1,51 @@
 {
-  "botname":"ZaphBot2-TipsBits",
-  "season":2025,
-  "round":0,
-  "BestTips":"674",
-  "BestTipsBits":"153.722008",
-  "BestMargins":"26612",
-  "BestRMSE":"33.879610",
+  "botname": "ZaphBot2-TipsBits",
+  "season": 2026,
+  "round": 0,
+  "BestTips": "N/A",
+  "BestTipsBits": "N/A",
+  "BestMargins": "N/A",
+  "BestRMSE": "N/A",
   "tips": [
+    {
+      "home": "Sydney",
+      "away": "Carlton",
+      "winner": "Sydney",
+      "margin": 27,
+      "probability": 0.78,
+      "lineup_state": "final_team"
+    },
+    {
+      "home": "Gold Coast",
+      "away": "Geelong",
+      "winner": "Geelong",
+      "margin": 32,
+      "probability": 0.83,
+      "lineup_state": "no_lineup"
+    },
+    {
+      "home": "GWS",
+      "away": "Hawthorn",
+      "winner": "Hawthorn",
+      "margin": 17,
+      "probability": 0.68,
+      "lineup_state": "no_lineup"
+    },
+    {
+      "home": "Brisbane Lions",
+      "away": "Footscray",
+      "winner": "Footscray",
+      "margin": 5,
+      "probability": 0.55,
+      "lineup_state": "no_lineup"
+    },
+    {
+      "home": "St Kilda",
+      "away": "Collingwood",
+      "winner": "Collingwood",
+      "margin": 42,
+      "probability": 0.93,
+      "lineup_state": "no_lineup"
+    }
   ]
 }
