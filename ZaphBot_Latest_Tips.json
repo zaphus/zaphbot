@@ -21,7 +21,7 @@
       "winner": "Geelong",
       "margin": 22,
       "probability": 0.73,
-      "lineup_state": "final_team"
+      "lineup_state": "extended_squad"
     },
     {
       "home": "GWS",
@@ -29,7 +29,7 @@
       "winner": "Hawthorn",
       "margin": 13,
       "probability": 0.64,
-      "lineup_state": "final_team"
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Brisbane Lions",
@@ -37,7 +37,7 @@
       "winner": "Brisbane Lions",
       "margin": 25,
       "probability": 0.76,
-      "lineup_state": "final_team"
+      "lineup_state": "extended_squad"
     },
     {
       "home": "St Kilda",
@@ -45,7 +45,7 @@
       "winner": "Collingwood",
       "margin": 36,
       "probability": 0.88,
-      "lineup_state": "final_team"
+      "lineup_state": "extended_squad"
     }
   ]
 }
