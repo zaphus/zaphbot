@@ -19,33 +19,33 @@
       "home": "Gold Coast",
       "away": "Geelong",
       "winner": "Geelong",
-      "margin": 32,
-      "probability": 0.83,
-      "lineup_state": "no_lineup"
+      "margin": 22,
+      "probability": 0.73,
+      "lineup_state": "final_team"
     },
     {
       "home": "GWS",
       "away": "Hawthorn",
       "winner": "Hawthorn",
-      "margin": 17,
-      "probability": 0.68,
-      "lineup_state": "no_lineup"
+      "margin": 13,
+      "probability": 0.64,
+      "lineup_state": "final_team"
     },
     {
       "home": "Brisbane Lions",
       "away": "Footscray",
-      "winner": "Footscray",
-      "margin": 5,
-      "probability": 0.55,
-      "lineup_state": "no_lineup"
+      "winner": "Brisbane Lions",
+      "margin": 25,
+      "probability": 0.76,
+      "lineup_state": "final_team"
     },
     {
       "home": "St Kilda",
       "away": "Collingwood",
       "winner": "Collingwood",
-      "margin": 42,
-      "probability": 0.93,
-      "lineup_state": "no_lineup"
+      "margin": 36,
+      "probability": 0.88,
+      "lineup_state": "final_team"
     }
   ]
 }
