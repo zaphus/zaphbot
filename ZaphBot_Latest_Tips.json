@@ -21,7 +21,7 @@
       "winner": "Geelong",
       "margin": 22,
       "probability": 0.73,
-      "lineup_state": "extended_squad"
+      "lineup_state": "final_team"
     },
     {
       "home": "GWS",
@@ -43,8 +43,8 @@
       "home": "St Kilda",
       "away": "Collingwood",
       "winner": "Collingwood",
-      "margin": 36,
-      "probability": 0.88,
+      "margin": 39,
+      "probability": 0.9,
       "lineup_state": "extended_squad"
     }
   ]
