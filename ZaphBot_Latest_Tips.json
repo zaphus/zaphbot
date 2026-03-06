@@ -2,10 +2,10 @@
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
   "round": 0,
-  "BestTips": "1",
-  "BestTipsBits": "0.565597",
-  "BestMargins": "40",
-  "BestRMSE": "40.000000",
+  "BestTips": "2",
+  "BestTipsBits": "0.413594",
+  "BestMargins": "91",
+  "BestRMSE": "45.831212",
   "tips": [
     {
       "home": "Sydney",
@@ -19,8 +19,8 @@
       "home": "Gold Coast",
       "away": "Geelong",
       "winner": "Geelong",
-      "margin": 22,
-      "probability": 0.73,
+      "margin": 5,
+      "probability": 0.55,
       "lineup_state": "final_team"
     },
     {
