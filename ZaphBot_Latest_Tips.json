@@ -1,51 +1,83 @@
 {
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
-  "round": 0,
-  "BestTips": "3",
-  "BestTipsBits": "-0.534268",
-  "BestMargins": "134",
-  "BestRMSE": "35.812009",
+  "round": 1,
+  "BestTips": "N/A",
+  "BestTipsBits": "N/A",
+  "BestMargins": "N/A",
+  "BestRMSE": "N/A",
   "tips": [
     {
+      "home": "Carlton",
+      "away": "Richmond",
+      "winner": "Carlton",
+      "margin": 46,
+      "probability": 0.97,
+      "lineup_state": "no_lineup"
+    },
+    {
+      "home": "Essendon",
+      "away": "Hawthorn",
+      "winner": "Hawthorn",
+      "margin": 47,
+      "probability": 0.98,
+      "lineup_state": "no_lineup"
+    },
+    {
+      "home": "Footscray",
+      "away": "GWS",
+      "winner": "Footscray",
+      "margin": 34,
+      "probability": 0.85,
+      "lineup_state": "no_lineup"
+    },
+    {
+      "home": "Geelong",
+      "away": "Fremantle",
+      "winner": "Geelong",
+      "margin": 42,
+      "probability": 0.94,
+      "lineup_state": "no_lineup"
+    },
+    {
       "home": "Sydney",
-      "away": "Carlton",
-      "winner": "Sydney",
-      "margin": 23,
-      "probability": 0.74,
-      "lineup_state": "final_team"
+      "away": "Brisbane Lions",
+      "winner": "Brisbane Lions",
+      "margin": 31,
+      "probability": 0.82,
+      "lineup_state": "no_lineup"
+    },
+    {
+      "home": "Collingwood",
+      "away": "Adelaide",
+      "winner": "Adelaide",
+      "margin": 14,
+      "probability": 0.65,
+      "lineup_state": "no_lineup"
+    },
+    {
+      "home": "North Melbourne",
+      "away": "Port Adelaide",
+      "winner": "Port Adelaide",
+      "margin": 17,
+      "probability": 0.68,
+      "lineup_state": "no_lineup"
+    },
+    {
+      "home": "Melbourne",
+      "away": "St Kilda",
+      "winner": "Melbourne",
+      "margin": 17,
+      "probability": 0.68,
+      "lineup_state": "no_lineup"
     },
     {
       "home": "Gold Coast",
-      "away": "Geelong",
-      "winner": "Geelong",
-      "margin": 5,
-      "probability": 0.55,
-      "lineup_state": "final_team"
-    },
-    {
-      "home": "GWS",
-      "away": "Hawthorn",
-      "winner": "GWS",
-      "margin": 4,
-      "probability": 0.54,
-      "lineup_state": "final_team"
-    },
-    {
-      "home": "Brisbane Lions",
-      "away": "Footscray",
-      "winner": "Brisbane Lions",
-      "margin": 25,
-      "probability": 0.76,
-      "lineup_state": "final_team"
-    },
-    {
-      "home": "St Kilda",
-      "away": "Collingwood",
-      "winner": "Collingwood",
-      "margin": 39,
-      "probability": 0.9,
-      "lineup_state": "final_team"
+      "away": "West Coast",
+      "winner": "Gold Coast",
+      "margin": 47,
+      "probability": 0.99,
+      "lineup_state": "no_lineup"
     }
   ]
 }
