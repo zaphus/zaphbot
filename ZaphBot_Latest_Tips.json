@@ -11,16 +11,16 @@
       "home": "Carlton",
       "away": "Richmond",
       "winner": "Carlton",
-      "margin": 46,
-      "probability": 0.97,
+      "margin": 44,
+      "probability": 0.95,
       "lineup_state": "no_lineup"
     },
     {
       "home": "Essendon",
       "away": "Hawthorn",
       "winner": "Hawthorn",
-      "margin": 47,
-      "probability": 0.98,
+      "margin": 44,
+      "probability": 0.95,
       "lineup_state": "no_lineup"
     },
     {
@@ -59,8 +59,8 @@
       "home": "North Melbourne",
       "away": "Port Adelaide",
       "winner": "Port Adelaide",
-      "margin": 17,
-      "probability": 0.68,
+      "margin": 16,
+      "probability": 0.67,
       "lineup_state": "no_lineup"
     },
     {
@@ -75,8 +75,8 @@
       "home": "Gold Coast",
       "away": "West Coast",
       "winner": "Gold Coast",
-      "margin": 47,
-      "probability": 0.99,
+      "margin": 44,
+      "probability": 0.95,
       "lineup_state": "no_lineup"
     }
   ]
