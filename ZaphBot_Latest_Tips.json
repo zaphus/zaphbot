@@ -11,9 +11,9 @@
       "home": "Carlton",
       "away": "Richmond",
       "winner": "Carlton",
-      "margin": 44,
-      "probability": 0.95,
-      "lineup_state": "no_lineup"
+      "margin": 41,
+      "probability": 0.92,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Essendon",
@@ -59,7 +59,7 @@
       "home": "North Melbourne",
       "away": "Port Adelaide",
       "winner": "Port Adelaide",
-      "margin": 16,
+      "margin": 17,
       "probability": 0.67,
       "lineup_state": "no_lineup"
     },
