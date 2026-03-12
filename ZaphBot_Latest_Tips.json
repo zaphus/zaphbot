@@ -2,17 +2,17 @@
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
   "round": 1,
-  "BestTips": "N/A",
-  "BestTipsBits": "N/A",
-  "BestMargins": "N/A",
-  "BestRMSE": "N/A",
+  "BestTips": "1",
+  "BestTipsBits": "0.659925",
+  "BestMargins": "24",
+  "BestRMSE": "24.000000",
   "tips": [
     {
       "home": "Carlton",
       "away": "Richmond",
       "winner": "Carlton",
-      "margin": 31,
-      "probability": 0.82,
+      "margin": 28,
+      "probability": 0.79,
       "lineup_state": "final_team"
     },
     {
