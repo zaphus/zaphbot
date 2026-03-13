@@ -59,8 +59,8 @@
       "home": "North Melbourne",
       "away": "Port Adelaide",
       "winner": "Port Adelaide",
-      "margin": 6,
-      "probability": 0.56,
+      "margin": 10,
+      "probability": 0.61,
       "lineup_state": "extended_squad"
     },
     {
@@ -68,15 +68,15 @@
       "away": "St Kilda",
       "winner": "Melbourne",
       "margin": 12,
-      "probability": 0.62,
+      "probability": 0.63,
       "lineup_state": "extended_squad"
     },
     {
       "home": "Gold Coast",
       "away": "West Coast",
       "winner": "Gold Coast",
-      "margin": 42,
-      "probability": 0.93,
+      "margin": 43,
+      "probability": 0.95,
       "lineup_state": "extended_squad"
     }
   ]
