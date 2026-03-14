@@ -2,10 +2,10 @@
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
   "round": 1,
-  "BestTips": "2",
-  "BestTipsBits": "1.881987",
-  "BestMargins": "115",
-  "BestRMSE": "41.154182",
+  "BestTips": "4",
+  "BestTipsBits": "2.231628",
+  "BestMargins": "171",
+  "BestRMSE": "32.596012",
   "tips": [
     {
       "home": "Carlton",
@@ -19,55 +19,55 @@
       "home": "Essendon",
       "away": "Hawthorn",
       "winner": "Hawthorn",
-      "margin": 30,
-      "probability": 0.81,
+      "margin": 32,
+      "probability": 0.83,
       "lineup_state": "final_team"
     },
     {
       "home": "Footscray",
       "away": "GWS",
       "winner": "Footscray",
-      "margin": 22,
-      "probability": 0.72,
+      "margin": 28,
+      "probability": 0.79,
       "lineup_state": "final_team"
     },
     {
       "home": "Geelong",
       "away": "Fremantle",
       "winner": "Geelong",
-      "margin": 28,
-      "probability": 0.79,
+      "margin": 30,
+      "probability": 0.81,
       "lineup_state": "final_team"
     },
     {
       "home": "Sydney",
       "away": "Brisbane Lions",
       "winner": "Sydney",
-      "margin": 15,
-      "probability": 0.65,
+      "margin": 3,
+      "probability": 0.53,
       "lineup_state": "final_team"
     },
     {
       "home": "Collingwood",
       "away": "Adelaide",
       "winner": "Collingwood",
-      "margin": 8,
-      "probability": 0.58,
+      "margin": 17,
+      "probability": 0.67,
       "lineup_state": "final_team"
     },
     {
       "home": "North Melbourne",
       "away": "Port Adelaide",
       "winner": "Port Adelaide",
-      "margin": 10,
-      "probability": 0.61,
+      "margin": 8,
+      "probability": 0.58,
       "lineup_state": "extended_squad"
     },
     {
       "home": "Melbourne",
       "away": "St Kilda",
       "winner": "Melbourne",
-      "margin": 12,
+      "margin": 13,
       "probability": 0.63,
       "lineup_state": "extended_squad"
     },
@@ -75,8 +75,8 @@
       "home": "Gold Coast",
       "away": "West Coast",
       "winner": "Gold Coast",
-      "margin": 43,
-      "probability": 0.94,
+      "margin": 42,
+      "probability": 0.93,
       "lineup_state": "extended_squad"
     }
   ]
