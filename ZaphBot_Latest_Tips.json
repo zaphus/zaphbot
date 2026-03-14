@@ -2,10 +2,10 @@
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
   "round": 1,
-  "BestTips": "1",
-  "BestTipsBits": "1.355918",
-  "BestMargins": "56",
-  "BestRMSE": "28.284271",
+  "BestTips": "2",
+  "BestTipsBits": "1.881987",
+  "BestMargins": "115",
+  "BestRMSE": "41.154182",
   "tips": [
     {
       "home": "Carlton",
@@ -27,8 +27,8 @@
       "home": "Footscray",
       "away": "GWS",
       "winner": "Footscray",
-      "margin": 20,
-      "probability": 0.71,
+      "margin": 22,
+      "probability": 0.72,
       "lineup_state": "final_team"
     },
     {
@@ -37,7 +37,7 @@
       "winner": "Geelong",
       "margin": 28,
       "probability": 0.79,
-      "lineup_state": "extended_squad"
+      "lineup_state": "final_team"
     },
     {
       "home": "Sydney",
@@ -45,7 +45,7 @@
       "winner": "Sydney",
       "margin": 15,
       "probability": 0.65,
-      "lineup_state": "extended_squad"
+      "lineup_state": "final_team"
     },
     {
       "home": "Collingwood",
@@ -53,7 +53,7 @@
       "winner": "Collingwood",
       "margin": 8,
       "probability": 0.58,
-      "lineup_state": "extended_squad"
+      "lineup_state": "final_team"
     },
     {
       "home": "North Melbourne",
