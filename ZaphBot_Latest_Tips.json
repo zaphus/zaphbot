@@ -11,9 +11,9 @@
       "home": "Hawthorn",
       "away": "Sydney",
       "winner": "Hawthorn",
-      "margin": 25,
-      "probability": 0.76,
-      "lineup_state": "no_lineup"
+      "margin": 19,
+      "probability": 0.69,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Adelaide",
@@ -44,7 +44,7 @@
       "away": "Melbourne",
       "winner": "Fremantle",
       "margin": 18,
-      "probability": 0.68,
+      "probability": 0.69,
       "lineup_state": "no_lineup"
     },
     {
