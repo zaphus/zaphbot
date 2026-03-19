@@ -2,10 +2,10 @@
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
   "round": 2,
-  "BestTips": "N/A",
-  "BestTipsBits": "N/A",
-  "BestMargins": "N/A",
-  "BestRMSE": "N/A",
+  "BestTips": "1",
+  "BestTipsBits": "0.378512",
+  "BestMargins": "3",
+  "BestRMSE": "3.000000",
   "tips": [
     {
       "home": "Hawthorn",
