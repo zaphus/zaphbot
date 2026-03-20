@@ -19,9 +19,9 @@
       "home": "Adelaide",
       "away": "Footscray",
       "winner": "Footscray",
-      "margin": 7,
-      "probability": 0.57,
-      "lineup_state": "extended_squad"
+      "margin": 11,
+      "probability": 0.61,
+      "lineup_state": "final_team"
     },
     {
       "home": "Richmond",
