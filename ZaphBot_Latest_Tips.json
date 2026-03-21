@@ -3,9 +3,9 @@
   "season": 2026,
   "round": 2,
   "BestTips": "1",
-  "BestTipsBits": "0.617298",
-  "BestMargins": "5",
-  "BestRMSE": "2.549510",
+  "BestTipsBits": "1.348482",
+  "BestMargins": "41",
+  "BestRMSE": "20.888593",
   "tips": [
     {
       "home": "Hawthorn",
@@ -27,25 +27,25 @@
       "home": "Richmond",
       "away": "Gold Coast",
       "winner": "Gold Coast",
-      "margin": 36,
-      "probability": 0.88,
+      "margin": 32,
+      "probability": 0.83,
       "lineup_state": "final_team"
     },
     {
       "home": "GWS",
       "away": "St Kilda",
       "winner": "GWS",
-      "margin": 25,
-      "probability": 0.75,
-      "lineup_state": "extended_squad"
+      "margin": 22,
+      "probability": 0.73,
+      "lineup_state": "final_team"
     },
     {
       "home": "Fremantle",
       "away": "Melbourne",
       "winner": "Fremantle",
-      "margin": 14,
-      "probability": 0.65,
-      "lineup_state": "extended_squad"
+      "margin": 15,
+      "probability": 0.66,
+      "lineup_state": "final_team"
     },
     {
       "home": "Port Adelaide",
