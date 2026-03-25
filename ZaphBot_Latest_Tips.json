@@ -11,9 +11,9 @@
       "home": "Geelong",
       "away": "Adelaide",
       "winner": "Geelong",
-      "margin": 24,
-      "probability": 0.75,
-      "lineup_state": "no_lineup"
+      "margin": 23,
+      "probability": 0.74,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Collingwood",
