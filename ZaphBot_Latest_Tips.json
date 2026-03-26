@@ -2,17 +2,17 @@
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
   "round": 3,
-  "BestTips": "N/A",
-  "BestTipsBits": "N/A",
-  "BestMargins": "N/A",
-  "BestRMSE": "N/A",
+  "BestTips": "1",
+  "BestTipsBits": "0.505891",
+  "BestMargins": "13",
+  "BestRMSE": "13.000000",
   "tips": [
     {
       "home": "Geelong",
       "away": "Adelaide",
       "winner": "Geelong",
-      "margin": 14,
-      "probability": 0.64,
+      "margin": 21,
+      "probability": 0.71,
       "lineup_state": "final_team"
     },
     {
