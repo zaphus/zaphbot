@@ -11,25 +11,25 @@
       "home": "Geelong",
       "away": "Adelaide",
       "winner": "Geelong",
-      "margin": 23,
-      "probability": 0.74,
-      "lineup_state": "extended_squad"
+      "margin": 14,
+      "probability": 0.64,
+      "lineup_state": "final_team"
     },
     {
       "home": "Collingwood",
       "away": "GWS",
       "winner": "Collingwood",
-      "margin": 7,
-      "probability": 0.57,
-      "lineup_state": "no_lineup"
+      "margin": 8,
+      "probability": 0.59,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "St Kilda",
       "away": "Brisbane Lions",
       "winner": "Brisbane Lions",
-      "margin": 30,
-      "probability": 0.81,
-      "lineup_state": "no_lineup"
+      "margin": 15,
+      "probability": 0.66,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Fremantle",
@@ -37,15 +37,15 @@
       "winner": "Fremantle",
       "margin": 43,
       "probability": 0.94,
-      "lineup_state": "no_lineup"
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Essendon",
       "away": "North Melbourne",
-      "winner": "Essendon",
-      "margin": 3,
-      "probability": 0.54,
-      "lineup_state": "no_lineup"
+      "winner": "North Melbourne",
+      "margin": 1,
+      "probability": 0.51,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Port Adelaide",
@@ -53,15 +53,15 @@
       "winner": "Port Adelaide",
       "margin": 31,
       "probability": 0.82,
-      "lineup_state": "no_lineup"
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Carlton",
       "away": "Melbourne",
       "winner": "Melbourne",
-      "margin": 6,
-      "probability": 0.56,
-      "lineup_state": "no_lineup"
+      "margin": 7,
+      "probability": 0.57,
+      "lineup_state": "extended_squad"
     }
   ]
 }
