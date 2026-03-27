@@ -43,8 +43,8 @@
       "home": "Essendon",
       "away": "North Melbourne",
       "winner": "North Melbourne",
-      "margin": 1,
-      "probability": 0.51,
+      "margin": 2,
+      "probability": 0.52,
       "lineup_state": "extended_squad"
     },
     {
@@ -59,8 +59,8 @@
       "home": "Carlton",
       "away": "Melbourne",
       "winner": "Melbourne",
-      "margin": 7,
-      "probability": 0.57,
+      "margin": 6,
+      "probability": 0.56,
       "lineup_state": "extended_squad"
     }
   ]
