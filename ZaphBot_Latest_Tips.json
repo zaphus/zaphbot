@@ -3,9 +3,9 @@
   "season": 2026,
   "round": 3,
   "BestTips": "2",
-  "BestTipsBits": "0.928124",
-  "BestMargins": "29",
-  "BestRMSE": "14.577380",
+  "BestTipsBits": "1.392792",
+  "BestMargins": "44",
+  "BestRMSE": "14.719601",
   "tips": [
     {
       "home": "Geelong",
@@ -27,7 +27,7 @@
       "home": "St Kilda",
       "away": "Brisbane Lions",
       "winner": "Brisbane Lions",
-      "margin": 19,
+      "margin": 18,
       "probability": 0.69,
       "lineup_state": "final_team"
     },
@@ -35,17 +35,17 @@
       "home": "Fremantle",
       "away": "Richmond",
       "winner": "Fremantle",
-      "margin": 43,
-      "probability": 0.94,
-      "lineup_state": "extended_squad"
+      "margin": 42,
+      "probability": 0.93,
+      "lineup_state": "final_team"
     },
     {
       "home": "Essendon",
       "away": "North Melbourne",
       "winner": "North Melbourne",
       "margin": 2,
-      "probability": 0.52,
-      "lineup_state": "extended_squad"
+      "probability": 0.53,
+      "lineup_state": "final_team"
     },
     {
       "home": "Port Adelaide",
