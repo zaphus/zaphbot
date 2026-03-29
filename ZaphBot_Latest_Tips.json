@@ -51,9 +51,9 @@
       "home": "Port Adelaide",
       "away": "West Coast",
       "winner": "Port Adelaide",
-      "margin": 31,
-      "probability": 0.82,
-      "lineup_state": "extended_squad"
+      "margin": 33,
+      "probability": 0.84,
+      "lineup_state": "final_team"
     },
     {
       "home": "Carlton",
