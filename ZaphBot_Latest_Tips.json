@@ -3,9 +3,9 @@
   "season": 2026,
   "round": 4,
   "BestTips": "2",
-  "BestTipsBits": "-0.499810",
-  "BestMargins": "49",
-  "BestRMSE": "27.064737",
+  "BestTipsBits": "-0.261023",
+  "BestMargins": "56",
+  "BestRMSE": "22.464787",
   "tips": [
     {
       "home": "Brisbane Lions",
@@ -26,9 +26,9 @@
     {
       "home": "Adelaide",
       "away": "Fremantle",
-      "winner": "Adelaide",
-      "margin": 1,
-      "probability": 0.51,
+      "winner": "Fremantle",
+      "margin": 9,
+      "probability": 0.59,
       "lineup_state": "final_team"
     },
     {
