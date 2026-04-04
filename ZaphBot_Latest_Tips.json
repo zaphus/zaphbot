@@ -3,9 +3,9 @@
   "season": 2026,
   "round": 4,
   "BestTips": "2",
-  "BestTipsBits": "0.025858",
-  "BestMargins": "87",
-  "BestRMSE": "24.874686",
+  "BestTipsBits": "0.469465",
+  "BestMargins": "198",
+  "BestRMSE": "54.398529",
   "tips": [
     {
       "home": "Brisbane Lions",
@@ -43,8 +43,8 @@
       "home": "West Coast",
       "away": "Sydney",
       "winner": "Sydney",
-      "margin": 34,
-      "probability": 0.85,
+      "margin": 17,
+      "probability": 0.68,
       "lineup_state": "final_team"
     },
     {
