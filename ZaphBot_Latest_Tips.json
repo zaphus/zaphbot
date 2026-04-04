@@ -35,9 +35,9 @@
       "home": "Richmond",
       "away": "Port Adelaide",
       "winner": "Port Adelaide",
-      "margin": 18,
-      "probability": 0.69,
-      "lineup_state": "extended_squad"
+      "margin": 13,
+      "probability": 0.63,
+      "lineup_state": "final_team"
     },
     {
       "home": "West Coast",
