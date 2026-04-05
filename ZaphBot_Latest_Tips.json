@@ -51,9 +51,9 @@
       "home": "Melbourne",
       "away": "Gold Coast",
       "winner": "Gold Coast",
-      "margin": 12,
-      "probability": 0.62,
-      "lineup_state": "extended_squad"
+      "margin": 10,
+      "probability": 0.6,
+      "lineup_state": "final_team"
     },
     {
       "home": "Footscray",
