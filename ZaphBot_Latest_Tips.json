@@ -2,10 +2,10 @@
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
   "round": 4,
-  "BestTips": "3",
-  "BestTipsBits": "0.183161",
-  "BestMargins": "210",
-  "BestRMSE": "49.899900",
+  "BestTips": "4",
+  "BestTipsBits": "1.062866",
+  "BestMargins": "217",
+  "BestRMSE": "46.274029",
   "tips": [
     {
       "home": "Brisbane Lions",
@@ -59,8 +59,8 @@
       "home": "Footscray",
       "away": "Essendon",
       "winner": "Footscray",
-      "margin": 44,
-      "probability": 0.95,
+      "margin": 41,
+      "probability": 0.92,
       "lineup_state": "final_team"
     },
     {
