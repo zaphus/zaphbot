@@ -11,9 +11,9 @@
       "home": "Adelaide",
       "away": "Carlton",
       "winner": "Adelaide",
-      "margin": 30,
-      "probability": 0.81,
-      "lineup_state": "no_lineup"
+      "margin": 33,
+      "probability": 0.84,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Collingwood",
@@ -52,7 +52,7 @@
       "away": "Footscray",
       "winner": "Footscray",
       "margin": 6,
-      "probability": 0.57,
+      "probability": 0.56,
       "lineup_state": "no_lineup"
     },
     {
@@ -68,7 +68,7 @@
       "away": "Richmond",
       "winner": "GWS",
       "margin": 36,
-      "probability": 0.88,
+      "probability": 0.87,
       "lineup_state": "no_lineup"
     },
     {
