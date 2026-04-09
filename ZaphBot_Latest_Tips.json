@@ -19,57 +19,57 @@
       "home": "Collingwood",
       "away": "Fremantle",
       "winner": "Fremantle",
-      "margin": 2,
-      "probability": 0.52,
-      "lineup_state": "no_lineup"
+      "margin": 15,
+      "probability": 0.65,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "North Melbourne",
       "away": "Brisbane Lions",
       "winner": "Brisbane Lions",
-      "margin": 36,
-      "probability": 0.87,
-      "lineup_state": "no_lineup"
+      "margin": 37,
+      "probability": 0.88,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Essendon",
       "away": "Melbourne",
       "winner": "Melbourne",
-      "margin": 30,
-      "probability": 0.81,
-      "lineup_state": "no_lineup"
+      "margin": 31,
+      "probability": 0.82,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Sydney",
       "away": "Gold Coast",
-      "winner": "Gold Coast",
-      "margin": 4,
-      "probability": 0.55,
-      "lineup_state": "no_lineup"
+      "winner": "Sydney",
+      "margin": 5,
+      "probability": 0.56,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Hawthorn",
       "away": "Footscray",
       "winner": "Footscray",
-      "margin": 6,
-      "probability": 0.56,
-      "lineup_state": "no_lineup"
+      "margin": 17,
+      "probability": 0.67,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Geelong",
       "away": "West Coast",
       "winner": "Geelong",
-      "margin": 43,
+      "margin": 44,
       "probability": 0.95,
-      "lineup_state": "no_lineup"
+      "lineup_state": "extended_squad"
     },
     {
       "home": "GWS",
       "away": "Richmond",
       "winner": "GWS",
-      "margin": 36,
-      "probability": 0.87,
-      "lineup_state": "no_lineup"
+      "margin": 39,
+      "probability": 0.9,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Port Adelaide",
@@ -77,7 +77,7 @@
       "winner": "St Kilda",
       "margin": 0,
       "probability": 0.5,
-      "lineup_state": "no_lineup"
+      "lineup_state": "extended_squad"
     }
   ]
 }
