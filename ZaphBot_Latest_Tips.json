@@ -11,9 +11,9 @@
       "home": "Adelaide",
       "away": "Carlton",
       "winner": "Adelaide",
-      "margin": 33,
-      "probability": 0.84,
-      "lineup_state": "extended_squad"
+      "margin": 34,
+      "probability": 0.85,
+      "lineup_state": "final_team"
     },
     {
       "home": "Collingwood",
