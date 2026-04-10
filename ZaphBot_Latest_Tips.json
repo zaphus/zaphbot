@@ -3,9 +3,9 @@
   "season": 2026,
   "round": 5,
   "BestTips": "1",
-  "BestTipsBits": "0.659925",
-  "BestMargins": "1",
-  "BestRMSE": "1.000000",
+  "BestTipsBits": "1.016068",
+  "BestMargins": "8",
+  "BestRMSE": "5.000000",
   "tips": [
     {
       "home": "Adelaide",
@@ -19,8 +19,8 @@
       "home": "Collingwood",
       "away": "Fremantle",
       "winner": "Fremantle",
-      "margin": 10,
-      "probability": 0.6,
+      "margin": 13,
+      "probability": 0.64,
       "lineup_state": "final_team"
     },
     {
