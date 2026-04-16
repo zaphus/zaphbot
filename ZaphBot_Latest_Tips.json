@@ -2,17 +2,17 @@
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
   "round": 6,
-  "BestTips": "N/A",
-  "BestTipsBits": "N/A",
-  "BestMargins": "N/A",
-  "BestRMSE": "N/A",
+  "BestTips": "0",
+  "BestTipsBits": "0.622930",
+  "BestMargins": "21",
+  "BestRMSE": "21.000000",
   "tips": [
     {
       "home": "Carlton",
       "away": "Collingwood",
       "winner": "Collingwood",
-      "margin": 27,
-      "probability": 0.78,
+      "margin": 26,
+      "probability": 0.77,
       "lineup_state": "final_team"
     },
     {
