@@ -18,10 +18,10 @@
     {
       "home": "Geelong",
       "away": "Footscray",
-      "winner": "Geelong",
-      "margin": 4,
-      "probability": 0.54,
-      "lineup_state": "extended_squad"
+      "winner": "Footscray",
+      "margin": 1,
+      "probability": 0.51,
+      "lineup_state": "final_team"
     },
     {
       "home": "Sydney",
