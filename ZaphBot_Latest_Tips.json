@@ -2,10 +2,10 @@
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
   "round": 6,
-  "BestTips": "0",
-  "BestTipsBits": "0.622930",
-  "BestMargins": "21",
-  "BestRMSE": "21.000000",
+  "BestTips": "2",
+  "BestTipsBits": "1.312498",
+  "BestMargins": "110",
+  "BestRMSE": "43.212652",
   "tips": [
     {
       "home": "Carlton",
@@ -18,17 +18,17 @@
     {
       "home": "Geelong",
       "away": "Footscray",
-      "winner": "Footscray",
-      "margin": 1,
-      "probability": 0.51,
+      "winner": "Geelong",
+      "margin": 6,
+      "probability": 0.56,
       "lineup_state": "final_team"
     },
     {
       "home": "Sydney",
       "away": "GWS",
       "winner": "Sydney",
-      "margin": 27,
-      "probability": 0.78,
+      "margin": 21,
+      "probability": 0.72,
       "lineup_state": "final_team"
     },
     {
