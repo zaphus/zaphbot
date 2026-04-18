@@ -43,9 +43,9 @@
       "home": "Hawthorn",
       "away": "Port Adelaide",
       "winner": "Hawthorn",
-      "margin": 30,
-      "probability": 0.81,
-      "lineup_state": "extended_squad"
+      "margin": 35,
+      "probability": 0.87,
+      "lineup_state": "final_team"
     },
     {
       "home": "Adelaide",
