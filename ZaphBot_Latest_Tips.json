@@ -2,10 +2,10 @@
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
   "round": 6,
-  "BestTips": "5",
-  "BestTipsBits": "3.328994",
-  "BestMargins": "185",
-  "BestRMSE": "35.470645",
+  "BestTips": "6",
+  "BestTipsBits": "3.894591",
+  "BestMargins": "237",
+  "BestRMSE": "38.271586",
   "tips": [
     {
       "home": "Carlton",
@@ -59,8 +59,8 @@
       "home": "North Melbourne",
       "away": "Richmond",
       "winner": "North Melbourne",
-      "margin": 29,
-      "probability": 0.8,
+      "margin": 23,
+      "probability": 0.74,
       "lineup_state": "final_team"
     },
     {
@@ -77,7 +77,7 @@
       "winner": "Fremantle",
       "margin": 41,
       "probability": 0.92,
-      "lineup_state": "extended_squad"
+      "lineup_state": "final_team"
     }
   ]
 }
