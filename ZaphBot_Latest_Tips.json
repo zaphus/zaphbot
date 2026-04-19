@@ -59,9 +59,9 @@
       "home": "North Melbourne",
       "away": "Richmond",
       "winner": "North Melbourne",
-      "margin": 31,
-      "probability": 0.82,
-      "lineup_state": "extended_squad"
+      "margin": 29,
+      "probability": 0.8,
+      "lineup_state": "final_team"
     },
     {
       "home": "Melbourne",
