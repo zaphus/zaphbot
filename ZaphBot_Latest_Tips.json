@@ -10,10 +10,10 @@
     {
       "home": "Footscray",
       "away": "Sydney",
-      "winner": "Footscray",
-      "margin": 22,
-      "probability": 0.73,
-      "lineup_state": "no_lineup"
+      "winner": "Sydney",
+      "margin": 6,
+      "probability": 0.56,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Richmond",
@@ -44,7 +44,7 @@
       "away": "Geelong",
       "winner": "Geelong",
       "margin": 22,
-      "probability": 0.72,
+      "probability": 0.73,
       "lineup_state": "no_lineup"
     },
     {
