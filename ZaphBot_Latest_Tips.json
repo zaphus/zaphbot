@@ -19,9 +19,9 @@
       "home": "Richmond",
       "away": "Melbourne",
       "winner": "Melbourne",
-      "margin": 36,
-      "probability": 0.88,
-      "lineup_state": "extended_squad"
+      "margin": 34,
+      "probability": 0.85,
+      "lineup_state": "final_team"
     },
     {
       "home": "Hawthorn",
