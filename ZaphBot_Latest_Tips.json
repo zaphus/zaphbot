@@ -3,9 +3,9 @@
   "season": 2026,
   "round": 7,
   "BestTips": "0",
-  "BestTipsBits": "-0.184425",
-  "BestMargins": "60",
-  "BestRMSE": "60.000000",
+  "BestTipsBits": "0.511569",
+  "BestMargins": "84",
+  "BestRMSE": "45.694639",
   "tips": [
     {
       "home": "Footscray",
@@ -19,8 +19,8 @@
       "home": "Richmond",
       "away": "Melbourne",
       "winner": "Melbourne",
-      "margin": 34,
-      "probability": 0.85,
+      "margin": 30,
+      "probability": 0.81,
       "lineup_state": "final_team"
     },
     {
