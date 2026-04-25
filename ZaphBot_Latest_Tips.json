@@ -3,9 +3,9 @@
   "season": 2026,
   "round": 7,
   "BestTips": "1",
-  "BestTipsBits": "0.912107",
-  "BestMargins": "118",
-  "BestRMSE": "42.158431",
+  "BestTipsBits": "1.608101",
+  "BestMargins": "165",
+  "BestRMSE": "43.419466",
   "tips": [
     {
       "home": "Footscray",
@@ -53,7 +53,7 @@
       "winner": "Fremantle",
       "margin": 31,
       "probability": 0.82,
-      "lineup_state": "extended_squad"
+      "lineup_state": "final_team"
     },
     {
       "home": "St Kilda",
