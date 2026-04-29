@@ -11,9 +11,9 @@
       "home": "Collingwood",
       "away": "Hawthorn",
       "winner": "Hawthorn",
-      "margin": 10,
-      "probability": 0.6,
-      "lineup_state": "no_lineup"
+      "margin": 16,
+      "probability": 0.67,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Footscray",
