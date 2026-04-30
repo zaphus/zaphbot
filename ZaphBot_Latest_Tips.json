@@ -2,17 +2,17 @@
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
   "round": 8,
-  "BestTips": "N/A",
-  "BestTipsBits": "N/A",
-  "BestMargins": "N/A",
-  "BestRMSE": "N/A",
+  "BestTips": "0",
+  "BestTipsBits": "0.422233",
+  "BestMargins": "16",
+  "BestRMSE": "16.000000",
   "tips": [
     {
       "home": "Collingwood",
       "away": "Hawthorn",
       "winner": "Hawthorn",
-      "margin": 18,
-      "probability": 0.69,
+      "margin": 16,
+      "probability": 0.67,
       "lineup_state": "final_team"
     },
     {
