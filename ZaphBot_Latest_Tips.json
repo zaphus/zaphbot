@@ -11,73 +11,73 @@
       "home": "Collingwood",
       "away": "Hawthorn",
       "winner": "Hawthorn",
-      "margin": 16,
-      "probability": 0.67,
-      "lineup_state": "extended_squad"
+      "margin": 18,
+      "probability": 0.69,
+      "lineup_state": "final_team"
     },
     {
       "home": "Footscray",
       "away": "Fremantle",
       "winner": "Footscray",
-      "margin": 13,
-      "probability": 0.64,
-      "lineup_state": "no_lineup"
+      "margin": 2,
+      "probability": 0.52,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Adelaide",
       "away": "Port Adelaide",
       "winner": "Adelaide",
-      "margin": 27,
-      "probability": 0.78,
-      "lineup_state": "no_lineup"
+      "margin": 15,
+      "probability": 0.66,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Essendon",
       "away": "Brisbane Lions",
       "winner": "Brisbane Lions",
-      "margin": 36,
-      "probability": 0.87,
-      "lineup_state": "no_lineup"
+      "margin": 38,
+      "probability": 0.89,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "West Coast",
       "away": "Richmond",
       "winner": "West Coast",
-      "margin": 18,
-      "probability": 0.69,
-      "lineup_state": "no_lineup"
+      "margin": 12,
+      "probability": 0.62,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Geelong",
       "away": "North Melbourne",
       "winner": "Geelong",
-      "margin": 41,
-      "probability": 0.93,
-      "lineup_state": "no_lineup"
+      "margin": 40,
+      "probability": 0.91,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Carlton",
       "away": "St Kilda",
       "winner": "St Kilda",
-      "margin": 10,
-      "probability": 0.6,
-      "lineup_state": "no_lineup"
+      "margin": 16,
+      "probability": 0.67,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Sydney",
       "away": "Melbourne",
       "winner": "Sydney",
-      "margin": 31,
-      "probability": 0.82,
-      "lineup_state": "no_lineup"
+      "margin": 35,
+      "probability": 0.86,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Gold Coast",
       "away": "GWS",
       "winner": "Gold Coast",
-      "margin": 18,
-      "probability": 0.69,
-      "lineup_state": "no_lineup"
+      "margin": 13,
+      "probability": 0.63,
+      "lineup_state": "extended_squad"
     }
   ]
 }
