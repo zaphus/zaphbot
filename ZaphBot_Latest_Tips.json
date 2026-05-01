@@ -19,9 +19,9 @@
       "home": "Footscray",
       "away": "Fremantle",
       "winner": "Footscray",
-      "margin": 2,
-      "probability": 0.52,
-      "lineup_state": "extended_squad"
+      "margin": 3,
+      "probability": 0.53,
+      "lineup_state": "final_team"
     },
     {
       "home": "Adelaide",
