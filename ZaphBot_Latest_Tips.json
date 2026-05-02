@@ -36,8 +36,8 @@
       "away": "Brisbane Lions",
       "winner": "Brisbane Lions",
       "margin": 38,
-      "probability": 0.89,
-      "lineup_state": "extended_squad"
+      "probability": 0.9,
+      "lineup_state": "final_team"
     },
     {
       "home": "West Coast",
