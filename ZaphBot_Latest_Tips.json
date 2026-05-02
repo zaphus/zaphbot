@@ -51,9 +51,9 @@
       "home": "Geelong",
       "away": "North Melbourne",
       "winner": "Geelong",
-      "margin": 40,
+      "margin": 39,
       "probability": 0.91,
-      "lineup_state": "extended_squad"
+      "lineup_state": "final_team"
     },
     {
       "home": "Carlton",
