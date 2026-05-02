@@ -3,9 +3,9 @@
   "season": 2026,
   "round": 8,
   "BestTips": "1",
-  "BestTipsBits": "0.500843",
-  "BestMargins": "30",
-  "BestRMSE": "11.135529",
+  "BestTipsBits": "1.332720",
+  "BestMargins": "56",
+  "BestRMSE": "16.186414",
   "tips": [
     {
       "home": "Collingwood",
@@ -36,16 +36,16 @@
       "away": "Brisbane Lions",
       "winner": "Brisbane Lions",
       "margin": 38,
-      "probability": 0.9,
+      "probability": 0.89,
       "lineup_state": "final_team"
     },
     {
       "home": "West Coast",
       "away": "Richmond",
       "winner": "West Coast",
-      "margin": 12,
-      "probability": 0.62,
-      "lineup_state": "extended_squad"
+      "margin": 9,
+      "probability": 0.59,
+      "lineup_state": "final_team"
     },
     {
       "home": "Geelong",
