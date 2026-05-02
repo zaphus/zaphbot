@@ -59,9 +59,9 @@
       "home": "Carlton",
       "away": "St Kilda",
       "winner": "St Kilda",
-      "margin": 16,
+      "margin": 17,
       "probability": 0.67,
-      "lineup_state": "extended_squad"
+      "lineup_state": "final_team"
     },
     {
       "home": "Sydney",
