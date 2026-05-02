@@ -2,10 +2,10 @@
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
   "round": 8,
-  "BestTips": "1",
-  "BestTipsBits": "1.332720",
-  "BestMargins": "56",
-  "BestRMSE": "16.186414",
+  "BestTips": "2",
+  "BestTipsBits": "1.984734",
+  "BestMargins": "96",
+  "BestRMSE": "16.570197",
   "tips": [
     {
       "home": "Collingwood",
@@ -43,24 +43,24 @@
       "home": "West Coast",
       "away": "Richmond",
       "winner": "West Coast",
-      "margin": 9,
-      "probability": 0.59,
+      "margin": 14,
+      "probability": 0.65,
       "lineup_state": "final_team"
     },
     {
       "home": "Geelong",
       "away": "North Melbourne",
       "winner": "Geelong",
-      "margin": 39,
-      "probability": 0.91,
+      "margin": 40,
+      "probability": 0.92,
       "lineup_state": "final_team"
     },
     {
       "home": "Carlton",
       "away": "St Kilda",
       "winner": "St Kilda",
-      "margin": 17,
-      "probability": 0.67,
+      "margin": 11,
+      "probability": 0.61,
       "lineup_state": "final_team"
     },
     {
