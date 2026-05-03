@@ -67,9 +67,9 @@
       "home": "Sydney",
       "away": "Melbourne",
       "winner": "Sydney",
-      "margin": 35,
-      "probability": 0.86,
-      "lineup_state": "extended_squad"
+      "margin": 37,
+      "probability": 0.88,
+      "lineup_state": "final_team"
     },
     {
       "home": "Gold Coast",
