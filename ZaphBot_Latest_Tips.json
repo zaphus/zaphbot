@@ -19,17 +19,17 @@
       "home": "Brisbane Lions",
       "away": "Carlton",
       "winner": "Brisbane Lions",
-      "margin": 36,
-      "probability": 0.87,
-      "lineup_state": "no_lineup"
+      "margin": 40,
+      "probability": 0.91,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Port Adelaide",
       "away": "Footscray",
       "winner": "Footscray",
-      "margin": 18,
-      "probability": 0.69,
-      "lineup_state": "no_lineup"
+      "margin": 2,
+      "probability": 0.52,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "North Melbourne",
@@ -37,47 +37,47 @@
       "winner": "Sydney",
       "margin": 34,
       "probability": 0.85,
-      "lineup_state": "no_lineup"
+      "lineup_state": "extended_squad"
     },
     {
       "home": "GWS",
       "away": "Essendon",
       "winner": "GWS",
-      "margin": 33,
-      "probability": 0.84,
-      "lineup_state": "no_lineup"
+      "margin": 35,
+      "probability": 0.86,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Gold Coast",
       "away": "St Kilda",
       "winner": "Gold Coast",
-      "margin": 20,
-      "probability": 0.71,
-      "lineup_state": "no_lineup"
+      "margin": 11,
+      "probability": 0.61,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Geelong",
       "away": "Collingwood",
       "winner": "Geelong",
-      "margin": 12,
-      "probability": 0.62,
-      "lineup_state": "no_lineup"
+      "margin": 10,
+      "probability": 0.61,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Melbourne",
       "away": "West Coast",
       "winner": "Melbourne",
-      "margin": 39,
-      "probability": 0.9,
-      "lineup_state": "no_lineup"
+      "margin": 43,
+      "probability": 0.94,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Richmond",
       "away": "Adelaide",
       "winner": "Adelaide",
       "margin": 38,
-      "probability": 0.9,
-      "lineup_state": "no_lineup"
+      "probability": 0.89,
+      "lineup_state": "extended_squad"
     }
   ]
 }
