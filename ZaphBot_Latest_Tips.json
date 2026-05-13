@@ -11,15 +11,15 @@
       "home": "Brisbane Lions",
       "away": "Geelong",
       "winner": "Brisbane Lions",
-      "margin": 11,
-      "probability": 0.62,
-      "lineup_state": "no_lineup"
+      "margin": 14,
+      "probability": 0.65,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Sydney",
       "away": "Collingwood",
       "winner": "Sydney",
-      "margin": 26,
+      "margin": 25,
       "probability": 0.76,
       "lineup_state": "no_lineup"
     },
