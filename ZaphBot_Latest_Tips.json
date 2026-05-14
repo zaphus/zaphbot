@@ -2,17 +2,17 @@
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
   "round": 10,
-  "BestTips": "N/A",
-  "BestTipsBits": "N/A",
-  "BestMargins": "N/A",
-  "BestRMSE": "N/A",
+  "BestTips": "0",
+  "BestTipsBits": "-0.395929",
+  "BestMargins": "30",
+  "BestRMSE": "30.000000",
   "tips": [
     {
       "home": "Brisbane Lions",
       "away": "Geelong",
       "winner": "Brisbane Lions",
-      "margin": 9,
-      "probability": 0.59,
+      "margin": 11,
+      "probability": 0.62,
       "lineup_state": "final_team"
     },
     {
