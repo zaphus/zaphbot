@@ -35,7 +35,7 @@
       "home": "Adelaide",
       "away": "North Melbourne",
       "winner": "Adelaide",
-      "margin": 36,
+      "margin": 35,
       "probability": 0.87,
       "lineup_state": "extended_squad"
     },
@@ -75,8 +75,8 @@
       "home": "West Coast",
       "away": "GWS",
       "winner": "GWS",
-      "margin": 38,
-      "probability": 0.89,
+      "margin": 36,
+      "probability": 0.87,
       "lineup_state": "extended_squad"
     }
   ]
