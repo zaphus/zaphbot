@@ -36,8 +36,8 @@
       "away": "North Melbourne",
       "winner": "Adelaide",
       "margin": 35,
-      "probability": 0.87,
-      "lineup_state": "extended_squad"
+      "probability": 0.86,
+      "lineup_state": "final_team"
     },
     {
       "home": "Melbourne",
