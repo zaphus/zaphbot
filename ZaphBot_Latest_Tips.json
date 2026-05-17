@@ -3,9 +3,9 @@
   "season": 2026,
   "round": 10,
   "BestTips": "5",
-  "BestTipsBits": "-0.079851",
-  "BestMargins": "114",
-  "BestRMSE": "21.416505",
+  "BestTipsBits": "0.702557",
+  "BestMargins": "122",
+  "BestRMSE": "20.057061",
   "tips": [
     {
       "home": "Brisbane Lions",
@@ -59,8 +59,8 @@
       "home": "Essendon",
       "away": "Fremantle",
       "winner": "Fremantle",
-      "margin": 38,
-      "probability": 0.89,
+      "margin": 35,
+      "probability": 0.86,
       "lineup_state": "final_team"
     },
     {
@@ -77,7 +77,7 @@
       "winner": "GWS",
       "margin": 36,
       "probability": 0.87,
-      "lineup_state": "extended_squad"
+      "lineup_state": "final_team"
     }
   ]
 }
