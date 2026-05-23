@@ -2,10 +2,10 @@
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
   "round": 11,
-  "BestTips": "3",
-  "BestTipsBits": "0.581666",
-  "BestMargins": "12",
-  "BestRMSE": "4.242641",
+  "BestTips": "4",
+  "BestTipsBits": "-0.254836",
+  "BestMargins": "28",
+  "BestRMSE": "8.803408",
   "tips": [
     {
       "home": "Hawthorn",
@@ -35,8 +35,8 @@
       "home": "North Melbourne",
       "away": "Gold Coast",
       "winner": "Gold Coast",
-      "margin": 24,
-      "probability": 0.75,
+      "margin": 22,
+      "probability": 0.72,
       "lineup_state": "final_team"
     },
     {
@@ -59,9 +59,9 @@
       "home": "Port Adelaide",
       "away": "Carlton",
       "winner": "Port Adelaide",
-      "margin": 13,
-      "probability": 0.63,
-      "lineup_state": "extended_squad"
+      "margin": 15,
+      "probability": 0.65,
+      "lineup_state": "final_team"
     },
     {
       "home": "GWS",
