@@ -11,9 +11,9 @@
       "home": "St Kilda",
       "away": "Hawthorn",
       "winner": "Hawthorn",
-      "margin": 12,
-      "probability": 0.62,
-      "lineup_state": "no_lineup"
+      "margin": 18,
+      "probability": 0.68,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Carlton",
