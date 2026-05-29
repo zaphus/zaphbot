@@ -2,10 +2,10 @@
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
   "round": 12,
-  "BestTips": "0",
-  "BestTipsBits": "0.422233",
-  "BestMargins": "35",
-  "BestRMSE": "35.000000",
+  "BestTips": "1",
+  "BestTipsBits": "-0.899695",
+  "BestMargins": "60",
+  "BestRMSE": "30.413813",
   "tips": [
     {
       "home": "St Kilda",
@@ -19,8 +19,8 @@
       "home": "Carlton",
       "away": "Geelong",
       "winner": "Geelong",
-      "margin": 32,
-      "probability": 0.83,
+      "margin": 29,
+      "probability": 0.8,
       "lineup_state": "final_team"
     },
     {
