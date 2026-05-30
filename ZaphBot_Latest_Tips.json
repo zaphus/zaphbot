@@ -34,10 +34,10 @@
     {
       "home": "Brisbane Lions",
       "away": "Fremantle",
-      "winner": "Brisbane Lions",
-      "margin": 7,
-      "probability": 0.57,
-      "lineup_state": "extended_squad"
+      "winner": "Fremantle",
+      "margin": 6,
+      "probability": 0.56,
+      "lineup_state": "final_team"
     },
     {
       "home": "Footscray",
