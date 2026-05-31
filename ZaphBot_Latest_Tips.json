@@ -3,9 +3,9 @@
   "season": 2026,
   "round": 12,
   "BestTips": "3",
-  "BestTipsBits": "-0.018109",
-  "BestMargins": "160",
-  "BestRMSE": "39.161205",
+  "BestTipsBits": "-0.235700",
+  "BestMargins": "202",
+  "BestRMSE": "39.648455",
   "tips": [
     {
       "home": "St Kilda",
@@ -51,8 +51,8 @@
       "home": "Melbourne",
       "away": "GWS",
       "winner": "Melbourne",
-      "margin": 9,
-      "probability": 0.59,
+      "margin": 7,
+      "probability": 0.57,
       "lineup_state": "final_team"
     },
     {
