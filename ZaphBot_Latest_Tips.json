@@ -3,9 +3,9 @@
   "season": 2026,
   "round": 13,
   "BestTips": "1",
-  "BestTipsBits": "-0.184425",
-  "BestMargins": "5",
-  "BestRMSE": "5.000000",
+  "BestTipsBits": "-1.127841",
+  "BestMargins": "22",
+  "BestRMSE": "12.529964",
   "tips": [
     {
       "home": "Adelaide",
@@ -19,8 +19,8 @@
       "home": "Hawthorn",
       "away": "Footscray",
       "winner": "Hawthorn",
-      "margin": 20,
-      "probability": 0.71,
+      "margin": 23,
+      "probability": 0.74,
       "lineup_state": "final_team"
     },
     {
