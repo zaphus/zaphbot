@@ -35,9 +35,9 @@
       "home": "Gold Coast",
       "away": "Brisbane Lions",
       "winner": "Gold Coast",
-      "margin": 5,
-      "probability": 0.55,
-      "lineup_state": "extended_squad"
+      "margin": 2,
+      "probability": 0.52,
+      "lineup_state": "final_team"
     },
     {
       "home": "West Coast",
