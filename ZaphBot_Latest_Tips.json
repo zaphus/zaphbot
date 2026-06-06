@@ -3,9 +3,9 @@
   "season": 2026,
   "round": 13,
   "BestTips": "1",
-  "BestTipsBits": "-1.127841",
-  "BestMargins": "22",
-  "BestRMSE": "12.529964",
+  "BestTipsBits": "-0.362306",
+  "BestMargins": "112",
+  "BestRMSE": "52.959104",
   "tips": [
     {
       "home": "Adelaide",
@@ -27,8 +27,8 @@
       "home": "North Melbourne",
       "away": "Fremantle",
       "winner": "Fremantle",
-      "margin": 36,
-      "probability": 0.87,
+      "margin": 34,
+      "probability": 0.85,
       "lineup_state": "final_team"
     },
     {
@@ -43,9 +43,9 @@
       "home": "West Coast",
       "away": "Port Adelaide",
       "winner": "Port Adelaide",
-      "margin": 13,
-      "probability": 0.64,
-      "lineup_state": "extended_squad"
+      "margin": 18,
+      "probability": 0.69,
+      "lineup_state": "final_team"
     },
     {
       "home": "Sydney",
