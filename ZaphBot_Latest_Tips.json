@@ -3,9 +3,9 @@
   "season": 2026,
   "round": 13,
   "BestTips": "1",
-  "BestTipsBits": "-0.362306",
-  "BestMargins": "112",
-  "BestRMSE": "52.959104",
+  "BestTipsBits": "0.059065",
+  "BestMargins": "145",
+  "BestRMSE": "42.846237",
   "tips": [
     {
       "home": "Adelaide",
@@ -34,17 +34,17 @@
     {
       "home": "Gold Coast",
       "away": "Brisbane Lions",
-      "winner": "Gold Coast",
-      "margin": 2,
-      "probability": 0.52,
+      "winner": "Brisbane Lions",
+      "margin": 4,
+      "probability": 0.54,
       "lineup_state": "final_team"
     },
     {
       "home": "West Coast",
       "away": "Port Adelaide",
       "winner": "Port Adelaide",
-      "margin": 18,
-      "probability": 0.69,
+      "margin": 12,
+      "probability": 0.62,
       "lineup_state": "final_team"
     },
     {
