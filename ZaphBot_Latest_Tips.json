@@ -13,7 +13,7 @@
       "winner": "Footscray",
       "margin": 1,
       "probability": 0.51,
-      "lineup_state": "no_lineup"
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Geelong",
@@ -60,7 +60,7 @@
       "away": "GWS",
       "winner": "St Kilda",
       "margin": 7,
-      "probability": 0.57,
+      "probability": 0.58,
       "lineup_state": "no_lineup"
     }
   ]
