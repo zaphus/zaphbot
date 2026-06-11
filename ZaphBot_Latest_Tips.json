@@ -2,17 +2,17 @@
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
   "round": 14,
-  "BestTips": "N/A",
-  "BestTipsBits": "N/A",
-  "BestMargins": "N/A",
-  "BestRMSE": "N/A",
+  "BestTips": "0",
+  "BestTipsBits": "0.000000",
+  "BestMargins": "57",
+  "BestRMSE": "57.000000",
   "tips": [
     {
       "home": "Footscray",
       "away": "Adelaide",
       "winner": "Footscray",
-      "margin": 3,
-      "probability": 0.53,
+      "margin": 0,
+      "probability": 0.5,
       "lineup_state": "final_team"
     },
     {
