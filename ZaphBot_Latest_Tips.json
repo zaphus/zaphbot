@@ -34,10 +34,10 @@
     {
       "home": "North Melbourne",
       "away": "West Coast",
-      "winner": "West Coast",
-      "margin": 6,
-      "probability": 0.56,
-      "lineup_state": "extended_squad"
+      "winner": "North Melbourne",
+      "margin": 9,
+      "probability": 0.6,
+      "lineup_state": "final_team"
     },
     {
       "home": "Port Adelaide",
