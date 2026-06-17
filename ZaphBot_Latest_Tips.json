@@ -11,9 +11,9 @@
       "home": "Fremantle",
       "away": "Geelong",
       "winner": "Fremantle",
-      "margin": 10,
-      "probability": 0.6,
-      "lineup_state": "no_lineup"
+      "margin": 20,
+      "probability": 0.7,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Gold Coast",
@@ -51,7 +51,7 @@
       "home": "Richmond",
       "away": "North Melbourne",
       "winner": "North Melbourne",
-      "margin": 14,
+      "margin": 15,
       "probability": 0.65,
       "lineup_state": "no_lineup"
     },
