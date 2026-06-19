@@ -51,14 +51,14 @@
       "home": "Richmond",
       "away": "North Melbourne",
       "winner": "North Melbourne",
-      "margin": 21,
-      "probability": 0.71,
+      "margin": 23,
+      "probability": 0.74,
       "lineup_state": "extended_squad"
     },
     {
       "home": "St Kilda",
       "away": "Footscray",
-      "winner": "St Kilda",
+      "winner": "Footscray",
       "margin": 1,
       "probability": 0.51,
       "lineup_state": "extended_squad"
