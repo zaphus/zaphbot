@@ -3,9 +3,9 @@
   "season": 2026,
   "round": 15,
   "BestTips": "1",
-  "BestTipsBits": "0.443607",
-  "BestMargins": "9",
-  "BestRMSE": "9.000000",
+  "BestTipsBits": "0.844145",
+  "BestMargins": "10",
+  "BestRMSE": "6.403124",
   "tips": [
     {
       "home": "Fremantle",
@@ -19,8 +19,8 @@
       "home": "Gold Coast",
       "away": "Hawthorn",
       "winner": "Hawthorn",
-      "margin": 12,
-      "probability": 0.63,
+      "margin": 15,
+      "probability": 0.66,
       "lineup_state": "final_team"
     },
     {
