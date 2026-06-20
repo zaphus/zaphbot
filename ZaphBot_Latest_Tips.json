@@ -2,10 +2,10 @@
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
   "round": 15,
-  "BestTips": "1",
-  "BestTipsBits": "0.844145",
-  "BestMargins": "10",
-  "BestRMSE": "6.403124",
+  "BestTips": "2",
+  "BestTipsBits": "1.222656",
+  "BestMargins": "12",
+  "BestRMSE": "5.354126",
   "tips": [
     {
       "home": "Fremantle",
@@ -27,8 +27,8 @@
       "home": "Adelaide",
       "away": "Melbourne",
       "winner": "Adelaide",
-      "margin": 24,
-      "probability": 0.75,
+      "margin": 15,
+      "probability": 0.65,
       "lineup_state": "final_team"
     },
     {
@@ -43,9 +43,9 @@
       "home": "Collingwood",
       "away": "Port Adelaide",
       "winner": "Collingwood",
-      "margin": 22,
-      "probability": 0.73,
-      "lineup_state": "extended_squad"
+      "margin": 18,
+      "probability": 0.68,
+      "lineup_state": "final_team"
     },
     {
       "home": "Richmond",
