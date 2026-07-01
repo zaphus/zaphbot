@@ -19,9 +19,9 @@
       "home": "Geelong",
       "away": "Brisbane Lions",
       "winner": "Geelong",
-      "margin": 23,
-      "probability": 0.74,
-      "lineup_state": "no_lineup"
+      "margin": 14,
+      "probability": 0.65,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Gold Coast",
