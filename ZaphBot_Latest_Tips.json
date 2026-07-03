@@ -43,8 +43,8 @@
       "home": "Hawthorn",
       "away": "Melbourne",
       "winner": "Hawthorn",
-      "margin": 23,
-      "probability": 0.74,
+      "margin": 22,
+      "probability": 0.73,
       "lineup_state": "extended_squad"
     },
     {
@@ -67,9 +67,9 @@
       "home": "Sydney",
       "away": "Footscray",
       "winner": "Sydney",
-      "margin": 14,
-      "probability": 0.65,
-      "lineup_state": "extended_squad"
+      "margin": 19,
+      "probability": 0.7,
+      "lineup_state": "final_team"
     },
     {
       "home": "West Coast",
