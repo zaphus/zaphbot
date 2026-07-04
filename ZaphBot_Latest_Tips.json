@@ -2,10 +2,10 @@
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
   "round": 17,
-  "BestTips": "1",
-  "BestTipsBits": "0.862035",
-  "BestMargins": "23",
-  "BestRMSE": "8.266398",
+  "BestTips": "2",
+  "BestTipsBits": "-0.046299",
+  "BestMargins": "53",
+  "BestRMSE": "12.058192",
   "tips": [
     {
       "home": "Essendon",
@@ -35,16 +35,16 @@
       "home": "GWS",
       "away": "Fremantle",
       "winner": "Fremantle",
-      "margin": 29,
-      "probability": 0.8,
+      "margin": 12,
+      "probability": 0.63,
       "lineup_state": "final_team"
     },
     {
       "home": "Hawthorn",
       "away": "Melbourne",
       "winner": "Hawthorn",
-      "margin": 22,
-      "probability": 0.73,
+      "margin": 14,
+      "probability": 0.64,
       "lineup_state": "final_team"
     },
     {
@@ -61,7 +61,7 @@
       "winner": "Carlton",
       "margin": 39,
       "probability": 0.9,
-      "lineup_state": "extended_squad"
+      "lineup_state": "final_team"
     },
     {
       "home": "Sydney",
