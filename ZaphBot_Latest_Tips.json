@@ -3,9 +3,9 @@
   "season": 2026,
   "round": 17,
   "BestTips": "2",
-  "BestTipsBits": "-0.046299",
-  "BestMargins": "53",
-  "BestRMSE": "12.058192",
+  "BestTipsBits": "0.958310",
+  "BestMargins": "89",
+  "BestRMSE": "16.703293",
   "tips": [
     {
       "home": "Essendon",
@@ -27,8 +27,8 @@
       "home": "Gold Coast",
       "away": "Collingwood",
       "winner": "Collingwood",
-      "margin": 9,
-      "probability": 0.59,
+      "margin": 7,
+      "probability": 0.57,
       "lineup_state": "final_team"
     },
     {
@@ -59,8 +59,8 @@
       "home": "Richmond",
       "away": "Carlton",
       "winner": "Carlton",
-      "margin": 39,
-      "probability": 0.9,
+      "margin": 37,
+      "probability": 0.88,
       "lineup_state": "final_team"
     },
     {
