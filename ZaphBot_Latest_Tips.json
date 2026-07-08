@@ -43,9 +43,9 @@
       "home": "Fremantle",
       "away": "Sydney",
       "winner": "Fremantle",
-      "margin": 30,
-      "probability": 0.81,
-      "lineup_state": "no_lineup"
+      "margin": 25,
+      "probability": 0.76,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "GWS",
@@ -75,7 +75,7 @@
       "home": "Footscray",
       "away": "West Coast",
       "winner": "Footscray",
-      "margin": 40,
+      "margin": 39,
       "probability": 0.91,
       "lineup_state": "no_lineup"
     }
