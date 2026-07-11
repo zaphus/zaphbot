@@ -67,16 +67,16 @@
       "home": "St Kilda",
       "away": "Port Adelaide",
       "winner": "St Kilda",
-      "margin": 13,
+      "margin": 14,
       "probability": 0.64,
-      "lineup_state": "extended_squad"
+      "lineup_state": "final_team"
     },
     {
       "home": "Footscray",
       "away": "West Coast",
       "winner": "Footscray",
-      "margin": 38,
-      "probability": 0.9,
+      "margin": 37,
+      "probability": 0.88,
       "lineup_state": "extended_squad"
     }
   ]
