@@ -2,17 +2,17 @@
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
   "round": 18,
-  "BestTips": "4",
-  "BestTipsBits": "1.597817",
-  "BestMargins": "37",
-  "BestRMSE": "10.428327",
+  "BestTips": "5",
+  "BestTipsBits": "2.953059",
+  "BestMargins": "122",
+  "BestRMSE": "26.166136",
   "tips": [
     {
       "home": "Adelaide",
       "away": "Gold Coast",
       "winner": "Adelaide",
-      "margin": 35,
-      "probability": 0.86,
+      "margin": 31,
+      "probability": 0.82,
       "lineup_state": "final_team"
     },
     {
@@ -27,8 +27,8 @@
       "home": "Carlton",
       "away": "Hawthorn",
       "winner": "Hawthorn",
-      "margin": 16,
-      "probability": 0.67,
+      "margin": 27,
+      "probability": 0.78,
       "lineup_state": "final_team"
     },
     {
