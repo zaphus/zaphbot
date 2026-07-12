@@ -75,9 +75,9 @@
       "home": "Footscray",
       "away": "West Coast",
       "winner": "Footscray",
-      "margin": 37,
-      "probability": 0.88,
-      "lineup_state": "extended_squad"
+      "margin": 40,
+      "probability": 0.91,
+      "lineup_state": "final_team"
     }
   ]
 }
