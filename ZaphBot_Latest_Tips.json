@@ -27,9 +27,9 @@
       "home": "Geelong",
       "away": "St Kilda",
       "winner": "Geelong",
-      "margin": 30,
-      "probability": 0.81,
-      "lineup_state": "no_lineup"
+      "margin": 26,
+      "probability": 0.77,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Gold Coast",
