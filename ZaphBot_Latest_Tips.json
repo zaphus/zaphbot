@@ -3,9 +3,9 @@
   "season": 2026,
   "round": 19,
   "BestTips": "1",
-  "BestTipsBits": "0.604071",
-  "BestMargins": "2",
-  "BestRMSE": "2.000000",
+  "BestTipsBits": "0.767570",
+  "BestMargins": "12",
+  "BestRMSE": "7.211103",
   "tips": [
     {
       "home": "Collingwood",
@@ -67,8 +67,8 @@
       "home": "Sydney",
       "away": "Adelaide",
       "winner": "Adelaide",
-      "margin": 1,
-      "probability": 0.51,
+      "margin": 6,
+      "probability": 0.56,
       "lineup_state": "final_team"
     },
     {
