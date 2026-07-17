@@ -66,10 +66,10 @@
     {
       "home": "Sydney",
       "away": "Adelaide",
-      "winner": "Sydney",
-      "margin": 6,
-      "probability": 0.57,
-      "lineup_state": "extended_squad"
+      "winner": "Adelaide",
+      "margin": 1,
+      "probability": 0.51,
+      "lineup_state": "final_team"
     },
     {
       "home": "West Coast",
