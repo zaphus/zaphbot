@@ -2,17 +2,17 @@
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
   "round": 19,
-  "BestTips": "1",
-  "BestTipsBits": "1.627063",
-  "BestMargins": "33",
-  "BestRMSE": "9.810708",
+  "BestTips": "2",
+  "BestTipsBits": "2.486555",
+  "BestMargins": "54",
+  "BestRMSE": "10.376255",
   "tips": [
     {
       "home": "Collingwood",
       "away": "Carlton",
       "winner": "Collingwood",
-      "margin": 8,
-      "probability": 0.58,
+      "margin": 6,
+      "probability": 0.56,
       "lineup_state": "final_team"
     },
     {
@@ -75,8 +75,8 @@
       "home": "West Coast",
       "away": "Brisbane Lions",
       "winner": "Brisbane Lions",
-      "margin": 38,
-      "probability": 0.89,
+      "margin": 30,
+      "probability": 0.81,
       "lineup_state": "final_team"
     }
   ]
