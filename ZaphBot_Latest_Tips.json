@@ -3,17 +3,17 @@
   "season": 2026,
   "round": 19,
   "BestTips": "1",
-  "BestTipsBits": "0.767570",
-  "BestMargins": "12",
-  "BestRMSE": "7.211103",
+  "BestTipsBits": "1.100994",
+  "BestMargins": "28",
+  "BestRMSE": "10.954451",
   "tips": [
     {
       "home": "Collingwood",
       "away": "Carlton",
       "winner": "Collingwood",
-      "margin": 9,
-      "probability": 0.6,
-      "lineup_state": "extended_squad"
+      "margin": 8,
+      "probability": 0.58,
+      "lineup_state": "final_team"
     },
     {
       "home": "Essendon",
@@ -51,8 +51,8 @@
       "home": "Port Adelaide",
       "away": "Fremantle",
       "winner": "Fremantle",
-      "margin": 27,
-      "probability": 0.77,
+      "margin": 12,
+      "probability": 0.63,
       "lineup_state": "final_team"
     },
     {
