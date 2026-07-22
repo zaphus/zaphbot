@@ -11,15 +11,15 @@
       "home": "Adelaide",
       "away": "Collingwood",
       "winner": "Adelaide",
-      "margin": 23,
-      "probability": 0.74,
-      "lineup_state": "no_lineup"
+      "margin": 25,
+      "probability": 0.76,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Brisbane Lions",
       "away": "Port Adelaide",
       "winner": "Brisbane Lions",
-      "margin": 32,
+      "margin": 33,
       "probability": 0.84,
       "lineup_state": "no_lineup"
     },
@@ -59,7 +59,7 @@
       "home": "North Melbourne",
       "away": "St Kilda",
       "winner": "St Kilda",
-      "margin": 21,
+      "margin": 22,
       "probability": 0.72,
       "lineup_state": "no_lineup"
     },
