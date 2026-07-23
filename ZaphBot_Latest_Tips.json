@@ -2,17 +2,17 @@
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
   "round": 20,
-  "BestTips": "N/A",
-  "BestTipsBits": "N/A",
-  "BestMargins": "N/A",
-  "BestRMSE": "N/A",
+  "BestTips": "0",
+  "BestTipsBits": "-0.689660",
+  "BestMargins": "15",
+  "BestRMSE": "15.000000",
   "tips": [
     {
       "home": "Adelaide",
       "away": "Collingwood",
       "winner": "Adelaide",
-      "margin": 25,
-      "probability": 0.76,
+      "margin": 19,
+      "probability": 0.69,
       "lineup_state": "final_team"
     },
     {
