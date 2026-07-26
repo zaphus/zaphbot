@@ -59,9 +59,9 @@
       "home": "North Melbourne",
       "away": "St Kilda",
       "winner": "St Kilda",
-      "margin": 24,
-      "probability": 0.75,
-      "lineup_state": "extended_squad"
+      "margin": 27,
+      "probability": 0.78,
+      "lineup_state": "final_team"
     },
     {
       "home": "Melbourne",
