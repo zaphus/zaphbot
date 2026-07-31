@@ -2,10 +2,10 @@
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
   "round": 21,
-  "BestTips": "0",
-  "BestTipsBits": "0.028569",
-  "BestMargins": "24",
-  "BestRMSE": "24.000000",
+  "BestTips": "1",
+  "BestTipsBits": "0.908275",
+  "BestMargins": "27",
+  "BestRMSE": "17.102631",
   "tips": [
     {
       "home": "Carlton",
@@ -35,8 +35,8 @@
       "home": "Fremantle",
       "away": "Footscray",
       "winner": "Fremantle",
-      "margin": 37,
-      "probability": 0.89,
+      "margin": 40,
+      "probability": 0.92,
       "lineup_state": "final_team"
     },
     {
