@@ -75,9 +75,9 @@
       "home": "Footscray",
       "away": "North Melbourne",
       "winner": "Footscray",
-      "margin": 29,
-      "probability": 0.8,
-      "lineup_state": "no_lineup"
+      "margin": 27,
+      "probability": 0.78,
+      "lineup_state": "extended_squad"
     }
   ]
 }
