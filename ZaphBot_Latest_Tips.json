@@ -35,8 +35,8 @@
       "home": "GWS",
       "away": "Gold Coast",
       "winner": "GWS",
-      "margin": 18,
-      "probability": 0.69,
+      "margin": 21,
+      "probability": 0.71,
       "lineup_state": "extended_squad"
     },
     {
@@ -50,17 +50,17 @@
     {
       "home": "St Kilda",
       "away": "Carlton",
-      "winner": "Carlton",
-      "margin": 0,
-      "probability": 0.5,
+      "winner": "St Kilda",
+      "margin": 2,
+      "probability": 0.52,
       "lineup_state": "extended_squad"
     },
     {
       "home": "Sydney",
       "away": "Port Adelaide",
       "winner": "Sydney",
-      "margin": 33,
-      "probability": 0.84,
+      "margin": 30,
+      "probability": 0.81,
       "lineup_state": "extended_squad"
     },
     {
