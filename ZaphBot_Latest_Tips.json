@@ -2,10 +2,10 @@
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
   "round": 22,
-  "BestTips": "2",
-  "BestTipsBits": "-0.941199",
-  "BestMargins": "66",
-  "BestRMSE": "28.577380",
+  "BestTips": "5",
+  "BestTipsBits": "1.641983",
+  "BestMargins": "189",
+  "BestRMSE": "37.481106",
   "tips": [
     {
       "home": "Adelaide",
@@ -59,8 +59,8 @@
       "home": "Sydney",
       "away": "Port Adelaide",
       "winner": "Sydney",
-      "margin": 30,
-      "probability": 0.81,
+      "margin": 32,
+      "probability": 0.83,
       "lineup_state": "final_team"
     },
     {
