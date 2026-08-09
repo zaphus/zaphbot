@@ -35,9 +35,9 @@
       "home": "GWS",
       "away": "Gold Coast",
       "winner": "GWS",
-      "margin": 21,
-      "probability": 0.71,
-      "lineup_state": "extended_squad"
+      "margin": 23,
+      "probability": 0.74,
+      "lineup_state": "final_team"
     },
     {
       "home": "Melbourne",
