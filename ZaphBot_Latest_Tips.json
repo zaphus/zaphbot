@@ -3,9 +3,9 @@
   "season": 2026,
   "round": 22,
   "BestTips": "5",
-  "BestTipsBits": "1.641983",
-  "BestMargins": "189",
-  "BestRMSE": "37.481106",
+  "BestTipsBits": "0.583090",
+  "BestMargins": "212",
+  "BestRMSE": "35.773094",
   "tips": [
     {
       "home": "Adelaide",
@@ -35,8 +35,8 @@
       "home": "GWS",
       "away": "Gold Coast",
       "winner": "GWS",
-      "margin": 23,
-      "probability": 0.74,
+      "margin": 25,
+      "probability": 0.76,
       "lineup_state": "final_team"
     },
     {
@@ -51,9 +51,9 @@
       "home": "St Kilda",
       "away": "Carlton",
       "winner": "St Kilda",
-      "margin": 2,
-      "probability": 0.52,
-      "lineup_state": "extended_squad"
+      "margin": 1,
+      "probability": 0.51,
+      "lineup_state": "final_team"
     },
     {
       "home": "Sydney",
