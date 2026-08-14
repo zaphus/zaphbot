@@ -27,9 +27,9 @@
       "home": "Fremantle",
       "away": "Adelaide",
       "winner": "Fremantle",
-      "margin": 32,
-      "probability": 0.83,
-      "lineup_state": "extended_squad"
+      "margin": 31,
+      "probability": 0.82,
+      "lineup_state": "final_team"
     },
     {
       "home": "GWS",
