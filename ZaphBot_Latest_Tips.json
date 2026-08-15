@@ -3,17 +3,17 @@
   "season": 2026,
   "round": 23,
   "BestTips": "1",
-  "BestTipsBits": "0.731183",
-  "BestMargins": "8",
-  "BestRMSE": "8.000000",
+  "BestTipsBits": "1.546759",
+  "BestMargins": "20",
+  "BestRMSE": "10.198039",
   "tips": [
     {
       "home": "Brisbane Lions",
       "away": "Gold Coast",
       "winner": "Brisbane Lions",
-      "margin": 42,
-      "probability": 0.93,
-      "lineup_state": "extended_squad"
+      "margin": 40,
+      "probability": 0.91,
+      "lineup_state": "final_team"
     },
     {
       "home": "Essendon",
@@ -67,8 +67,8 @@
       "home": "Richmond",
       "away": "St Kilda",
       "winner": "St Kilda",
-      "margin": 33,
-      "probability": 0.84,
+      "margin": 37,
+      "probability": 0.88,
       "lineup_state": "final_team"
     },
     {
