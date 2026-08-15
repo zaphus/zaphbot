@@ -67,9 +67,9 @@
       "home": "Richmond",
       "away": "St Kilda",
       "winner": "St Kilda",
-      "margin": 35,
-      "probability": 0.86,
-      "lineup_state": "extended_squad"
+      "margin": 33,
+      "probability": 0.84,
+      "lineup_state": "final_team"
     },
     {
       "home": "Footscray",
