@@ -3,9 +3,9 @@
   "season": 2026,
   "round": 23,
   "BestTips": "2",
-  "BestTipsBits": "2.979718",
-  "BestMargins": "32",
-  "BestRMSE": "8.631338",
+  "BestTipsBits": "2.971036",
+  "BestMargins": "103",
+  "BestRMSE": "24.694804",
   "tips": [
     {
       "home": "Brisbane Lions",
@@ -43,8 +43,8 @@
       "home": "Hawthorn",
       "away": "Collingwood",
       "winner": "Hawthorn",
-      "margin": 22,
-      "probability": 0.73,
+      "margin": 15,
+      "probability": 0.65,
       "lineup_state": "final_team"
     },
     {
@@ -59,8 +59,8 @@
       "home": "Port Adelaide",
       "away": "Melbourne",
       "winner": "Melbourne",
-      "margin": 12,
-      "probability": 0.62,
+      "margin": 20,
+      "probability": 0.71,
       "lineup_state": "final_team"
     },
     {
