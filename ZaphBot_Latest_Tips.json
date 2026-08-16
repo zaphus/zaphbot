@@ -19,9 +19,9 @@
       "home": "Essendon",
       "away": "Sydney",
       "winner": "Sydney",
-      "margin": 44,
-      "probability": 0.95,
-      "lineup_state": "extended_squad"
+      "margin": 43,
+      "probability": 0.94,
+      "lineup_state": "final_team"
     },
     {
       "home": "Fremantle",
