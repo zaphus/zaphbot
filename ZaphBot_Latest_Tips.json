@@ -35,9 +35,9 @@
       "home": "GWS",
       "away": "West Coast",
       "winner": "GWS",
-      "margin": 38,
-      "probability": 0.89,
-      "lineup_state": "extended_squad"
+      "margin": 39,
+      "probability": 0.9,
+      "lineup_state": "final_team"
     },
     {
       "home": "Hawthorn",
