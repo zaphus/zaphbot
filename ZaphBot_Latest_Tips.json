@@ -51,7 +51,7 @@
       "home": "Melbourne",
       "away": "Footscray",
       "winner": "Melbourne",
-      "margin": 13,
+      "margin": 12,
       "probability": 0.63,
       "lineup_state": "no_lineup"
     },
@@ -59,15 +59,15 @@
       "home": "St Kilda",
       "away": "Gold Coast",
       "winner": "St Kilda",
-      "margin": 23,
-      "probability": 0.74,
-      "lineup_state": "no_lineup"
+      "margin": 25,
+      "probability": 0.76,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Sydney",
       "away": "North Melbourne",
       "winner": "Sydney",
-      "margin": 40,
+      "margin": 41,
       "probability": 0.92,
       "lineup_state": "no_lineup"
     },
@@ -75,7 +75,7 @@
       "home": "West Coast",
       "away": "Hawthorn",
       "winner": "Hawthorn",
-      "margin": 40,
+      "margin": 41,
       "probability": 0.92,
       "lineup_state": "no_lineup"
     }
