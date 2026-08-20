@@ -2,10 +2,10 @@
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
   "round": 24,
-  "BestTips": "N/A",
-  "BestTipsBits": "N/A",
-  "BestMargins": "N/A",
-  "BestRMSE": "N/A",
+  "BestTips": "0",
+  "BestTipsBits": "-0.514573",
+  "BestMargins": "8",
+  "BestRMSE": "8.000000",
   "tips": [
     {
       "home": "Adelaide",
@@ -51,16 +51,16 @@
       "home": "Melbourne",
       "away": "Footscray",
       "winner": "Melbourne",
-      "margin": 25,
-      "probability": 0.75,
+      "margin": 23,
+      "probability": 0.73,
       "lineup_state": "extended_squad"
     },
     {
       "home": "St Kilda",
       "away": "Gold Coast",
       "winner": "St Kilda",
-      "margin": 26,
-      "probability": 0.77,
+      "margin": 15,
+      "probability": 0.65,
       "lineup_state": "final_team"
     },
     {
