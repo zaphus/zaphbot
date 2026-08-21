@@ -35,8 +35,8 @@
       "home": "Essendon",
       "away": "Port Adelaide",
       "winner": "Port Adelaide",
-      "margin": 24,
-      "probability": 0.75,
+      "margin": 26,
+      "probability": 0.77,
       "lineup_state": "extended_squad"
     },
     {
@@ -75,8 +75,8 @@
       "home": "West Coast",
       "away": "Hawthorn",
       "winner": "Hawthorn",
-      "margin": 37,
-      "probability": 0.88,
+      "margin": 36,
+      "probability": 0.87,
       "lineup_state": "extended_squad"
     }
   ]
