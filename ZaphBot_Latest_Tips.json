@@ -19,9 +19,9 @@
       "home": "Collingwood",
       "away": "Brisbane Lions",
       "winner": "Brisbane Lions",
-      "margin": 22,
-      "probability": 0.72,
-      "lineup_state": "extended_squad"
+      "margin": 20,
+      "probability": 0.71,
+      "lineup_state": "final_team"
     },
     {
       "home": "Carlton",
