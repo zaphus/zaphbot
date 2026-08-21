@@ -3,9 +3,9 @@
   "season": 2026,
   "round": 24,
   "BestTips": "0",
-  "BestTipsBits": "-0.514573",
-  "BestMargins": "8",
-  "BestRMSE": "8.000000",
+  "BestTipsBits": "-0.029146",
+  "BestMargins": "51",
+  "BestRMSE": "30.927334",
   "tips": [
     {
       "home": "Adelaide",
@@ -20,7 +20,7 @@
       "away": "Brisbane Lions",
       "winner": "Brisbane Lions",
       "margin": 20,
-      "probability": 0.71,
+      "probability": 0.7,
       "lineup_state": "final_team"
     },
     {
