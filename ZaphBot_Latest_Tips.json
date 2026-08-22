@@ -2,17 +2,17 @@
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
   "round": 24,
-  "BestTips": "1",
-  "BestTipsBits": "-1.050072",
-  "BestMargins": "82",
-  "BestRMSE": "26.804850",
+  "BestTips": "3",
+  "BestTipsBits": "0.340596",
+  "BestMargins": "133",
+  "BestRMSE": "27.346542",
   "tips": [
     {
       "home": "Adelaide",
       "away": "GWS",
       "winner": "Adelaide",
-      "margin": 26,
-      "probability": 0.77,
+      "margin": 18,
+      "probability": 0.69,
       "lineup_state": "final_team"
     },
     {
