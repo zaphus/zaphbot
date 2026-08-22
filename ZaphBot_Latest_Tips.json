@@ -3,9 +3,9 @@
   "season": 2026,
   "round": 24,
   "BestTips": "1",
-  "BestTipsBits": "-0.213571",
+  "BestTipsBits": "-1.050072",
   "BestMargins": "82",
-  "BestRMSE": "30.951575",
+  "BestRMSE": "26.804850",
   "tips": [
     {
       "home": "Adelaide",
@@ -13,7 +13,7 @@
       "winner": "Adelaide",
       "margin": 26,
       "probability": 0.77,
-      "lineup_state": "extended_squad"
+      "lineup_state": "final_team"
     },
     {
       "home": "Collingwood",
@@ -51,8 +51,8 @@
       "home": "Melbourne",
       "away": "Footscray",
       "winner": "Melbourne",
-      "margin": 26,
-      "probability": 0.76,
+      "margin": 21,
+      "probability": 0.72,
       "lineup_state": "final_team"
     },
     {
