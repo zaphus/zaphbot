@@ -11,17 +11,17 @@
       "home": "Melbourne",
       "away": "Carlton",
       "winner": "Melbourne",
-      "margin": 8,
-      "probability": 0.58,
-      "lineup_state": "no_lineup"
+      "margin": 6,
+      "probability": 0.56,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Footscray",
       "away": "Collingwood",
       "winner": "Collingwood",
-      "margin": 9,
-      "probability": 0.59,
-      "lineup_state": "no_lineup"
+      "margin": 7,
+      "probability": 0.57,
+      "lineup_state": "extended_squad"
     }
   ]
 }
