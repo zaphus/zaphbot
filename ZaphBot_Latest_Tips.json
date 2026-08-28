@@ -19,9 +19,9 @@
       "home": "Footscray",
       "away": "Collingwood",
       "winner": "Collingwood",
-      "margin": 7,
-      "probability": 0.57,
-      "lineup_state": "extended_squad"
+      "margin": 2,
+      "probability": 0.52,
+      "lineup_state": "final_team"
     }
   ]
 }
