@@ -2,10 +2,10 @@
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
   "round": 25,
-  "BestTips": "N/A",
-  "BestTipsBits": "N/A",
-  "BestMargins": "N/A",
-  "BestRMSE": "N/A",
+  "BestTips": "1",
+  "BestTipsBits": "-0.217591",
+  "BestMargins": "3",
+  "BestRMSE": "3.000000",
   "tips": [
     {
       "home": "Melbourne",
@@ -19,8 +19,8 @@
       "home": "Footscray",
       "away": "Collingwood",
       "winner": "Collingwood",
-      "margin": 2,
-      "probability": 0.52,
+      "margin": 6,
+      "probability": 0.57,
       "lineup_state": "final_team"
     }
   ]
