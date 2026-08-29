@@ -11,9 +11,9 @@
       "home": "Melbourne",
       "away": "Carlton",
       "winner": "Melbourne",
-      "margin": 6,
-      "probability": 0.56,
-      "lineup_state": "extended_squad"
+      "margin": 9,
+      "probability": 0.59,
+      "lineup_state": "final_team"
     },
     {
       "home": "Footscray",
