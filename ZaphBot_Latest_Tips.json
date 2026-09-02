@@ -11,16 +11,16 @@
       "home": "Fremantle",
       "away": "Hawthorn",
       "winner": "Fremantle",
-      "margin": 23,
-      "probability": 0.74,
-      "lineup_state": "no_lineup"
+      "margin": 18,
+      "probability": 0.69,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Sydney",
       "away": "Brisbane Lions",
       "winner": "Sydney",
-      "margin": 5,
-      "probability": 0.55,
+      "margin": 4,
+      "probability": 0.54,
       "lineup_state": "no_lineup"
     },
     {
