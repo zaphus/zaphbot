@@ -18,26 +18,26 @@
     {
       "home": "Sydney",
       "away": "Brisbane Lions",
-      "winner": "Sydney",
-      "margin": 4,
-      "probability": 0.54,
-      "lineup_state": "no_lineup"
+      "winner": "Brisbane Lions",
+      "margin": 8,
+      "probability": 0.58,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Geelong",
       "away": "Carlton",
       "winner": "Geelong",
-      "margin": 18,
-      "probability": 0.69,
-      "lineup_state": "no_lineup"
+      "margin": 20,
+      "probability": 0.71,
+      "lineup_state": "extended_squad"
     },
     {
       "home": "Adelaide",
       "away": "Footscray",
       "winner": "Adelaide",
       "margin": 27,
-      "probability": 0.77,
-      "lineup_state": "no_lineup"
+      "probability": 0.78,
+      "lineup_state": "extended_squad"
     }
   ]
 }
