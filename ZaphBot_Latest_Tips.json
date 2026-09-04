@@ -2,10 +2,10 @@
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
   "round": 26,
-  "BestTips": "0",
-  "BestTipsBits": "-0.434403",
-  "BestMargins": "20",
-  "BestRMSE": "20.000000",
+  "BestTips": "1",
+  "BestTipsBits": "0.131194",
+  "BestMargins": "30",
+  "BestRMSE": "15.811388",
   "tips": [
     {
       "home": "Fremantle",
@@ -27,8 +27,8 @@
       "home": "Geelong",
       "away": "Carlton",
       "winner": "Geelong",
-      "margin": 20,
-      "probability": 0.71,
+      "margin": 23,
+      "probability": 0.74,
       "lineup_state": "final_team"
     },
     {
