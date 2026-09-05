@@ -1,43 +1,27 @@
 {
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
-  "round": 26,
-  "BestTips": "2",
-  "BestTipsBits": "0.268698",
-  "BestMargins": "78",
-  "BestRMSE": "30.572319",
+  "round": 27,
+  "BestTips": "N/A",
+  "BestTipsBits": "N/A",
+  "BestMargins": "N/A",
+  "BestRMSE": "N/A",
   "tips": [
     {
       "home": "Fremantle",
-      "away": "Hawthorn",
+      "away": "Geelong",
       "winner": "Fremantle",
-      "margin": 12,
-      "probability": 0.63,
-      "lineup_state": "final_team"
+      "margin": 21,
+      "probability": 0.71,
+      "lineup_state": "no_lineup"
     },
     {
-      "home": "Sydney",
-      "away": "Brisbane Lions",
-      "winner": "Sydney",
-      "margin": 5,
-      "probability": 0.55,
-      "lineup_state": "final_team"
-    },
-    {
-      "home": "Geelong",
-      "away": "Carlton",
-      "winner": "Geelong",
-      "margin": 23,
-      "probability": 0.74,
-      "lineup_state": "final_team"
-    },
-    {
-      "home": "Adelaide",
-      "away": "Footscray",
-      "winner": "Adelaide",
-      "margin": 24,
-      "probability": 0.75,
-      "lineup_state": "final_team"
+      "home": "Brisbane Lions",
+      "away": "Adelaide",
+      "winner": "Brisbane Lions",
+      "margin": 22,
+      "probability": 0.72,
+      "lineup_state": "no_lineup"
     }
   ]
 }
