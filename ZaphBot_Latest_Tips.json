@@ -2,10 +2,10 @@
   "botname": "ZaphBot2-TipsBits",
   "season": 2026,
   "round": 28,
-  "BestTips": "N/A",
-  "BestTipsBits": "N/A",
-  "BestMargins": "N/A",
-  "BestRMSE": "N/A",
+  "BestTips": "0",
+  "BestTipsBits": "0.056584",
+  "BestMargins": "11",
+  "BestRMSE": "11.000000",
   "tips": [
     {
       "home": "Hawthorn",
@@ -18,9 +18,9 @@
     {
       "home": "Sydney",
       "away": "Fremantle",
-      "winner": "Sydney",
+      "winner": "Fremantle",
       "margin": 1,
-      "probability": 0.51,
+      "probability": 0.52,
       "lineup_state": "final_team"
     }
   ]
